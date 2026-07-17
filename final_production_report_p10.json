@@ -42,7 +42,7 @@
  },
  "release_integrity": {
   "build_date": "2026-07-17",
-  "git_commit": null,
+  "git_commit": "9854352cccdf8bcc55066eb6bac4ce94060fdce7",
   "git_tag": "v1.0.0",
   "sha256": {
    "CHANGELOG.md": "9c7d9755ad9f6aceb77c7e7f143dbb0202eba18385c9c37b20f9d5f2083b5eed",
