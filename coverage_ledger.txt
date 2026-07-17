@@ -1,0 +1,28 @@
+Coverage ledger after 7.2-7.4: {'covered': 22, 'draft-only': 4}
+
+U+10F70 ALEPH            covered            prod=1 draft=0  updated_050 resolved -> alephuyg.init
+U+10F71 BETH             covered            prod=4 draft=0  updated_039 shortlist (narrowed)
+U+10F72 GIMEL-HETH       covered            prod=4 draft=0  updated_051 shortlist (unchanged)
+U+10F73 WAW              covered            prod=1 draft=0
+U+10F74 ZAYIN            covered            prod=1 draft=0
+U+10F75 FINAL HETH       covered            prod=1 draft=0  updated_039 shortlist (narrowed)
+U+10F76 YODH             covered            prod=1 draft=0  updated_049 shortlist (narrowed)
+U+10F77 KAPH             covered            prod=3 draft=1  updated_039 shortlist (narrowed)
+U+10F78 LAMEDH           covered            prod=2 draft=2
+U+10F79 MEM              covered            prod=2 draft=1
+U+10F7A NUN              covered            prod=2 draft=2
+U+10F7B SAMEKH           covered            prod=2 draft=2
+U+10F7C PE               covered            prod=1 draft=0
+U+10F7D SADHE            covered            prod=1 draft=0  updated_039 shortlist (narrowed)
+U+10F7E RESH             covered            prod=1 draft=0  updated_049 shortlist (narrowed)
+U+10F7F SHIN             covered            prod=4 draft=0
+U+10F80 TAW              covered            prod=1 draft=0  updated_039 shortlist (narrowed)
+U+10F81 LESH             covered            prod=2 draft=0  updated_046 resolved -> leshuyg.fina
+U+10F82 DOT ABOVE        covered            prod=1 draft=0
+U+10F83 DOT BELOW        covered            prod=1 draft=0
+U+10F84 TWO DOTS ABOVE   draft-only         prod=0 draft=1
+U+10F85 TWO DOTS BELOW   draft-only         prod=0 draft=1
+U+10F86 BAR              covered            prod=1 draft=0
+U+10F87 TWO BARS         draft-only         prod=0 draft=1
+U+10F88 TWO DOTS         covered            prod=1 draft=0
+U+10F89 FOUR DOTS        draft-only         prod=0 draft=1

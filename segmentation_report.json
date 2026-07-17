@@ -1,0 +1,68 @@
+{
+ "per_page": {
+  "36": {
+   "raw": 3035,
+   "dust": 2709,
+   "edge": 68,
+   "artifact": 0,
+   "latin": 83,
+   "ring": 2,
+   "hatch": 12,
+   "kept": 212
+  },
+  "38": {
+   "raw": 3849,
+   "dust": 3265,
+   "edge": 83,
+   "artifact": 1,
+   "latin": 383,
+   "ring": 2,
+   "hatch": 0,
+   "kept": 169
+  },
+  "40": {
+   "raw": 3694,
+   "dust": 3415,
+   "edge": 86,
+   "artifact": 0,
+   "latin": 22,
+   "ring": 0,
+   "hatch": 0,
+   "kept": 257
+  },
+  "42": {
+   "raw": 5308,
+   "dust": 5038,
+   "edge": 78,
+   "artifact": 1,
+   "latin": 33,
+   "ring": 2,
+   "hatch": 0,
+   "kept": 206
+  },
+  "44": {
+   "raw": 3949,
+   "dust": 3677,
+   "edge": 85,
+   "artifact": 0,
+   "latin": 22,
+   "ring": 0,
+   "hatch": 12,
+   "kept": 213
+  }
+ },
+ "totals": {
+  "raw": 19835,
+  "dust": 18104,
+  "edge": 400,
+  "artifact": 2,
+  "latin": 543,
+  "ring": 6,
+  "hatch": 24,
+  "kept": 1057
+ },
+ "median_width": 296.0,
+ "estimated_merged": 134,
+ "estimated_split_fragments": 365,
+ "low_confidence_small": 328
+}

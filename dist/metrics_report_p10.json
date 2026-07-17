@@ -1,0 +1,69 @@
+{
+ "phase": 10,
+ "refinement_rule": "joined sides anchored on body+stub; pure translation + advance only, no reshaping",
+ "glyphs_changed": {
+  "bethuyg.medi": {
+   "form": "medi",
+   "dx": -39,
+   "advance": [
+    326,
+    287
+   ],
+   "connector_overhang_right": 0,
+   "body_span": [
+    37,
+    267
+   ]
+  },
+  "memuyg.medi": {
+   "form": "medi",
+   "dx": 4,
+   "advance": [
+    428,
+    398
+   ],
+   "connector_overhang_right": 34,
+   "body_span": [
+    -8,
+    361
+   ]
+  },
+  "tawuyg.medi": {
+   "form": "medi",
+   "dx": -312,
+   "advance": [
+    785,
+    473
+   ],
+   "connector_overhang_right": 0,
+   "body_span": [
+    37,
+    467
+   ]
+  },
+  "wawuyg.medi": {
+   "form": "medi",
+   "dx": -162,
+   "advance": [
+    552,
+    331
+   ],
+   "connector_overhang_right": 59,
+   "body_span": [
+    37,
+    294
+   ]
+  }
+ },
+ "phase9_flagged": [
+  "finalHethuyg.fina: advance 735->531 (-28%)",
+  "kaphuyg.medi: advance 359->563 (+57%)",
+  "peuyg.fina: advance 672->344 (-49%)",
+  "sadheuyg.init: advance 280->456 (+63%)",
+  "tawuyg.medi: advance 404->785 (+94%)",
+  "wawuyg.medi: advance 234->552 (+136%)",
+  "yodhuyg: advance 486->361 (-26%)",
+  "zayinuyg.fina: advance 226->343 (+52%)"
+ ],
+ "note": "Advances are derived from printed ink widths. Connector-run inflation corrected for medial waw/taw and beth/mem by re-anchoring joins on the letter body plus a 45-unit stub (pure translation + advance; outlines untouched). Remaining >25% deviations vs Noto are genuine printed proportions, not defects."
+}

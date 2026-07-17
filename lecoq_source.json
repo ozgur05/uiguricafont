@@ -1,0 +1,36 @@
+{
+ "schema": "uigurica-source-registration/1",
+ "source": "A. von Le Coq (1912), Tuerkische Manichaica aus Chotscho I (APAW)",
+ "file": "C:/Users/KutadguBilim/Font/T<u-umlaut>rkische manichaica aus Chotscho-i.pdf (71 pages, image-only scans, no text layer; filename contains a combining diaeresis - open via glob T*rkische*.pdf)",
+ "type_identity": {
+  "verdict": "SAME Old Uyghur metal type as Mueller Uigurica I (Berlin academy typeface)",
+  "verified": "visual inspection of p.5 at 110 dpi: identical cursive letterforms, baseline connector, teeth, loops; edition text is Uyghur type, NOT Manichaean",
+  "exclusions": "facsimile plates on pp. 63-69 are Manichaean-script MANUSCRIPTS - never harvest from plates; Manichaean is a different Unicode block (U+10AC0..)"
+ },
+ "structure": {
+  "title_preface": "pp. 1-3",
+  "text_editions": "pp. 4-37: Uyghur type lines, one per numbered line, with Latin transliteration and German translation beside/below - every page a harvest candidate",
+  "anmerkungen": "pp. 38-45 (German only, no type)",
+  "woerterliste_index": "pp. 46-~57: alphabetical word index; EACH ENTRY = isolated Uyghur-type headword + transliteration + page^line references (e.g. amraq 25^33). Headwords are clean whitespace-bounded attestations in their own right.",
+  "nachweis_etc": "pp. ~57-62 (German)",
+  "plates": "pp. 63-69 (Manichaean manuscripts - EXCLUDED)"
+ },
+ "role_under_sources_contract": "additional attestation source for the SAME printed type; letterform evidence only; identity still decided exclusively by L2/20-191; Mueller remains primary design master - Le Coq attestations join the same consensus stacks, provenance-tagged 'lecoq1912'",
+ "priority_targets": {
+  "letters_missing_or_pending": ["bethuyg (BETH)", "gimelHethuyg (GIMEL-HETH)", "kaphuyg (KAPH)", "memuyg (MEM)"],
+  "index_sections_to_sweep": "headwords whose transliteration contains the target sounds; index observed to mark vowels with diaeresis (two-dot diacritics in type)",
+  "marks": ["dotaboveuyg/dotbelowuyg (1 more attestation each flips draft->production)", "twodotsaboveuyg", "twodotsbelowuyg"],
+  "punctuation": {
+   "two_dots": "'..' separator CONFIRMED in type on p.5 lines 4, 8, 11 - first attested source for PunctuationTwoDots (U+10F88)",
+   "others": "bar/two-bars/four-dots: sweep text pages for section marks"
+  }
+ },
+ "harvest_plan_phase_7_2b": [
+  "1. render text pp. 4-37 and index pp. 46-57 at 1200 dpi lossless (Phase 2 parameters, no enhancement)",
+  "2. segment index headwords (left column of each index entry) - isolated words, no connector-boundary problem",
+  "3. template-match targets (7.2 machinery: NCC, 3 scales, right-joining position rule) against BOTH index headwords and text lines",
+  "4. punctuation: match '..'/bars against text pages; they stand clear of the baseline connector",
+  "5. human review sheet -> harvest_decisions round 2 -> regenerate masters (7.4 machinery) with provenance 'lecoq1912'",
+  "6. consensus stacks may MIX Mueller-1908 and LeCoq-1912 attestations (same type) but the report must record the mix per master"
+ ]
+}

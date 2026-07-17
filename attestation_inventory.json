@@ -1,0 +1,644 @@
+{
+ "meta": {
+  "requirements": {
+   "production_min": 3,
+   "production_target": 4,
+   "draft_max_members": 2,
+   "rules": [
+    "clusters with < production_min members produce DRAFT masters only, flagged draft=true in outline_report",
+    "attestations must come from >= 2 distinct words when cluster provenance allows",
+    "for right-joining letters, only pieces whose parent-word position is final or isolated count as attestations"
+   ]
+  },
+  "clusters": {
+   "production": 14,
+   "draft": 4,
+   "invalid": 1
+  }
+ },
+ "clusters": [
+  {
+   "cluster": "updated_010",
+   "glyph": null,
+   "ambiguity_group": [
+    "memuyg.medi_leshuyg.medi"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 4,
+   "distinct_parent_words": 4,
+   "pages": [
+    38,
+    40,
+    44
+   ],
+   "position_distribution": {
+    "initial": 3,
+    "isolated": 1
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_010_ambiguous_updated_010.glif",
+   "master_quality": 0.623
+  },
+  {
+   "cluster": "updated_030",
+   "glyph": null,
+   "ambiguity_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 15,
+   "distinct_parent_words": 15,
+   "pages": [
+    36,
+    40,
+    44
+   ],
+   "position_distribution": {
+    "medial": 6,
+    "final": 2,
+    "initial": 4,
+    "isolated": 3
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_030_ambiguous_updated_030.glif",
+   "master_quality": 0.606
+  },
+  {
+   "cluster": "updated_039",
+   "glyph": null,
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 6,
+   "distinct_parent_words": 6,
+   "pages": [
+    36,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "final": 5,
+    "isolated": 1
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_039_ambiguous_updated_039.glif",
+   "master_quality": 0.612
+  },
+  {
+   "cluster": "updated_040",
+   "glyph": "wawuyg.medi",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 5,
+   "distinct_parent_words": 5,
+   "pages": [
+    38,
+    40
+   ],
+   "position_distribution": {
+    "final": 1,
+    "isolated": 4
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_040_wawuyg_medi.glif",
+   "master_quality": 0.676
+  },
+  {
+   "cluster": "updated_041",
+   "glyph": "tawuyg.medi",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 11,
+   "distinct_parent_words": 11,
+   "pages": [
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "final": 9,
+    "medial": 1,
+    "isolated": 1
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_041_tawuyg_medi.glif",
+   "master_quality": 0.622
+  },
+  {
+   "cluster": "updated_046",
+   "glyph": null,
+   "ambiguity_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 8,
+   "distinct_parent_words": 8,
+   "pages": [
+    38,
+    40,
+    42
+   ],
+   "position_distribution": {
+    "final": 8
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_046_ambiguous_updated_046.glif",
+   "master_quality": 0.609
+  },
+  {
+   "cluster": "updated_047",
+   "glyph": null,
+   "ambiguity_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 6,
+   "distinct_parent_words": 6,
+   "pages": [
+    36,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "initial": 1,
+    "final": 5
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_047_ambiguous_updated_047.glif",
+   "master_quality": 0.64
+  },
+  {
+   "cluster": "updated_049",
+   "glyph": null,
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 76,
+   "distinct_parent_words": 76,
+   "pages": [
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "final": 75,
+    "medial": 1
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_049_ambiguous_updated_049.glif",
+   "master_quality": 0.591
+  },
+  {
+   "cluster": "updated_050",
+   "glyph": null,
+   "ambiguity_group": [
+    "alephuyg.init"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 20,
+   "distinct_parent_words": 20,
+   "pages": [
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "initial": 19,
+    "medial": 1
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_050_ambiguous_updated_050.glif",
+   "master_quality": 0.604
+  },
+  {
+   "cluster": "updated_051",
+   "glyph": null,
+   "ambiguity_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 66,
+   "distinct_parent_words": 54,
+   "pages": [
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "medial": 39,
+    "final": 10,
+    "initial": 17
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [],
+   "existing_master": "masters/glif/updated_051_ambiguous_updated_051.glif",
+   "master_quality": 0.542
+  },
+  {
+   "cluster": "updated_052",
+   "glyph": "zayinuyg.fina",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 14,
+   "distinct_parent_words": 14,
+   "pages": [
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "position_distribution": {
+    "final": 13,
+    "medial": 1
+   },
+   "right_joining": true,
+   "status": "invalid-attestations",
+   "meets_target": true,
+   "reasons": [
+    "right-joining letter with interior attestations: {'medial': 1}"
+   ],
+   "existing_master": "masters/glif/updated_052_zayinuyg_fina.glif",
+   "master_quality": 0.686
+  },
+  {
+   "cluster": "updated_053",
+   "glyph": "zayinuyg.fina",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 1,
+   "distinct_parent_words": 1,
+   "pages": [
+    40
+   ],
+   "position_distribution": {
+    "final": 1
+   },
+   "right_joining": true,
+   "status": "draft",
+   "meets_target": false,
+   "reasons": [
+    "only 1 attestation(s), need >= 3"
+   ],
+   "existing_master": "masters/glif/updated_053_zayinuyg_fina.glif",
+   "master_quality": 0.821
+  },
+  {
+   "cluster": "updated_054",
+   "glyph": "sadheuyg.init",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 1,
+   "distinct_parent_words": 1,
+   "pages": [
+    36
+   ],
+   "position_distribution": {
+    "initial": 1
+   },
+   "right_joining": false,
+   "status": "draft",
+   "meets_target": false,
+   "reasons": [
+    "only 1 attestation(s), need >= 3"
+   ],
+   "existing_master": "masters/glif/updated_054_sadheuyg_init.glif",
+   "master_quality": 0.79
+  },
+  {
+   "cluster": "updated_060",
+   "glyph": null,
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 8,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 8
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [
+    "all attestations from a single word (?)"
+   ],
+   "existing_master": "masters/glif/updated_060_ambiguous_updated_060.glif",
+   "master_quality": 0.657
+  },
+  {
+   "cluster": "updated_061",
+   "glyph": null,
+   "ambiguity_group": [
+    "memuyg.medi"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 5,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 5
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [
+    "all attestations from a single word (?)"
+   ],
+   "existing_master": "masters/glif/updated_061_ambiguous_updated_061.glif",
+   "master_quality": 0.626
+  },
+  {
+   "cluster": "updated_062",
+   "glyph": "peuyg.fina",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 4,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 4
+   },
+   "right_joining": false,
+   "status": "production",
+   "meets_target": true,
+   "reasons": [
+    "all attestations from a single word (?)"
+   ],
+   "existing_master": "masters/glif/updated_062_peuyg_fina.glif",
+   "master_quality": 0.586
+  },
+  {
+   "cluster": "updated_063",
+   "glyph": "zayinuyg.fina",
+   "ambiguity_group": null,
+   "validation": "corrected",
+   "attestations": 3,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 3
+   },
+   "right_joining": true,
+   "status": "production",
+   "meets_target": false,
+   "reasons": [
+    "all attestations from a single word (?)"
+   ],
+   "existing_master": "masters/glif/updated_063_zayinuyg_fina.glif",
+   "master_quality": 0.744
+  },
+  {
+   "cluster": "updated_064",
+   "glyph": null,
+   "ambiguity_group": [
+    "alephuyg.init"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 1,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 1
+   },
+   "right_joining": false,
+   "status": "draft",
+   "meets_target": false,
+   "reasons": [
+    "only 1 attestation(s), need >= 3"
+   ],
+   "existing_master": "masters/glif/updated_064_ambiguous_updated_064.glif",
+   "master_quality": 0.792
+  },
+  {
+   "cluster": "updated_067",
+   "glyph": null,
+   "ambiguity_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "validation": "confirmed_ambiguous",
+   "attestations": 1,
+   "distinct_parent_words": 0,
+   "pages": [],
+   "position_distribution": {
+    "whole-segment": 1
+   },
+   "right_joining": false,
+   "status": "draft",
+   "meets_target": false,
+   "reasons": [
+    "only 1 attestation(s), need >= 3"
+   ],
+   "existing_master": "masters/glif/updated_067_ambiguous_updated_067.glif",
+   "master_quality": 0.863
+  }
+ ],
+ "codepoint_ledger": [
+  {
+   "codepoint": "U+10F70",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F71",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F72",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F73",
+   "state": "direct",
+   "best_cluster": "updated_040",
+   "best_status": "production",
+   "action": null
+  },
+  {
+   "codepoint": "U+10F74",
+   "state": "direct",
+   "best_cluster": "updated_052",
+   "best_status": "invalid-attestations",
+   "action": "harvest more attestations (7.2)"
+  },
+  {
+   "codepoint": "U+10F75",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F76",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F77",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F78",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F79",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F7A",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F7B",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F7C",
+   "state": "direct",
+   "best_cluster": "updated_062",
+   "best_status": "production",
+   "action": null
+  },
+  {
+   "codepoint": "U+10F7D",
+   "state": "direct",
+   "best_cluster": "updated_054",
+   "best_status": "draft",
+   "action": "harvest more attestations (7.2)"
+  },
+  {
+   "codepoint": "U+10F7E",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F7F",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F80",
+   "state": "direct",
+   "best_cluster": "updated_041",
+   "best_status": "production",
+   "action": null
+  },
+  {
+   "codepoint": "U+10F81",
+   "state": "ambiguous_only",
+   "action": "resolve group via word context (7.3)"
+  },
+  {
+   "codepoint": "U+10F82",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F83",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F84",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F85",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F86",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F87",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F88",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  },
+  {
+   "codepoint": "U+10F89",
+   "state": "missing",
+   "action": "targeted re-harvest from word clusters (7.2)"
+  }
+ ]
+}

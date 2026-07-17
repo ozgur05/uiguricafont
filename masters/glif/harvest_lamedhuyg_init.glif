@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamedhuyg.init" format="2">
+ <advance width="406"/>
+ <outline>
+  <contour>
+   <point x="2.1" y="13.2" type="curve"/>
+   <point x="0.0" y="17.3"/>
+   <point x="2.3" y="87.6"/>
+   <point x="4.6" y="90.5" type="curve"/>
+   <point x="9.0" y="94.0"/>
+   <point x="25.7" y="81.5"/>
+   <point x="31.8" y="81.3" type="curve"/>
+   <point x="43.5" y="81.1"/>
+   <point x="52.9" y="86.0"/>
+   <point x="63.4" y="86.7" type="curve"/>
+   <point x="68.7" y="87.1"/>
+   <point x="73.1" y="83.1"/>
+   <point x="78.4" y="83.5" type="curve"/>
+   <point x="97.3" y="85.2"/>
+   <point x="116.4" y="89.1"/>
+   <point x="135.4" y="89.6" type="curve"/>
+   <point x="156.6" y="90.1"/>
+   <point x="173.0" y="81.3"/>
+   <point x="192.1" y="82.2" type="curve"/>
+   <point x="195.9" y="82.4"/>
+   <point x="214.1" y="87.3"/>
+   <point x="216.1" y="89.9" type="curve"/>
+   <point x="226.6" y="106.1"/>
+   <point x="191.4" y="114.3"/>
+   <point x="183.0" y="123.2" type="curve"/>
+   <point x="165.6" y="141.6"/>
+   <point x="162.5" y="172.4"/>
+   <point x="154.7" y="195.3" type="curve"/>
+   <point x="152.2" y="202.5"/>
+   <point x="146.6" y="207.1"/>
+   <point x="145.2" y="215.2" type="curve"/>
+   <point x="141.9" y="235.0"/>
+   <point x="131.0" y="259.3"/>
+   <point x="132.0" y="279.0" type="curve"/>
+   <point x="133.3" y="305.1"/>
+   <point x="145.4" y="346.8"/>
+   <point x="141.4" y="371.8" type="curve"/>
+   <point x="140.6" y="376.9"/>
+   <point x="135.3" y="378.1"/>
+   <point x="131.1" y="379.1" type="curve"/>
+   <point x="124.6" y="380.5"/>
+   <point x="116.1" y="378.7"/>
+   <point x="111.4" y="373.6" type="curve"/>
+   <point x="98.2" y="359.2"/>
+   <point x="93.6" y="334.5"/>
+   <point x="85.8" y="317.3" type="curve"/>
+   <point x="73.8" y="291.2"/>
+   <point x="57.4" y="268.2"/>
+   <point x="49.7" y="239.8" type="curve"/>
+   <point x="46.5" y="227.7"/>
+   <point x="51.4" y="214.1"/>
+   <point x="45.7" y="202.5" type="curve"/>
+   <point x="42.9" y="196.8"/>
+   <point x="34.9" y="189.0"/>
+   <point x="28.4" y="189.0" type="curve"/>
+   <point x="11.9" y="190.3"/>
+   <point x="14.6" y="211.2"/>
+   <point x="15.6" y="221.5" type="curve"/>
+   <point x="18.7" y="253.7"/>
+   <point x="25.7" y="285.9"/>
+   <point x="38.9" y="316.2" type="curve"/>
+   <point x="41.5" y="321.9"/>
+   <point x="47.2" y="325.8"/>
+   <point x="49.6" y="331.7" type="curve"/>
+   <point x="52.1" y="338.1"/>
+   <point x="50.8" y="345.0"/>
+   <point x="54.0" y="351.3" type="curve"/>
+   <point x="59.6" y="362.8"/>
+   <point x="69.1" y="371.6"/>
+   <point x="74.8" y="382.9" type="curve"/>
+   <point x="84.0" y="401.4"/>
+   <point x="91.9" y="422.6"/>
+   <point x="103.5" y="440.5" type="curve"/>
+   <point x="109.3" y="449.5"/>
+   <point x="119.1" y="455.2"/>
+   <point x="124.8" y="464.0" type="curve"/>
+   <point x="135.0" y="479.9"/>
+   <point x="146.6" y="505.0"/>
+   <point x="162.9" y="516.5" type="curve"/>
+   <point x="175.3" y="525.3"/>
+   <point x="188.5" y="524.3"/>
+   <point x="203.1" y="524.3" type="curve"/>
+   <point x="209.5" y="524.3"/>
+   <point x="220.3" y="526.3"/>
+   <point x="225.3" y="521.4" type="curve"/>
+   <point x="230.0" y="514.8"/>
+   <point x="211.7" y="468.9"/>
+   <point x="208.8" y="459.7" type="curve"/>
+   <point x="203.3" y="441.6"/>
+   <point x="204.6" y="354.4"/>
+   <point x="208.4" y="334.1" type="curve"/>
+   <point x="209.5" y="328.7"/>
+   <point x="215.5" y="326.9"/>
+   <point x="216.2" y="321.4" type="curve"/>
+   <point x="217.4" y="312.3"/>
+   <point x="214.3" y="302.3"/>
+   <point x="217.8" y="293.3" type="curve"/>
+   <point x="219.6" y="288.8"/>
+   <point x="224.5" y="286.7"/>
+   <point x="226.4" y="282.3" type="curve"/>
+   <point x="231.8" y="269.9"/>
+   <point x="232.2" y="255.1"/>
+   <point x="237.7" y="242.2" type="curve"/>
+   <point x="246.3" y="222.0"/>
+   <point x="263.8" y="188.1"/>
+   <point x="278.0" y="171.2" type="curve"/>
+   <point x="282.7" y="165.5"/>
+   <point x="290.6" y="162.5"/>
+   <point x="295.0" y="156.5" type="curve"/>
+   <point x="298.0" y="152.4"/>
+   <point x="296.9" y="146.8"/>
+   <point x="299.8" y="142.7" type="curve"/>
+   <point x="309.1" y="129.2"/>
+   <point x="328.8" y="131.6"/>
+   <point x="335.9" y="116.6" type="curve"/>
+   <point x="345.9" y="95.6"/>
+   <point x="332.6" y="77.8"/>
+   <point x="333.7" y="62.1" type="curve"/>
+   <point x="334.8" y="46.8"/>
+   <point x="345.2" y="28.5"/>
+   <point x="337.8" y="12.8" type="curve"/>
+   <point x="334.9" y="7.6"/>
+   <point x="302.5" y="2.4"/>
+   <point x="296.1" y="3.0" type="curve"/>
+   <point x="291.2" y="3.4"/>
+   <point x="288.4" y="8.5"/>
+   <point x="283.1" y="7.6" type="curve"/>
+   <point x="277.0" y="6.6"/>
+   <point x="274.5" y="0.5"/>
+   <point x="267.5" y="0.3" type="curve"/>
+   <point x="257.8" y="0.0"/>
+   <point x="252.3" y="8.4"/>
+   <point x="243.5" y="8.4" type="curve"/>
+   <point x="228.2" y="8.4"/>
+   <point x="212.1" y="2.7"/>
+   <point x="197.7" y="2.7" type="curve"/>
+   <point x="192.6" y="2.7"/>
+   <point x="189.9" y="8.3"/>
+   <point x="184.6" y="8.4" type="curve"/>
+   <point x="171.7" y="8.5"/>
+   <point x="156.5" y="2.8"/>
+   <point x="147.4" y="2.7" type="curve"/>
+   <point x="137.2" y="2.6"/>
+   <point x="126.4" y="8.5"/>
+   <point x="115.8" y="8.9" type="curve"/>
+   <point x="106.9" y="9.2"/>
+   <point x="102.0" y="3.0"/>
+   <point x="94.9" y="2.6" type="curve"/>
+   <point x="88.3" y="2.3"/>
+   <point x="3.7" y="10.8"/>
+  </contour>
+ </outline>
+</glyph>

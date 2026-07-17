@@ -1,0 +1,74 @@
+{
+ "tables": {
+  "present": [
+   "GDEF",
+   "GPOS",
+   "GSUB",
+   "OS/2",
+   "cmap",
+   "cvt ",
+   "fpgm",
+   "gasp",
+   "glyf",
+   "head",
+   "hhea",
+   "hmtx",
+   "loca",
+   "maxp",
+   "name",
+   "post",
+   "prep"
+  ],
+  "numGlyphs": {
+   "new": 428,
+   "old": 428
+  },
+  "cmap_entries": 352,
+  "cmap_identical_to_phase1": true,
+  "composites": 159,
+  "empty_glyphs": 5,
+  "GSUB": {
+   "lookups": 18,
+   "referenced_glyphs": 125,
+   "unknown_refs": []
+  },
+  "GPOS": {
+   "lookups": 10,
+   "referenced_glyphs": 289,
+   "unknown_refs": []
+  },
+  "GDEF": {
+   "lookups": 0,
+   "referenced_glyphs": 277,
+   "unknown_refs": []
+  },
+  "glyphs_not_directly_cmapped": {
+   "new": 76,
+   "old": 76,
+   "same_set": true
+  },
+  "name_identical": true,
+  "post_identical": true,
+  "os2_identical": true
+ },
+ "issues": [],
+ "outline_summary": {
+  "glyphs_checked": 39,
+  "pass": 27,
+  "warn": 12,
+  "warn_glyphs": [
+   "PunctuationTwoDots",
+   "bethuyg",
+   "gimelHethuyg.medi",
+   "kaphuyg.fina",
+   "kaphuyg.medi",
+   "lamedhuyg.medi",
+   "leshuyg.fina",
+   "nunuyg.init",
+   "nunuyg.medi",
+   "sadheuyg.init",
+   "shinuyg",
+   "shinuyg.fina"
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+Phase 4.5 refinement: 36 -> 29 clusters, 6 quarantined
+
+ACTIONS (19):
+  OUTLIER glyph000609.png left cluster_028 (d=0.235 > thr=0.220)
+  OUTLIER glyph000762.png left cluster_028 (d=0.229 > thr=0.220)
+  OUTLIER glyph000587.png left cluster_029 (d=0.249 > thr=0.220)
+  OUTLIER glyph000588.png left cluster_029 (d=0.256 > thr=0.220)
+  OUTLIER glyph000506.png left cluster_005 (d=0.231 > thr=0.220)
+  OUTLIER glyph000591.png left cluster_003 (d=0.232 > thr=0.220)
+  QUARANTINE glyph000609.png (best d=0.199)
+  QUARANTINE glyph000762.png (best d=0.229)
+  QUARANTINE glyph000587.png (best d=0.249)
+  QUARANTINE glyph000588.png (best d=0.256)
+  QUARANTINE glyph000506.png (best d=0.230)
+  QUARANTINE glyph000591.png (best d=0.232)
+  MERGE cluster_008 into cluster_007 (medoid d=0.056, merged intra=0.074)
+  MERGE cluster_006 into cluster_007 (medoid d=0.110, merged intra=0.081)
+  MERGE cluster_005 into cluster_007 (medoid d=0.128, merged intra=0.086)
+  MERGE cluster_021 into cluster_023 (medoid d=0.097, merged intra=0.087)
+  MERGE cluster_022 into cluster_023 (medoid d=0.139, merged intra=0.096)
+  MERGE cluster_014 into cluster_013 (medoid d=0.106, merged intra=0.115)
+  MERGE cluster_015 into cluster_016 (medoid d=0.136, merged intra=0.125)
+
+cluster         size   intra     max  medoid        from
+refined_000      329  0.0864  0.2626  glyph000045.png  cluster_007,cluster_008,cluster_006,cluster_005
+refined_001      318  0.0615  0.1863  glyph000267.png  cluster_028
+refined_002       76  0.0963  0.3046  glyph000418.png  cluster_023,cluster_021,cluster_022
+refined_003       60  0.0377  0.2051  glyph000044.png  cluster_001
+refined_004       45  0.0731  0.1564  glyph000770.png  cluster_004
+refined_005       43  0.0459  0.1719  glyph000607.png  cluster_000
+refined_006       34  0.0561  0.2052  glyph000988.png  cluster_029
+refined_007       33  0.1146  0.2655  glyph000270.png  cluster_013,cluster_014
+refined_008       14  0.0603  0.1491  glyph000753.png  cluster_012
+refined_009       13  0.0605  0.2024  glyph000798.png  cluster_010
+refined_010       13  0.0808  0.1499  glyph000352.png  cluster_020
+refined_011       13  0.1249  0.2546  glyph000347.png  cluster_016,cluster_015
+refined_012        8   0.091  0.2352  glyph000788.png  cluster_026
+refined_013        8  0.1156  0.2615  glyph001009.png  cluster_031
+refined_014        7  0.0624   0.195  glyph000107.png  cluster_017
+refined_015        6  0.0549  0.0772  glyph000445.png  cluster_003
+refined_016        5   0.085   0.232  glyph000317.png  cluster_033
+refined_017        4  0.0484   0.095  glyph000791.png  cluster_025
+refined_018        4  0.0312  0.1079  glyph000630.png  cluster_034
+refined_019        3  0.0435  0.1144  glyph000509.png  cluster_009
+refined_020        3  0.0448   0.121  glyph000763.png  cluster_019
+refined_021        3  0.0637  0.1651  glyph000637.png  cluster_035
+refined_022        2  0.0249  0.0499  glyph000235.png  cluster_002
+refined_023        2  0.0905  0.1811  glyph000140.png  cluster_011
+refined_024        1     0.0     0.0  glyph000213.png  cluster_018
+refined_025        1    -0.0    -0.0  glyph000392.png  cluster_024
+refined_026        1     0.0     0.0  glyph000446.png  cluster_027
+refined_027        1     0.0     0.0  glyph000453.png  cluster_030
+refined_028        1     0.0     0.0  glyph000728.png  cluster_032
+
+VALIDATION METRICS (identical feature space, exact full silhouette):
+  Phase 4  : 36 clusters | silhouette=0.4516 over 1052 pts | min inter-medoid=0.0560 | worst intra-mean=0.1156
+  Phase 4.5: 29 clusters | silhouette=0.4820 over 1046 pts | min inter-medoid=0.1642 | worst intra-mean=0.1249
+  quarantined (excluded from refined partition): 6

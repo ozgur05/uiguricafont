@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "phase": 9,
+  "font": "build/Uigurica-Regular.ttf",
+  "validation_only": true,
+  "date": "2026-07-17"
+ },
+ "areas": {
+  "1_opentype_tables": {
+   "issues": [],
+   "verdict": "PASS"
+  },
+  "2_outline_quality": {
+   "pass": 27,
+   "warn": 12,
+   "warn_reason": "1-3 zero-length segments (integer-grid rounding); no self-intersections, no duplicate contours",
+   "verdict": "PASS_WITH_NOTES"
+  },
+  "3_shaping": {
+   "checks_passed": "9/9",
+   "verdict": "PASS"
+  },
+  "4_metrics": {
+   "significant_deviations": [
+    "finalHethuyg.fina: advance 735->531 (-28%)",
+    "kaphuyg.medi: advance 359->563 (+57%)",
+    "peuyg.fina: advance 672->344 (-49%)",
+    "sadheuyg.init: advance 280->456 (+63%)",
+    "tawuyg.medi: advance 404->785 (+94%)",
+    "wawuyg.medi: advance 234->552 (+136%)",
+    "yodhuyg: advance 486->361 (-26%)",
+    "zayinuyg.fina: advance 226->343 (+52%)"
+   ],
+   "note": "advances derive from printed ink widths; medial connector runs inflate some advances (waw.medi +136%, taw.medi +94%) - candidate for Phase 10 metrics refinement",
+   "verdict": "PASS_WITH_NOTES"
+  },
+  "5_rendering": {
+   "summary": "0 empty, 0 dropouts, 4 counter losses",
+   "small_size_joins": "0/6 words break at 12px",
+   "counter_note": "memuyg.fina/peuyg.fina bowls fill at 24-36px (tight metal-type counters)",
+   "verdict": "PASS_WITH_NOTES"
+  },
+  "6_regression": {
+   "changed": 41,
+   "unchanged": 58,
+   "composites_propagated": [
+    "gimelHethtwodotsaboveuyg",
+    "memuyg_medi_leshuyg_medi"
+   ],
+   "verdict": "PASS"
+  },
+  "7_corpus_fidelity": {
+   "n_words": 27,
+   "iou_median": {
+    "mueller_font": 0.555,
+    "noto_font": 0.285
+   },
+   "iou_mean": {
+    "mueller_font": 0.541,
+    "noto_font": 0.243
+   },
+   "coverage_median": {
+    "mueller_font": 0.805,
+    "noto_font": 0.347
+   },
+   "words_where_mueller_beats_noto": 22,
+   "join_continuity_ok": 27,
+   "verdict": "PASS"
+  }
+ },
+ "overall": "PASS_WITH_NOTES"
+}

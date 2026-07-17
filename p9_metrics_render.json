@@ -1,0 +1,1293 @@
+{
+ "metrics": {
+  "per_glyph": {
+   "PunctuationBar": {
+    "adv": [
+     327,
+     327
+    ],
+    "lsb": [
+     55,
+     71
+    ],
+    "rsb": [
+     55,
+     68
+    ],
+    "bbox_old": [
+     55,
+     0,
+     272,
+     314
+    ],
+    "bbox_new": [
+     71,
+     6,
+     259,
+     308
+    ],
+    "height": [
+     314,
+     302
+    ]
+   },
+   "PunctuationTwoDots": {
+    "adv": [
+     438,
+     438
+    ],
+    "lsb": [
+     20,
+     9
+    ],
+    "rsb": [
+     20,
+     9
+    ],
+    "bbox_old": [
+     20,
+     -13,
+     418,
+     179
+    ],
+    "bbox_new": [
+     9,
+     -13,
+     429,
+     179
+    ],
+    "height": [
+     192,
+     192
+    ]
+   },
+   "alephuyg.init": {
+    "adv": [
+     220,
+     271
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     10,
+     10
+    ],
+    "bbox_old": [
+     -8,
+     -21,
+     210,
+     233
+    ],
+    "bbox_new": [
+     -8,
+     -14,
+     261,
+     230
+    ],
+    "height": [
+     254,
+     244
+    ]
+   },
+   "bethuyg": {
+    "adv": [
+     715,
+     641
+    ],
+    "lsb": [
+     10,
+     10
+    ],
+    "rsb": [
+     10,
+     10
+    ],
+    "bbox_old": [
+     10,
+     -26,
+     705,
+     266
+    ],
+    "bbox_new": [
+     10,
+     -18,
+     631,
+     209
+    ],
+    "height": [
+     292,
+     227
+    ]
+   },
+   "bethuyg.fina": {
+    "adv": [
+     701,
+     638
+    ],
+    "lsb": [
+     10,
+     10
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     10,
+     -13,
+     709,
+     268
+    ],
+    "bbox_new": [
+     10,
+     -8,
+     647,
+     215
+    ],
+    "height": [
+     281,
+     223
+    ]
+   },
+   "bethuyg.init": {
+    "adv": [
+     401,
+     383
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     10,
+     10
+    ],
+    "bbox_old": [
+     -8,
+     -26,
+     391,
+     268
+    ],
+    "bbox_new": [
+     -8,
+     -25,
+     373,
+     216
+    ],
+    "height": [
+     294,
+     241
+    ]
+   },
+   "bethuyg.medi": {
+    "adv": [
+     366,
+     326
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     374,
+     268
+    ],
+    "bbox_new": [
+     -8,
+     3,
+     334,
+     230
+    ],
+    "height": [
+     268,
+     227
+    ]
+   },
+   "dotaboveuyg": {
+    "adv": [
+     0,
+     0
+    ],
+    "lsb": [
+     120,
+     133
+    ],
+    "rsb": [
+     -298,
+     -285
+    ],
+    "bbox_old": [
+     120,
+     452,
+     298,
+     651
+    ],
+    "bbox_new": [
+     133,
+     467,
+     285,
+     636
+    ],
+    "height": [
+     199,
+     169
+    ]
+   },
+   "dotbelowuyg": {
+    "adv": [
+     0,
+     0
+    ],
+    "lsb": [
+     120,
+     127
+    ],
+    "rsb": [
+     -298,
+     -290
+    ],
+    "bbox_old": [
+     120,
+     -259,
+     298,
+     -60
+    ],
+    "bbox_new": [
+     127,
+     -245,
+     290,
+     -75
+    ],
+    "height": [
+     199,
+     170
+    ]
+   },
+   "finalHethuyg.fina": {
+    "adv": [
+     735,
+     531
+    ],
+    "lsb": [
+     10,
+     9
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     10,
+     -13,
+     743,
+     302
+    ],
+    "bbox_new": [
+     9,
+     -6,
+     540,
+     269
+    ],
+    "height": [
+     315,
+     275
+    ]
+   },
+   "gimelHethuyg": {
+    "adv": [
+     349,
+     339
+    ],
+    "lsb": [
+     5,
+     7
+    ],
+    "rsb": [
+     15,
+     10
+    ],
+    "bbox_old": [
+     5,
+     -278,
+     334,
+     256
+    ],
+    "bbox_new": [
+     7,
+     -303,
+     329,
+     199
+    ],
+    "height": [
+     534,
+     502
+    ]
+   },
+   "gimelHethuyg.fina": {
+    "adv": [
+     336,
+     328
+    ],
+    "lsb": [
+     5,
+     7
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     5,
+     -278,
+     344,
+     255
+    ],
+    "bbox_new": [
+     7,
+     -301,
+     337,
+     202
+    ],
+    "height": [
+     533,
+     503
+    ]
+   },
+   "gimelHethuyg.init": {
+    "adv": [
+     290,
+     262
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     15,
+     8
+    ],
+    "bbox_old": [
+     -8,
+     -142,
+     275,
+     264
+    ],
+    "bbox_new": [
+     -8,
+     -69,
+     254,
+     193
+    ],
+    "height": [
+     406,
+     262
+    ]
+   },
+   "gimelHethuyg.medi": {
+    "adv": [
+     271,
+     265
+    ],
+    "lsb": [
+     -8,
+     -7
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     279,
+     262
+    ],
+    "bbox_new": [
+     -7,
+     23,
+     274,
+     208
+    ],
+    "height": [
+     262,
+     185
+    ]
+   },
+   "kaphuyg": {
+    "adv": [
+     727,
+     662
+    ],
+    "lsb": [
+     10,
+     10
+    ],
+    "rsb": [
+     10,
+     10
+    ],
+    "bbox_old": [
+     10,
+     -13,
+     717,
+     288
+    ],
+    "bbox_new": [
+     10,
+     3,
+     652,
+     244
+    ],
+    "height": [
+     301,
+     241
+    ]
+   },
+   "kaphuyg.fina": {
+    "adv": [
+     720,
+     687
+    ],
+    "lsb": [
+     10,
+     10
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     10,
+     -12,
+     728,
+     289
+    ],
+    "bbox_new": [
+     10,
+     8,
+     695,
+     250
+    ],
+    "height": [
+     301,
+     242
+    ]
+   },
+   "kaphuyg.medi": {
+    "adv": [
+     359,
+     563
+    ],
+    "lsb": [
+     -255,
+     -7
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     -255,
+     -156,
+     367,
+     276
+    ],
+    "bbox_new": [
+     -7,
+     -43,
+     571,
+     279
+    ],
+    "height": [
+     432,
+     322
+    ]
+   },
+   "kaphuyg.medi_wawuyg.medi": {
+    "adv": [
+     637,
+     511
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -8,
+     -153,
+     645,
+     276
+    ],
+    "bbox_new": [
+     -8,
+     -61,
+     520,
+     238
+    ],
+    "height": [
+     429,
+     299
+    ]
+   },
+   "lamedhuyg.init": {
+    "adv": [
+     398,
+     341
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     10,
+     8
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     388,
+     617
+    ],
+    "bbox_new": [
+     -8,
+     25,
+     333,
+     551
+    ],
+    "height": [
+     617,
+     526
+    ]
+   },
+   "lamedhuyg.medi": {
+    "adv": [
+     303,
+     340
+    ],
+    "lsb": [
+     -98,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     -98,
+     0,
+     311,
+     619
+    ],
+    "bbox_new": [
+     -8,
+     25,
+     348,
+     557
+    ],
+    "height": [
+     619,
+     532
+    ]
+   },
+   "leshuyg": {
+    "adv": [
+     313,
+     369
+    ],
+    "lsb": [
+     10,
+     8
+    ],
+    "rsb": [
+     10,
+     10
+    ],
+    "bbox_old": [
+     10,
+     -263,
+     303,
+     324
+    ],
+    "bbox_new": [
+     8,
+     19,
+     359,
+     577
+    ],
+    "height": [
+     587,
+     558
+    ]
+   },
+   "leshuyg.fina": {
+    "adv": [
+     283,
+     272
+    ],
+    "lsb": [
+     15,
+     10
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     15,
+     -232,
+     291,
+     305
+    ],
+    "bbox_new": [
+     10,
+     -122,
+     280,
+     254
+    ],
+    "height": [
+     537,
+     376
+    ]
+   },
+   "memuyg.fina": {
+    "adv": [
+     420,
+     444
+    ],
+    "lsb": [
+     -50,
+     9
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -50,
+     -280,
+     428,
+     366
+    ],
+    "bbox_new": [
+     9,
+     -217,
+     453,
+     372
+    ],
+    "height": [
+     646,
+     589
+    ]
+   },
+   "memuyg.medi": {
+    "adv": [
+     415,
+     428
+    ],
+    "lsb": [
+     -52,
+     -12
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -52,
+     -201,
+     423,
+     261
+    ],
+    "bbox_new": [
+     -12,
+     -127,
+     437,
+     247
+    ],
+    "height": [
+     462,
+     374
+    ]
+   },
+   "nunuyg.init": {
+    "adv": [
+     169,
+     147
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     15,
+     10
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     154,
+     236
+    ],
+    "bbox_new": [
+     -8,
+     25,
+     137,
+     253
+    ],
+    "height": [
+     236,
+     228
+    ]
+   },
+   "nunuyg.medi": {
+    "adv": [
+     149,
+     130
+    ],
+    "lsb": [
+     -8,
+     -9
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     157,
+     236
+    ],
+    "bbox_new": [
+     -9,
+     25,
+     139,
+     245
+    ],
+    "height": [
+     236,
+     220
+    ]
+   },
+   "peuyg.fina": {
+    "adv": [
+     672,
+     344
+    ],
+    "lsb": [
+     3,
+     9
+    ],
+    "rsb": [
+     -8,
+     -19
+    ],
+    "bbox_old": [
+     3,
+     0,
+     680,
+     466
+    ],
+    "bbox_new": [
+     9,
+     25,
+     363,
+     595
+    ],
+    "height": [
+     466,
+     570
+    ]
+   },
+   "reshuyg.fina": {
+    "adv": [
+     475,
+     386
+    ],
+    "lsb": [
+     10,
+     8
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     10,
+     -12,
+     483,
+     295
+    ],
+    "bbox_new": [
+     8,
+     -92,
+     394,
+     280
+    ],
+    "height": [
+     307,
+     372
+    ]
+   },
+   "sadheuyg.init": {
+    "adv": [
+     280,
+     456
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     15,
+     10
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     265,
+     278
+    ],
+    "bbox_new": [
+     -8,
+     25,
+     446,
+     298
+    ],
+    "height": [
+     278,
+     273
+    ]
+   },
+   "samekhuyg.init": {
+    "adv": [
+     323,
+     280
+    ],
+    "lsb": [
+     -8,
+     -7
+    ],
+    "rsb": [
+     10,
+     9
+    ],
+    "bbox_old": [
+     -8,
+     -151,
+     313,
+     255
+    ],
+    "bbox_new": [
+     -7,
+     -51,
+     271,
+     247
+    ],
+    "height": [
+     406,
+     298
+    ]
+   },
+   "samekhuyg.medi": {
+    "adv": [
+     313,
+     270
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -10
+    ],
+    "bbox_old": [
+     -8,
+     -149,
+     321,
+     255
+    ],
+    "bbox_new": [
+     -8,
+     -87,
+     280,
+     241
+    ],
+    "height": [
+     404,
+     328
+    ]
+   },
+   "shinuyg": {
+    "adv": [
+     435,
+     539
+    ],
+    "lsb": [
+     -100,
+     10
+    ],
+    "rsb": [
+     20,
+     9
+    ],
+    "bbox_old": [
+     -100,
+     -153,
+     415,
+     260
+    ],
+    "bbox_new": [
+     10,
+     -45,
+     530,
+     261
+    ],
+    "height": [
+     413,
+     306
+    ]
+   },
+   "shinuyg.fina": {
+    "adv": [
+     520,
+     448
+    ],
+    "lsb": [
+     5,
+     10
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     5,
+     -148,
+     528,
+     259
+    ],
+    "bbox_new": [
+     10,
+     -47,
+     457,
+     251
+    ],
+    "height": [
+     407,
+     298
+    ]
+   },
+   "shinuyg.init": {
+    "adv": [
+     343,
+     302
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     20,
+     9
+    ],
+    "bbox_old": [
+     -8,
+     -146,
+     323,
+     257
+    ],
+    "bbox_new": [
+     -8,
+     -80,
+     293,
+     264
+    ],
+    "height": [
+     403,
+     344
+    ]
+   },
+   "shinuyg.medi": {
+    "adv": [
+     321,
+     277
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     -8,
+     -145,
+     329,
+     253
+    ],
+    "bbox_new": [
+     -8,
+     -78,
+     285,
+     263
+    ],
+    "height": [
+     398,
+     341
+    ]
+   },
+   "tawuyg.medi": {
+    "adv": [
+     404,
+     785
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -11
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     412,
+     302
+    ],
+    "bbox_new": [
+     -8,
+     -16,
+     796,
+     270
+    ],
+    "height": [
+     302,
+     286
+    ]
+   },
+   "wawuyg.medi": {
+    "adv": [
+     234,
+     552
+    ],
+    "lsb": [
+     -8,
+     -8
+    ],
+    "rsb": [
+     -8,
+     -9
+    ],
+    "bbox_old": [
+     -8,
+     0,
+     242,
+     277
+    ],
+    "bbox_new": [
+     -8,
+     9,
+     561,
+     245
+    ],
+    "height": [
+     277,
+     236
+    ]
+   },
+   "yodhuyg": {
+    "adv": [
+     486,
+     361
+    ],
+    "lsb": [
+     10,
+     8
+    ],
+    "rsb": [
+     15,
+     10
+    ],
+    "bbox_old": [
+     10,
+     -12,
+     471,
+     279
+    ],
+    "bbox_new": [
+     8,
+     -54,
+     351,
+     229
+    ],
+    "height": [
+     291,
+     283
+    ]
+   },
+   "zayinuyg.fina": {
+    "adv": [
+     226,
+     343
+    ],
+    "lsb": [
+     10,
+     9
+    ],
+    "rsb": [
+     -8,
+     -8
+    ],
+    "bbox_old": [
+     10,
+     -12,
+     234,
+     286
+    ],
+    "bbox_new": [
+     9,
+     12,
+     351,
+     265
+    ],
+    "height": [
+     298,
+     253
+    ]
+   }
+  },
+  "significant_deviations": [
+   "finalHethuyg.fina: advance 735->531 (-28%)",
+   "kaphuyg.medi: advance 359->563 (+57%)",
+   "peuyg.fina: advance 672->344 (-49%)",
+   "sadheuyg.init: advance 280->456 (+63%)",
+   "tawuyg.medi: advance 404->785 (+94%)",
+   "wawuyg.medi: advance 234->552 (+136%)",
+   "yodhuyg: advance 486->361 (-26%)",
+   "zayinuyg.fina: advance 226->343 (+52%)"
+  ]
+ },
+ "rendering": {
+  "dropouts": [],
+  "counter_loss": [
+   "memuyg.fina@24px: holes 1->0",
+   "memuyg.fina@36px: holes 1->0",
+   "peuyg.fina@24px: holes 1->0",
+   "peuyg.fina@36px: holes 1->0"
+  ],
+  "empty": [],
+  "sizes_tested": [
+   10,
+   12,
+   16,
+   24,
+   36,
+   72,
+   50,
+   100
+  ],
+  "summary": "0 empty, 0 dropouts, 4 counter losses",
+  "word_components_by_size": {
+   "word0": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   },
+   "word1": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   },
+   "word2": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   },
+   "word3": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   },
+   "word4": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   },
+   "word5": {
+    "12": 1,
+    "24": 1,
+    "72": 1
+   }
+  }
+ },
+ "regression": {
+  "rendered_at_px": 64,
+  "n_changed": 41,
+  "n_unchanged": 58,
+  "changed": [
+   "PunctuationBar",
+   "PunctuationTwoDots",
+   "alephuyg.init",
+   "bethuyg",
+   "bethuyg.fina",
+   "bethuyg.init",
+   "bethuyg.medi",
+   "dotaboveuyg",
+   "dotbelowuyg",
+   "finalHethuyg.fina",
+   "gimelHethtwodotsaboveuyg",
+   "gimelHethuyg",
+   "gimelHethuyg.fina",
+   "gimelHethuyg.init",
+   "gimelHethuyg.medi",
+   "kaphuyg",
+   "kaphuyg.fina",
+   "kaphuyg.medi",
+   "kaphuyg.medi_wawuyg.medi",
+   "lamedhuyg.init",
+   "lamedhuyg.medi",
+   "leshuyg",
+   "leshuyg.fina",
+   "memuyg.fina",
+   "memuyg.medi",
+   "memuyg.medi_leshuyg.medi",
+   "nunuyg.init",
+   "nunuyg.medi",
+   "peuyg.fina",
+   "reshuyg.fina",
+   "sadheuyg.init",
+   "samekhuyg.init",
+   "samekhuyg.medi",
+   "shinuyg",
+   "shinuyg.fina",
+   "shinuyg.init",
+   "shinuyg.medi",
+   "tawuyg.medi",
+   "wawuyg.medi",
+   "yodhuyg",
+   "zayinuyg.fina"
+  ],
+  "changed_matches_integrated": false,
+  "unexpected_changes": [
+   "gimelHethtwodotsaboveuyg",
+   "memuyg_medi_leshuyg_medi"
+  ],
+  "expected_but_unchanged": []
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "meta": {
+  "eligible_clusters": 15,
+  "scale": "1 scan px == 2.484 font units (median-letter-height anchored)",
+  "master_reference": "Mueller print consensus; NOT normalized to Noto",
+  "font_untouched": true
+ },
+ "outlines": [
+  {
+   "cluster": "updated_030",
+   "assigned": {
+    "ambiguity_group": null
+   },
+   "glyph_name": "kaphuyg.medi_wawuyg.medi",
+   "contextual_form": "medial",
+   "shared_master_for": null,
+   "source_image_count": 15,
+   "consensus_agreement": 0.743,
+   "n_contours": 1,
+   "n_cubic_segments": 91,
+   "fitting_error_rms_px": 0.59,
+   "fitting_error_max_px": 1.786,
+   "outline_quality_score": 0.606,
+   "em_size": [
+    527.7,
+    301.1
+   ],
+   "files": {
+    "svg": "masters/svg/updated_030_kaphuyg_medi_wawuyg_medi.svg",
+    "glif": "masters/glif/updated_030_kaphuyg_medi_wawuyg_medi.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_039",
+   "assigned": "U+10F75",
+   "glyph_name": "finalHethuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 6,
+   "consensus_agreement": 0.774,
+   "n_contours": 1,
+   "n_cubic_segments": 87,
+   "fitting_error_rms_px": 0.671,
+   "fitting_error_max_px": 2.239,
+   "outline_quality_score": 0.612,
+   "em_size": [
+    536.7,
+    279.7
+   ],
+   "files": {
+    "svg": "masters/svg/updated_039_finalHethuyg_fina.svg",
+    "glif": "masters/glif/updated_039_finalHethuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_040",
+   "assigned": "U+10F73",
+   "glyph_name": "wawuyg.medi",
+   "contextual_form": "medial",
+   "shared_master_for": null,
+   "source_image_count": 5,
+   "consensus_agreement": 0.821,
+   "n_contours": 1,
+   "n_cubic_segments": 111,
+   "fitting_error_rms_px": 0.567,
+   "fitting_error_max_px": 1.873,
+   "outline_quality_score": 0.676,
+   "em_size": [
+    574.4,
+    237.7
+   ],
+   "files": {
+    "svg": "masters/svg/updated_040_wawuyg_medi.svg",
+    "glif": "masters/glif/updated_040_wawuyg_medi.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_041",
+   "assigned": "U+10F80",
+   "glyph_name": "tawuyg.medi",
+   "contextual_form": "medial",
+   "shared_master_for": null,
+   "source_image_count": 11,
+   "consensus_agreement": 0.779,
+   "n_contours": 1,
+   "n_cubic_segments": 130,
+   "fitting_error_rms_px": 0.643,
+   "fitting_error_max_px": 2.552,
+   "outline_quality_score": 0.622,
+   "em_size": [
+    809.9,
+    286.6
+   ],
+   "files": {
+    "svg": "masters/svg/updated_041_tawuyg_medi.svg",
+    "glif": "masters/glif/updated_041_tawuyg_medi.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_046",
+   "assigned": "U+10F81",
+   "glyph_name": "leshuyg",
+   "contextual_form": "isolated",
+   "shared_master_for": null,
+   "source_image_count": 8,
+   "consensus_agreement": 0.822,
+   "n_contours": 1,
+   "n_cubic_segments": 30,
+   "fitting_error_rms_px": 0.83,
+   "fitting_error_max_px": 2.147,
+   "outline_quality_score": 0.609,
+   "em_size": [
+    354.1,
+    573.6
+   ],
+   "files": {
+    "svg": "masters/svg/updated_046_leshuyg.svg",
+    "glif": "masters/glif/updated_046_leshuyg.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_047",
+   "assigned": "U+10F81",
+   "glyph_name": "leshuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 6,
+   "consensus_agreement": 0.783,
+   "n_contours": 1,
+   "n_cubic_segments": 56,
+   "fitting_error_rms_px": 0.585,
+   "fitting_error_max_px": 1.72,
+   "outline_quality_score": 0.64,
+   "em_size": [
+    271.2,
+    376.1
+   ],
+   "files": {
+    "svg": "masters/svg/updated_047_leshuyg_fina.svg",
+    "glif": "masters/glif/updated_047_leshuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_049",
+   "assigned": "U+10F7E",
+   "glyph_name": "reshuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 76,
+   "consensus_agreement": 0.815,
+   "n_contours": 1,
+   "n_cubic_segments": 29,
+   "fitting_error_rms_px": 0.878,
+   "fitting_error_max_px": 2.575,
+   "outline_quality_score": 0.591,
+   "em_size": [
+    391.3,
+    373.8
+   ],
+   "files": {
+    "svg": "masters/svg/updated_049_reshuyg_fina.svg",
+    "glif": "masters/glif/updated_049_reshuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_050",
+   "assigned": "U+10F70",
+   "glyph_name": "alephuyg.init",
+   "contextual_form": "initial",
+   "shared_master_for": null,
+   "source_image_count": 20,
+   "consensus_agreement": 0.811,
+   "n_contours": 1,
+   "n_cubic_segments": 40,
+   "fitting_error_rms_px": 0.819,
+   "fitting_error_max_px": 2.26,
+   "outline_quality_score": 0.604,
+   "em_size": [
+    271.2,
+    244.5
+   ],
+   "files": {
+    "svg": "masters/svg/updated_050_alephuyg_init.svg",
+    "glif": "masters/glif/updated_050_alephuyg_init.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_052",
+   "assigned": "U+10F74",
+   "glyph_name": "zayinuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 14,
+   "consensus_agreement": 0.843,
+   "n_contours": 1,
+   "n_cubic_segments": 65,
+   "fitting_error_rms_px": 0.596,
+   "fitting_error_max_px": 1.889,
+   "outline_quality_score": 0.686,
+   "em_size": [
+    325.5,
+    259.1
+   ],
+   "files": {
+    "svg": "masters/svg/updated_052_zayinuyg_fina.svg",
+    "glif": "masters/glif/updated_052_zayinuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_053",
+   "assigned": "U+10F74",
+   "glyph_name": "zayinuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 1,
+   "consensus_agreement": 0.983,
+   "n_contours": 4,
+   "n_cubic_segments": 104,
+   "fitting_error_rms_px": 0.53,
+   "fitting_error_max_px": 1.95,
+   "outline_quality_score": 0.821,
+   "em_size": [
+    375.0,
+    299.7
+   ],
+   "files": {
+    "svg": "masters/svg/updated_053_zayinuyg_fina.svg",
+    "glif": "masters/glif/updated_053_zayinuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_054",
+   "assigned": "U+10F7D",
+   "glyph_name": "sadheuyg.init",
+   "contextual_form": "initial",
+   "shared_master_for": null,
+   "source_image_count": 1,
+   "consensus_agreement": 0.982,
+   "n_contours": 3,
+   "n_cubic_segments": 103,
+   "fitting_error_rms_px": 0.627,
+   "fitting_error_max_px": 2.145,
+   "outline_quality_score": 0.79,
+   "em_size": [
+    460.3,
+    277.0
+   ],
+   "files": {
+    "svg": "masters/svg/updated_054_sadheuyg_init.svg",
+    "glif": "masters/glif/updated_054_sadheuyg_init.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_060",
+   "assigned": "U+10F76",
+   "glyph_name": "yodhuyg",
+   "contextual_form": "isolated",
+   "shared_master_for": null,
+   "source_image_count": 8,
+   "consensus_agreement": 0.814,
+   "n_contours": 1,
+   "n_cubic_segments": 70,
+   "fitting_error_rms_px": 0.617,
+   "fitting_error_max_px": 1.762,
+   "outline_quality_score": 0.657,
+   "em_size": [
+    344.7,
+    286.4
+   ],
+   "files": {
+    "svg": "masters/svg/updated_060_yodhuyg.svg",
+    "glif": "masters/glif/updated_060_yodhuyg.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_062",
+   "assigned": "U+10F7C",
+   "glyph_name": "peuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 4,
+   "consensus_agreement": 0.783,
+   "n_contours": 2,
+   "n_cubic_segments": 36,
+   "fitting_error_rms_px": 0.803,
+   "fitting_error_max_px": 2.144,
+   "outline_quality_score": 0.586,
+   "em_size": [
+    355.0,
+    576.2
+   ],
+   "files": {
+    "svg": "masters/svg/updated_062_peuyg_fina.svg",
+    "glif": "masters/glif/updated_062_peuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_063",
+   "assigned": "U+10F74",
+   "glyph_name": "zayinuyg.fina",
+   "contextual_form": "final",
+   "shared_master_for": null,
+   "source_image_count": 3,
+   "consensus_agreement": 0.859,
+   "n_contours": 2,
+   "n_cubic_segments": 111,
+   "fitting_error_rms_px": 0.426,
+   "fitting_error_max_px": 1.768,
+   "outline_quality_score": 0.744,
+   "em_size": [
+    455.6,
+    259.8
+   ],
+   "files": {
+    "svg": "masters/svg/updated_063_zayinuyg_fina.svg",
+    "glif": "masters/glif/updated_063_zayinuyg_fina.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  },
+  {
+   "cluster": "updated_064",
+   "assigned": "U+10F70",
+   "glyph_name": "alephuyg.init",
+   "contextual_form": "initial",
+   "shared_master_for": null,
+   "source_image_count": 1,
+   "consensus_agreement": 0.982,
+   "n_contours": 5,
+   "n_cubic_segments": 78,
+   "fitting_error_rms_px": 0.619,
+   "fitting_error_max_px": 3.665,
+   "outline_quality_score": 0.792,
+   "em_size": [
+    249.8,
+    239.8
+   ],
+   "files": {
+    "svg": "masters/svg/updated_064_alephuyg_init.svg",
+    "glif": "masters/glif/updated_064_alephuyg_init.glif"
+   },
+   "notes": "single validated identity; baseline provisional (bbox-bottom), metrics deferred"
+  }
+ ]
+}

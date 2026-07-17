@@ -1,0 +1,284 @@
+{
+ "meta": {
+  "source": "mapping_table_validated.json"
+ },
+ "mappings": {
+  "updated_010": {
+   "cluster_size": 4,
+   "cluster_type": "word segment",
+   "representative": "sub000500.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "memuyg.medi_leshuyg.medi"
+   ],
+   "human_notes": ""
+  },
+  "updated_030": {
+   "cluster_size": 15,
+   "cluster_type": "letter candidate",
+   "representative": "sub000629.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "human_notes": ""
+  },
+  "updated_039": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000915.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "human_notes": ""
+  },
+  "updated_040": {
+   "cluster_size": 5,
+   "cluster_type": "letter candidate",
+   "representative": "sub001060.png",
+   "validation": "corrected",
+   "final_glyph": "wawuyg.medi",
+   "final_codepoint": "U+10F73",
+   "final_unicode_name": "OLD UYGHUR LETTER WAW",
+   "final_form": "medial",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_041": {
+   "cluster_size": 11,
+   "cluster_type": "word segment",
+   "representative": "sub000011.png",
+   "validation": "corrected",
+   "final_glyph": "tawuyg.medi",
+   "final_codepoint": "U+10F80",
+   "final_unicode_name": "OLD UYGHUR LETTER TAW",
+   "final_form": "medial",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_046": {
+   "cluster_size": 8,
+   "cluster_type": "letter candidate",
+   "representative": "sub000823.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "human_notes": ""
+  },
+  "updated_047": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000997.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "human_notes": ""
+  },
+  "updated_049": {
+   "cluster_size": 76,
+   "cluster_type": "letter candidate",
+   "representative": "sub000449.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "human_notes": ""
+  },
+  "updated_050": {
+   "cluster_size": 20,
+   "cluster_type": "letter candidate",
+   "representative": "sub000466.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "alephuyg.init"
+   ],
+   "human_notes": ""
+  },
+  "updated_051": {
+   "cluster_size": 66,
+   "cluster_type": "letter candidate",
+   "representative": "sub000099.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "human_notes": ""
+  },
+  "updated_052": {
+   "cluster_size": 14,
+   "cluster_type": "letter candidate",
+   "representative": "sub000169.png",
+   "validation": "corrected",
+   "final_glyph": "zayinuyg.fina",
+   "final_codepoint": "U+10F74",
+   "final_unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "final_form": "final",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_053": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub001073.png",
+   "validation": "corrected",
+   "final_glyph": "zayinuyg.fina",
+   "final_codepoint": "U+10F74",
+   "final_unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "final_form": "final",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_054": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub001071.png",
+   "validation": "corrected",
+   "final_glyph": "sadheuyg.init",
+   "final_codepoint": "U+10F7D",
+   "final_unicode_name": "OLD UYGHUR LETTER SADHE",
+   "final_form": "initial",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_060": {
+   "cluster_size": 8,
+   "cluster_type": "letter candidate",
+   "representative": "glyph001009.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "human_notes": ""
+  },
+  "updated_061": {
+   "cluster_size": 5,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000317.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "memuyg.medi"
+   ],
+   "human_notes": ""
+  },
+  "updated_062": {
+   "cluster_size": 4,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000791.png",
+   "validation": "corrected",
+   "final_glyph": "peuyg.fina",
+   "final_codepoint": "U+10F7C",
+   "final_unicode_name": "OLD UYGHUR LETTER PE",
+   "final_form": "final",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_063": {
+   "cluster_size": 3,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000637.png",
+   "validation": "corrected",
+   "final_glyph": "zayinuyg.fina",
+   "final_codepoint": "U+10F74",
+   "final_unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "final_form": "final",
+   "final_group": null,
+   "human_notes": ""
+  },
+  "updated_064": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000213.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "alephuyg.init"
+   ],
+   "human_notes": ""
+  },
+  "updated_067": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000728.png",
+   "validation": "confirmed_ambiguous",
+   "final_glyph": null,
+   "final_codepoint": null,
+   "final_unicode_name": null,
+   "final_form": null,
+   "final_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "human_notes": ""
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "font": "build/Uigurica-Regular-v1.0.ttf",
+ "engines": {
+  "fonttools_load": {
+   "ok": true
+  },
+  "ots": {
+   "ok": true,
+   "output": "File sanitized successfully!"
+  },
+  "fontbakery_universal": {
+   "counts": {
+    "FATAL": 0,
+    "FAIL": 0,
+    "WARN": 4,
+    "ERROR": 0,
+    "PASS": 82,
+    "SKIP": 37,
+    "INFO": 4
+   },
+   "warn_fail_codes": {
+    "family-path": 1,
+    "contour-count": 1,
+    "size-impact": 1,
+    "width-outliers": 1,
+    "optional-tables": 1,
+    "unreachable-glyphs": 1
+   }
+  },
+  "fontbakery_opentype": {
+   "counts": {
+    "FATAL": 0,
+    "FAIL": 0,
+    "WARN": 0,
+    "ERROR": 0,
+    "PASS": 35,
+    "SKIP": 17,
+    "INFO": 1
+   },
+   "warn_fail_codes": {}
+  },
+  "freetype": {
+   "ok": true,
+   "rendered": 26,
+   "empty_nonmark": []
+  },
+  "harfbuzz": {
+   "ok": true,
+   "isolated_notdef": [],
+   "context_beth_gimel_mem": [
+    "memuyg.fina",
+    "gimelHethuyg.medi",
+    "bethuyg.init"
+   ]
+  },
+  "unicode_conformance": {
+   "ok": true,
+   "codepoints_in_cmap": "26/26",
+   "missing": [],
+   "marks_have_gdef_mark_class": true
+  }
+ },
+ "overall_pass": true,
+ "gate_status": {
+  "fonttools_load": true,
+  "ots": true,
+  "fontbakery_universal": true,
+  "fontbakery_opentype": true,
+  "freetype": true,
+  "harfbuzz": true,
+  "unicode_conformance": true
+ }
+}

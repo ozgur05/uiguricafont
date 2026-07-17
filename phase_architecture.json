@@ -1,0 +1,78 @@
+{
+ "schema": "uigurica-phase-architecture/1",
+ "derived_from": [
+  "pilot/files-1/PILOT_REPORT.md",
+  "pilot/files-2/VERDICT.md",
+  "mapping_table_validated.json",
+  "outline_report.json"
+ ],
+ "principles": {
+  "master_reference": "Mueller Uigurica I print. Noto is technical foundation (tables, metrics anchors) only; geometric closeness to Noto is recorded as metadata and MUST NOT be used as an accept/reject gate.",
+  "no_synthetic_ink": "Connector detect->subtract->re-bridge pipelines are banned for production outlines. No reconnection, no bridging, no morphological repair that draws ink absent from the print.",
+  "multi_attestation": "Production outline = consensus of aligned attestations; majority vote at the 0.5 level is the only noise/connector/ink-spread removal mechanism.",
+  "right_joining_special_case": "ZAYIN (U+10F74) and FINAL HETH (U+10F75) join only on the right; their attestations must be word-final or isolated occurrences, never interior cuts, and they are exempt from any left-boundary heuristics."
+ },
+ "attestation_requirements": {
+  "production_min": 3,
+  "production_target": 4,
+  "draft_max_members": 2,
+  "rules": [
+   "clusters with < production_min members produce DRAFT masters only, flagged draft=true in outline_report",
+   "attestations must come from >= 2 distinct words when cluster provenance allows",
+   "for right-joining letters, only pieces whose parent-word position is final or isolated count as attestations"
+  ]
+ },
+ "consensus_parameters": {
+  "working_height_px": 240,
+  "alignment": "centroid seed + 2 passes phase-correlation vs stack mean",
+  "vote_threshold": 0.5,
+  "speck_min_fraction_of_ink": 0.005,
+  "hole_policy": "fill if area < 0.3*stroke^2 OR consensus mean inside > 0.20; genuinely white counters kept regardless of size",
+  "contour": "subpixel find_contours at 0.5 on 2x-upsampled Gaussian field, closed-curve smoothing window 7, micro-loops < 40 px^2 dropped",
+  "bezier": "Schneider least-squares cubic fit, Newton-Raphson reparameterization, corner threshold 65 deg, tolerance 1.6 px"
+ },
+ "measurement_trust": {
+  "trusted": ["stem_to_height_ratio on consensus", "consensus_agreement", "fit rms"],
+  "untrusted_on_single_crops": ["aspect_ratio", "principal_axis_angle", "width"],
+  "reason": "single crops carry the shared baseline connector (36-72 px band at 58-63% height); only multi-attestation consensus geometry is quotable"
+ },
+ "unicode_mapping_policy": {
+  "basis": "L2/20-191 identities only; Mueller never decides identity, proposal never decides shape",
+  "ambiguous_masters": "one shared master per confirmed_ambiguous cluster; all candidate glyphs recorded; resolution requires word-context reading, not geometry",
+  "coverage_gaps_from_phase_5_6": {
+   "direct": ["U+10F73", "U+10F74", "U+10F7C", "U+10F7D", "U+10F80"],
+   "ambiguous_only": ["U+10F70", "U+10F71", "U+10F72", "U+10F75", "U+10F76", "U+10F77", "U+10F79", "U+10F7E", "U+10F81"],
+   "missing": ["U+10F78", "U+10F7A", "U+10F7B", "U+10F7F", "U+10F82", "U+10F83", "U+10F84", "U+10F85", "U+10F86", "U+10F87", "U+10F88", "U+10F89"]
+  }
+ },
+ "phase_7_plan": {
+  "name": "Close coverage gaps via targeted attestation harvesting",
+  "steps": [
+   {
+    "id": "7.1",
+    "task": "attestation inventory: audit every eligible cluster and every missing codepoint against attestation_requirements (tools/attestation_inventory.py)"
+   },
+   {
+    "id": "7.2",
+    "task": "targeted re-harvest: for missing letters (LAMEDH, NUN, SAMEKH, SHIN) and the marks/punctuation rejected as junk-for-letter-purposes, pull attestations directly from word clusters using validated masters as match templates - matching, not cutting; no reconnection"
+   },
+   {
+    "id": "7.3",
+    "task": "ambiguity resolution: use within-word neighbor context (which glyph forms can legally precede/follow per the joining model) to narrow confirmed_ambiguous groups; human confirms via a review sheet"
+   },
+   {
+    "id": "7.4",
+    "task": "regenerate masters for every cluster that gains attestations; enforce draft flags; emit updated outline_report.json"
+   }
+  ],
+  "exit_criteria": "every one of the 26 codepoints has either a production master (>=3 attestations), a shared ambiguous master with a documented resolution path, or a written justification that Mueller pp.36-45 does not attest it"
+ },
+ "phase_8_plan": {
+  "name": "Font integration (deferred)",
+  "constraints": [
+   "only production masters merge into the UFO/TTF",
+   "baseline and joining-line placement from word-context statistics, not per-glyph bboxes",
+   "all OpenType tables preserved from Phase 1; GSUB/GPOS untouched until every referenced glyph has a master"
+  ]
+ }
+}

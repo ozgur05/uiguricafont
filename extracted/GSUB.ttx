@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.63">
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=5 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=10 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="9"/>
+            <FeatureIndex index="8" value="10"/>
+            <FeatureIndex index="9" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="cyrl"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=10 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="9"/>
+            <FeatureIndex index="8" value="10"/>
+            <FeatureIndex index="9" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=10 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="9"/>
+            <FeatureIndex index="8" value="10"/>
+            <FeatureIndex index="9" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=10 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="9"/>
+            <FeatureIndex index="8" value="10"/>
+            <FeatureIndex index="9" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=2 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=11 -->
+              <FeatureIndex index="0" value="0"/>
+              <FeatureIndex index="1" value="1"/>
+              <FeatureIndex index="2" value="2"/>
+              <FeatureIndex index="3" value="3"/>
+              <FeatureIndex index="4" value="4"/>
+              <FeatureIndex index="5" value="5"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="9"/>
+              <FeatureIndex index="9" value="10"/>
+              <FeatureIndex index="10" value="11"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=11 -->
+              <FeatureIndex index="0" value="0"/>
+              <FeatureIndex index="1" value="1"/>
+              <FeatureIndex index="2" value="2"/>
+              <FeatureIndex index="3" value="3"/>
+              <FeatureIndex index="4" value="4"/>
+              <FeatureIndex index="5" value="6"/>
+              <FeatureIndex index="6" value="7"/>
+              <FeatureIndex index="7" value="8"/>
+              <FeatureIndex index="8" value="9"/>
+              <FeatureIndex index="9" value="10"/>
+              <FeatureIndex index="10" value="11"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="4">
+        <ScriptTag value="ougr"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=10 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="9"/>
+            <FeatureIndex index="8" value="10"/>
+            <FeatureIndex index="9" value="11"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=12 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="rclt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="7"/>
+          <LookupListIndex index="1" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=18 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="ordfeminine"/>
+          <Substitution in="O" out="ordmasculine"/>
+          <Substitution in="Scedilla" out="uni0218"/>
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="alephuyg.fina" out="alephuyg"/>
+          <Substitution in="alephuyg.medi" out="alephuyg"/>
+          <Substitution in="i" out="dotlessi"/>
+          <Substitution in="j" out="uni0237"/>
+          <Substitution in="kaphuyg.fina" out="kaphuyg.alt"/>
+          <Substitution in="o" out="ordmasculine"/>
+          <Substitution in="scedilla" out="uni0219"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0">
+          <AlternateSet glyph="alephuyg">
+            <Alternate glyph="alephuyg.fina"/>
+            <Alternate glyph="alephuyg.medi"/>
+            <Alternate glyph="alephuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="bethuyg">
+            <Alternate glyph="bethuyg.fina"/>
+            <Alternate glyph="bethuyg.medi"/>
+            <Alternate glyph="bethuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="finalHethuyg">
+            <Alternate glyph="finalHethuyg.fina"/>
+            <Alternate glyph="finalHethuyg"/>
+          </AlternateSet>
+          <AlternateSet glyph="gimelHethuyg">
+            <Alternate glyph="gimelHethuyg.fina"/>
+            <Alternate glyph="gimelHethuyg.medi"/>
+            <Alternate glyph="gimelHethuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="kaphuyg">
+            <Alternate glyph="kaphuyg.fina"/>
+            <Alternate glyph="kaphuyg.medi"/>
+            <Alternate glyph="kaphuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="lamedhuyg">
+            <Alternate glyph="lamedhuyg.fina"/>
+            <Alternate glyph="lamedhuyg.medi"/>
+            <Alternate glyph="lamedhuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="leshuyg">
+            <Alternate glyph="leshuyg.fina"/>
+            <Alternate glyph="leshuyg.medi"/>
+            <Alternate glyph="leshuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="memuyg">
+            <Alternate glyph="memuyg.fina"/>
+            <Alternate glyph="memuyg.medi"/>
+            <Alternate glyph="memuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="nunuyg">
+            <Alternate glyph="nunuyg.fina"/>
+            <Alternate glyph="nunuyg.medi"/>
+            <Alternate glyph="nunuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="peuyg">
+            <Alternate glyph="peuyg.fina"/>
+            <Alternate glyph="peuyg.medi"/>
+            <Alternate glyph="peuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="reshuyg">
+            <Alternate glyph="reshuyg.fina"/>
+            <Alternate glyph="reshuyg.medi"/>
+            <Alternate glyph="reshuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="sadheuyg">
+            <Alternate glyph="sadheuyg.fina"/>
+            <Alternate glyph="sadheuyg.medi"/>
+            <Alternate glyph="sadheuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="samekhuyg">
+            <Alternate glyph="samekhuyg.fina"/>
+            <Alternate glyph="samekhuyg.medi"/>
+            <Alternate glyph="samekhuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="shinuyg">
+            <Alternate glyph="shinuyg.fina"/>
+            <Alternate glyph="shinuyg.medi"/>
+            <Alternate glyph="shinuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="tawuyg">
+            <Alternate glyph="tawuyg.fina"/>
+            <Alternate glyph="tawuyg.medi"/>
+            <Alternate glyph="tawuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="wawuyg">
+            <Alternate glyph="wawuyg.fina"/>
+            <Alternate glyph="wawuyg.medi"/>
+            <Alternate glyph="wawuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="yodhuyg">
+            <Alternate glyph="yodhuyg.fina"/>
+            <Alternate glyph="yodhuyg.medi"/>
+            <Alternate glyph="yodhuyg.init"/>
+          </AlternateSet>
+          <AlternateSet glyph="zayinuyg">
+            <Alternate glyph="zayinuyg.fina"/>
+            <Alternate glyph="zayinuyg"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="1">
+          <Coverage>
+            <Glyph value="alephuyg.medi"/>
+            <Glyph value="alephuyg.fina"/>
+          </Coverage>
+          <!-- ChainSubRuleSetCount=2 -->
+          <ChainSubRuleSet index="0">
+            <!-- ChainSubRuleCount=1 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="peuyg.medi"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+          <ChainSubRuleSet index="1">
+            <!-- ChainSubRuleCount=3 -->
+            <ChainSubRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="peuyg.init"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="1">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="peuyg.medi"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+            <ChainSubRule index="2">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="kaphuyg.init"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+            </ChainSubRule>
+          </ChainSubRuleSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="alephuyg.fina" out="alephuyg"/>
+          <Substitution in="alephuyg.medi" out="alephuyg"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="alephuyg" out="alephuyg.fina"/>
+          <Substitution in="bethuyg" out="bethuyg.fina"/>
+          <Substitution in="finalHethuyg" out="finalHethuyg.fina"/>
+          <Substitution in="gimelHethuyg" out="gimelHethuyg.fina"/>
+          <Substitution in="kaphuyg" out="kaphuyg.fina"/>
+          <Substitution in="lamedhuyg" out="lamedhuyg.fina"/>
+          <Substitution in="leshuyg" out="leshuyg.fina"/>
+          <Substitution in="memuyg" out="memuyg.fina"/>
+          <Substitution in="nunuyg" out="nunuyg.fina"/>
+          <Substitution in="peuyg" out="peuyg.fina"/>
+          <Substitution in="reshuyg" out="reshuyg.fina"/>
+          <Substitution in="sadheuyg" out="sadheuyg.fina"/>
+          <Substitution in="samekhuyg" out="samekhuyg.fina"/>
+          <Substitution in="shinuyg" out="shinuyg.fina"/>
+          <Substitution in="tawuyg" out="tawuyg.fina"/>
+          <Substitution in="wawuyg" out="wawuyg.fina"/>
+          <Substitution in="yodhuyg" out="yodhuyg.fina"/>
+          <Substitution in="zayinuyg" out="zayinuyg.fina"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="alephuyg" out="alephuyg.medi"/>
+          <Substitution in="bethuyg" out="bethuyg.medi"/>
+          <Substitution in="finalHethuyg" out="finalHethuyg"/>
+          <Substitution in="gimelHethuyg" out="gimelHethuyg.medi"/>
+          <Substitution in="kaphuyg" out="kaphuyg.medi"/>
+          <Substitution in="lamedhuyg" out="lamedhuyg.medi"/>
+          <Substitution in="leshuyg" out="leshuyg.medi"/>
+          <Substitution in="memuyg" out="memuyg.medi"/>
+          <Substitution in="nunuyg" out="nunuyg.medi"/>
+          <Substitution in="peuyg" out="peuyg.medi"/>
+          <Substitution in="reshuyg" out="reshuyg.medi"/>
+          <Substitution in="sadheuyg" out="sadheuyg.medi"/>
+          <Substitution in="samekhuyg" out="samekhuyg.medi"/>
+          <Substitution in="shinuyg" out="shinuyg.medi"/>
+          <Substitution in="tawuyg" out="tawuyg.medi"/>
+          <Substitution in="wawuyg" out="wawuyg.medi"/>
+          <Substitution in="yodhuyg" out="yodhuyg.medi"/>
+          <Substitution in="zayinuyg" out="zayinuyg"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="alephuyg" out="alephuyg.init"/>
+          <Substitution in="bethuyg" out="bethuyg.init"/>
+          <Substitution in="finalHethuyg" out="finalHethuyg"/>
+          <Substitution in="gimelHethuyg" out="gimelHethuyg.init"/>
+          <Substitution in="kaphuyg" out="kaphuyg.init"/>
+          <Substitution in="lamedhuyg" out="lamedhuyg.init"/>
+          <Substitution in="leshuyg" out="leshuyg.init"/>
+          <Substitution in="memuyg" out="memuyg.init"/>
+          <Substitution in="nunuyg" out="nunuyg.init"/>
+          <Substitution in="peuyg" out="peuyg.init"/>
+          <Substitution in="reshuyg" out="reshuyg.init"/>
+          <Substitution in="sadheuyg" out="sadheuyg.init"/>
+          <Substitution in="samekhuyg" out="samekhuyg.init"/>
+          <Substitution in="shinuyg" out="shinuyg.init"/>
+          <Substitution in="tawuyg" out="tawuyg.init"/>
+          <Substitution in="wawuyg" out="wawuyg.init"/>
+          <Substitution in="yodhuyg" out="yodhuyg.init"/>
+          <Substitution in="zayinuyg" out="zayinuyg"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="4"/>
+        <LookupFlag value="9"/><!-- rightToLeft ignoreMarks -->
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="kaphuyg.init">
+            <Ligature components="leshuyg.fina" glyph="kaphuyg_leshuyg"/>
+            <Ligature components="leshuyg.medi" glyph="kaphuyg.init_leshuyg.init"/>
+            <Ligature components="wawuyg.fina" glyph="kaphuyg_wawuyg"/>
+            <Ligature components="wawuyg.medi" glyph="kaphuyg.init_wawuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="kaphuyg.medi">
+            <Ligature components="leshuyg.fina" glyph="kaphuyg.fina_leshuyg.fina"/>
+            <Ligature components="leshuyg.medi" glyph="kaphuyg.medi_leshuyg.medi"/>
+            <Ligature components="wawuyg.fina" glyph="kaphuyg.fina_wawuyg.fina"/>
+            <Ligature components="wawuyg.medi" glyph="kaphuyg.medi_wawuyg.medi.alt"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg.init">
+            <Ligature components="leshuyg.fina" glyph="memuyg_leshuyg"/>
+            <Ligature components="leshuyg.medi" glyph="memuyg.init_leshuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg.medi">
+            <Ligature components="leshuyg.fina" glyph="memuyg.fina_leshuyg.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg.init">
+            <Ligature components="leshuyg.fina" glyph="peuyg_leshuyg"/>
+            <Ligature components="leshuyg.medi" glyph="peuyg.init_leshuyg.init"/>
+            <Ligature components="wawuyg.fina" glyph="peuyg_wawuyg"/>
+            <Ligature components="wawuyg.medi" glyph="peuyg.init_wawuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg.medi">
+            <Ligature components="leshuyg.fina" glyph="peuyg.fina_leshuyg.fina"/>
+            <Ligature components="leshuyg.medi" glyph="peuyg.medi_leshuyg.medi"/>
+            <Ligature components="wawuyg.fina" glyph="peuyg.fina_wawuyg.fina"/>
+            <Ligature components="wawuyg.medi" glyph="peuyg.medi_wawuyg.medi"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="6"/>
+        <LookupFlag value="9"/><!-- rightToLeft ignoreMarks -->
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="kaphuyg.init"/>
+            <Glyph value="kaphuyg.medi"/>
+            <Glyph value="peuyg.init"/>
+            <Glyph value="peuyg.medi"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="alephuyg.medi"/>
+            <Glyph value="bethuyg.medi"/>
+            <Glyph value="gimelHethuyg.medi"/>
+            <Glyph value="kaphuyg.medi"/>
+            <Glyph value="lamedhuyg.medi"/>
+            <Glyph value="leshuyg.medi"/>
+            <Glyph value="memuyg.medi"/>
+            <Glyph value="nunuyg.medi"/>
+            <Glyph value="peuyg.medi"/>
+            <Glyph value="reshuyg.medi"/>
+            <Glyph value="sadheuyg.medi"/>
+            <Glyph value="samekhuyg.medi"/>
+            <Glyph value="shinuyg.medi"/>
+            <Glyph value="tawuyg.medi"/>
+            <Glyph value="wawuyg.medi"/>
+            <Glyph value="yodhuyg.medi"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="9"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="kaphuyg.init"/>
+            <Glyph value="kaphuyg.medi"/>
+            <Glyph value="peuyg.init"/>
+            <Glyph value="peuyg.medi"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="alephuyg.fina"/>
+            <Glyph value="bethuyg.fina"/>
+            <Glyph value="finalHethuyg.fina"/>
+            <Glyph value="gimelHethuyg.fina"/>
+            <Glyph value="kaphuyg.fina"/>
+            <Glyph value="lamedhuyg.fina"/>
+            <Glyph value="leshuyg.fina"/>
+            <Glyph value="memuyg.fina"/>
+            <Glyph value="nunuyg.fina"/>
+            <Glyph value="peuyg.fina"/>
+            <Glyph value="reshuyg.fina"/>
+            <Glyph value="sadheuyg.fina"/>
+            <Glyph value="samekhuyg.fina"/>
+            <Glyph value="shinuyg.fina"/>
+            <Glyph value="tawuyg.fina"/>
+            <Glyph value="wawuyg.fina"/>
+            <Glyph value="yodhuyg.fina"/>
+            <Glyph value="zayinuyg.fina"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="9"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/><!-- rightToLeft ignoreMarks -->
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="alephuyg.fina" out="alephuyg"/>
+          <Substitution in="alephuyg.medi" out="alephuyg.init"/>
+          <Substitution in="bethuyg.fina" out="bethuyg"/>
+          <Substitution in="bethuyg.medi" out="bethuyg.init"/>
+          <Substitution in="finalHethuyg.fina" out="finalHethuyg"/>
+          <Substitution in="gimelHethuyg.fina" out="gimelHethuyg"/>
+          <Substitution in="gimelHethuyg.medi" out="gimelHethuyg.init"/>
+          <Substitution in="kaphuyg.fina" out="kaphuyg"/>
+          <Substitution in="kaphuyg.medi" out="kaphuyg.init"/>
+          <Substitution in="lamedhuyg.fina" out="lamedhuyg"/>
+          <Substitution in="lamedhuyg.medi" out="lamedhuyg.init"/>
+          <Substitution in="leshuyg.fina" out="leshuyg"/>
+          <Substitution in="leshuyg.medi" out="leshuyg.init"/>
+          <Substitution in="memuyg.fina" out="memuyg"/>
+          <Substitution in="memuyg.medi" out="memuyg.init"/>
+          <Substitution in="nunuyg.fina" out="nunuyg"/>
+          <Substitution in="nunuyg.medi" out="nunuyg.init"/>
+          <Substitution in="peuyg.fina" out="peuyg"/>
+          <Substitution in="peuyg.medi" out="peuyg.init"/>
+          <Substitution in="reshuyg.fina" out="reshuyg"/>
+          <Substitution in="reshuyg.medi" out="reshuyg.init"/>
+          <Substitution in="sadheuyg.fina" out="sadheuyg"/>
+          <Substitution in="sadheuyg.medi" out="sadheuyg.init"/>
+          <Substitution in="samekhuyg.fina" out="samekhuyg"/>
+          <Substitution in="samekhuyg.medi" out="samekhuyg.init"/>
+          <Substitution in="shinuyg.fina" out="shinuyg"/>
+          <Substitution in="shinuyg.medi" out="shinuyg.init"/>
+          <Substitution in="tawuyg.fina" out="tawuyg"/>
+          <Substitution in="tawuyg.medi" out="tawuyg.init"/>
+          <Substitution in="wawuyg.fina" out="wawuyg"/>
+          <Substitution in="wawuyg.medi" out="wawuyg.init"/>
+          <Substitution in="yodhuyg.fina" out="yodhuyg"/>
+          <Substitution in="yodhuyg.medi" out="yodhuyg.init"/>
+          <Substitution in="zayinuyg.fina" out="zayinuyg"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="kaphuyg.fina" out="kaphuyg.alt"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="4"/>
+        <LookupFlag value="8"/><!-- ignoreMarks -->
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+          <LigatureSet glyph="kaphuyg">
+            <Ligature components="leshuyg" glyph="kaphuyg_leshuyg"/>
+            <Ligature components="wawuyg" glyph="kaphuyg_wawuyg"/>
+          </LigatureSet>
+          <LigatureSet glyph="kaphuyg.fina">
+            <Ligature components="leshuyg.fina" glyph="kaphuyg.fina_leshuyg.fina"/>
+            <Ligature components="wawuyg.fina" glyph="kaphuyg.fina_wawuyg.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="kaphuyg.init">
+            <Ligature components="leshuyg.init" glyph="kaphuyg.init_leshuyg.init"/>
+            <Ligature components="wawuyg.init" glyph="kaphuyg.init_wawuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="kaphuyg.medi">
+            <Ligature components="leshuyg.medi" glyph="kaphuyg.medi_leshuyg.medi"/>
+            <Ligature components="wawuyg.medi" glyph="kaphuyg.medi_wawuyg.medi"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg">
+            <Ligature components="leshuyg" glyph="memuyg_leshuyg"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg.fina">
+            <Ligature components="leshuyg.fina" glyph="memuyg.fina_leshuyg.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg.init">
+            <Ligature components="leshuyg.init" glyph="memuyg.init_leshuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="memuyg.medi">
+            <Ligature components="leshuyg.medi" glyph="memuyg.medi_leshuyg.medi"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg">
+            <Ligature components="leshuyg" glyph="peuyg_leshuyg"/>
+            <Ligature components="wawuyg" glyph="peuyg_wawuyg"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg.fina">
+            <Ligature components="leshuyg.fina" glyph="peuyg.fina_leshuyg.fina"/>
+            <Ligature components="wawuyg.fina" glyph="peuyg.fina_wawuyg.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg.init">
+            <Ligature components="leshuyg.init" glyph="peuyg.init_leshuyg.init"/>
+            <Ligature components="wawuyg.init" glyph="peuyg.init_wawuyg.init"/>
+          </LigatureSet>
+          <LigatureSet glyph="peuyg.medi">
+            <Ligature components="leshuyg.medi" glyph="peuyg.medi_leshuyg.medi"/>
+            <Ligature components="wawuyg.medi" glyph="peuyg.medi_wawuyg.medi"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="6"/>
+        <LookupFlag value="16"/><!-- useMarkFilteringSet -->
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="uni0308"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="gravecomb"/>
+            <Glyph value="uni030B"/>
+            <Glyph value="uni0304"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="tildecomb"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="13"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <MarkFilteringSet value="0"/>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="16"/><!-- useMarkFilteringSet -->
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="i" out="dotlessi"/>
+          <Substitution in="j" out="uni0237"/>
+        </SingleSubst>
+        <MarkFilteringSet value="0"/>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Scedilla" out="uni0218"/>
+          <Substitution in="scedilla" out="uni0219"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="Scedilla" out="uni0218"/>
+          <Substitution in="scedilla" out="uni0219"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="eight"/>
+            <Glyph value="five"/>
+            <Glyph value="four"/>
+            <Glyph value="nine"/>
+            <Glyph value="one"/>
+            <Glyph value="seven"/>
+            <Glyph value="six"/>
+            <Glyph value="three"/>
+            <Glyph value="two"/>
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="A"/>
+            <Glyph value="a"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="17"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0">
+            <Glyph value="eight"/>
+            <Glyph value="five"/>
+            <Glyph value="four"/>
+            <Glyph value="nine"/>
+            <Glyph value="one"/>
+            <Glyph value="seven"/>
+            <Glyph value="six"/>
+            <Glyph value="three"/>
+            <Glyph value="two"/>
+            <Glyph value="zero"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="O"/>
+            <Glyph value="o"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="17"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="A" out="ordfeminine"/>
+          <Substitution in="O" out="ordmasculine"/>
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="o" out="ordmasculine"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

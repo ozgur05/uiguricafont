@@ -1,0 +1,274 @@
+{
+ "updated_049": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_051": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_056": {
+  "decision": "junk",
+  "notes": "Not a complete glyph. Stroke fragment only."
+ },
+ "updated_012": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_013": {
+  "decision": "unmapped",
+  "notes": "Multi-letter fragment, not a single glyph. No font mapping."
+ },
+ "updated_026": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_002": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_058": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_029": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_004": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_014": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_025": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_050": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_003": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_030": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_052": {
+  "decision": "glyph:zayinuyg.fina",
+  "notes": ""
+ },
+ "updated_038": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_032": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_034": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_046": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_059": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_060": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_035": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_044": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_047": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_061": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_008": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_023": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_033": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_062": {
+  "decision": "glyph:peuyg.fina",
+  "notes": ""
+ },
+ "updated_017": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_019": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_021": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_063": {
+  "decision": "glyph:zayinuyg.fina",
+  "notes": ""
+ },
+ "updated_007": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_009": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_016": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_020": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_031": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_036": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_048": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_005": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_015": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_018": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_042": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_043": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_053": {
+  "decision": "glyph:zayinuyg.fina",
+  "notes": ""
+ },
+ "updated_054": {
+  "decision": "glyph:sadheuyg.init",
+  "notes": ""
+ },
+ "updated_064": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_067": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_000": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_011": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_001": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_041": {
+  "decision": "glyph:tawuyg.medi",
+  "notes": ""
+ },
+ "updated_010": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_065": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_055": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_022": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_057": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_028": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_045": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_066": {
+  "decision": "junk",
+  "notes": ""
+ },
+ "updated_006": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_037": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_024": {
+  "decision": "unmapped",
+  "notes": ""
+ },
+ "updated_040": {
+  "decision": "glyph:wawuyg.medi",
+  "notes": ""
+ },
+ "updated_039": {
+  "decision": "ambiguous",
+  "notes": ""
+ },
+ "updated_027": {
+  "decision": "unmapped",
+  "notes": ""
+ }
+}

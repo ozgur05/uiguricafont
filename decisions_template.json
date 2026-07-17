@@ -1,0 +1,277 @@
+{
+ "_schema": "decision: accept | candidate:<glyph> | glyph:<glyph> | ambiguous | unmapped | junk",
+ "decisions": {
+  "updated_049": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_051": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_056": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_012": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_013": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_026": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_002": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_058": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_029": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_004": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_014": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_025": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_050": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_003": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_030": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_052": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_038": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_032": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_034": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_046": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_059": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_060": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_035": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_044": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_047": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_061": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_008": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_023": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_033": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_062": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_017": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_019": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_021": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_063": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_007": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_009": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_016": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_020": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_031": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_036": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_048": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_005": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_015": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_018": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_042": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_043": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_053": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_054": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_064": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_067": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_000": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_011": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_001": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_041": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_010": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_065": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_055": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_022": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_057": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_028": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_045": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_027": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_039": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_040": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_024": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_037": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_006": {
+   "decision": null,
+   "notes": ""
+  },
+  "updated_066": {
+   "decision": null,
+   "notes": ""
+  }
+ }
+}

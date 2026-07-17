@@ -1,0 +1,173 @@
+{
+  "muller": {
+    "taw": {
+      "height_px": 80,
+      "width_px": 103,
+      "aspect_ratio_w_h": 1.288,
+      "stem_width_px": 12.0,
+      "stem_to_height_ratio": 0.15,
+      "principal_axis_angle_deg": 26.4
+    },
+    "aleph": {
+      "height_px": 108,
+      "width_px": 206,
+      "aspect_ratio_w_h": 1.907,
+      "stem_width_px": 14.0,
+      "stem_to_height_ratio": 0.1296,
+      "principal_axis_angle_deg": -15.2
+    },
+    "lesh": {
+      "height_px": 152,
+      "width_px": 344,
+      "aspect_ratio_w_h": 2.263,
+      "stem_width_px": 12.0,
+      "stem_to_height_ratio": 0.0789,
+      "principal_axis_angle_deg": -2.9
+    },
+    "zayin": {
+      "height_px": 56,
+      "width_px": 98,
+      "aspect_ratio_w_h": 1.75,
+      "stem_width_px": 12.4,
+      "stem_to_height_ratio": 0.2213,
+      "principal_axis_angle_deg": -17.0
+    },
+    "resh": {
+      "height_px": 200,
+      "width_px": 220,
+      "aspect_ratio_w_h": 1.1,
+      "stem_width_px": 12.0,
+      "stem_to_height_ratio": 0.06,
+      "principal_axis_angle_deg": 0.4
+    }
+  },
+  "noto": {
+    "taw": {
+      "height_px": 324,
+      "width_px": 261,
+      "aspect_ratio_w_h": 0.806,
+      "stem_width_px": 62.0,
+      "stem_to_height_ratio": 0.1914,
+      "principal_axis_angle_deg": 51.5
+    },
+    "aleph": {
+      "height_px": 203,
+      "width_px": 174,
+      "aspect_ratio_w_h": 0.857,
+      "stem_width_px": 72.4,
+      "stem_to_height_ratio": 0.3566,
+      "principal_axis_angle_deg": 72.8
+    },
+    "lesh": {
+      "height_px": 429,
+      "width_px": 221,
+      "aspect_ratio_w_h": 0.515,
+      "stem_width_px": 63.5,
+      "stem_to_height_ratio": 0.148,
+      "principal_axis_angle_deg": 88.2
+    },
+    "zayin": {
+      "height_px": 240,
+      "width_px": 174,
+      "aspect_ratio_w_h": 0.725,
+      "stem_width_px": 55.5,
+      "stem_to_height_ratio": 0.2314,
+      "principal_axis_angle_deg": -62.1
+    },
+    "resh": {
+      "height_px": 245,
+      "width_px": 378,
+      "aspect_ratio_w_h": 1.543,
+      "stem_width_px": 62.7,
+      "stem_to_height_ratio": 0.256,
+      "principal_axis_angle_deg": -17.5
+    }
+  },
+  "comparison": {
+    "taw": {
+      "aspect_ratio_w_h": {
+        "muller": 1.288,
+        "noto": 0.806,
+        "delta": 0.482
+      },
+      "stem_to_height_ratio": {
+        "muller": 0.15,
+        "noto": 0.1914,
+        "delta": -0.041
+      },
+      "principal_axis_angle_deg": {
+        "muller": 26.4,
+        "noto": 51.5,
+        "delta": -25.1
+      }
+    },
+    "aleph": {
+      "aspect_ratio_w_h": {
+        "muller": 1.907,
+        "noto": 0.857,
+        "delta": 1.05
+      },
+      "stem_to_height_ratio": {
+        "muller": 0.1296,
+        "noto": 0.3566,
+        "delta": -0.227
+      },
+      "principal_axis_angle_deg": {
+        "muller": -15.2,
+        "noto": 72.8,
+        "delta": -88.0
+      }
+    },
+    "lesh": {
+      "aspect_ratio_w_h": {
+        "muller": 2.263,
+        "noto": 0.515,
+        "delta": 1.748
+      },
+      "stem_to_height_ratio": {
+        "muller": 0.0789,
+        "noto": 0.148,
+        "delta": -0.069
+      },
+      "principal_axis_angle_deg": {
+        "muller": -2.9,
+        "noto": 88.2,
+        "delta": -91.1
+      }
+    },
+    "zayin": {
+      "aspect_ratio_w_h": {
+        "muller": 1.75,
+        "noto": 0.725,
+        "delta": 1.025
+      },
+      "stem_to_height_ratio": {
+        "muller": 0.2213,
+        "noto": 0.2314,
+        "delta": -0.01
+      },
+      "principal_axis_angle_deg": {
+        "muller": -17.0,
+        "noto": -62.1,
+        "delta": 45.1
+      }
+    },
+    "resh": {
+      "aspect_ratio_w_h": {
+        "muller": 1.1,
+        "noto": 1.543,
+        "delta": -0.443
+      },
+      "stem_to_height_ratio": {
+        "muller": 0.06,
+        "noto": 0.256,
+        "delta": -0.196
+      },
+      "principal_axis_angle_deg": {
+        "muller": 0.4,
+        "noto": -17.5,
+        "delta": 17.9
+      }
+    }
+  }
+}

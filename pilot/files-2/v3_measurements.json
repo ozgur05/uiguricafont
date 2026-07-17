@@ -1,0 +1,37 @@
+{
+  "taw": {
+    "height_px": 80,
+    "width_px": 103,
+    "aspect_ratio_w_h": 1.288,
+    "stem_width_px": 12.0,
+    "stem_to_height_ratio": 0.15
+  },
+  "aleph": {
+    "height_px": 108,
+    "width_px": 206,
+    "aspect_ratio_w_h": 1.907,
+    "stem_width_px": 10.4,
+    "stem_to_height_ratio": 0.0962
+  },
+  "lesh": {
+    "height_px": 152,
+    "width_px": 344,
+    "aspect_ratio_w_h": 2.263,
+    "stem_width_px": 12.0,
+    "stem_to_height_ratio": 0.0789
+  },
+  "zayin": {
+    "height_px": 40,
+    "width_px": 98,
+    "aspect_ratio_w_h": 2.45,
+    "stem_width_px": 8.0,
+    "stem_to_height_ratio": 0.2
+  },
+  "resh": {
+    "height_px": 112,
+    "width_px": 220,
+    "aspect_ratio_w_h": 1.964,
+    "stem_width_px": 12.4,
+    "stem_to_height_ratio": 0.1107
+  }
+}

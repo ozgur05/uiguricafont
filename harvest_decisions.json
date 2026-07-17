@@ -1,0 +1,108 @@
+{
+ "zayinuyg.fina": [
+  "cand0232.png",
+  "cand0122.png",
+  "cand0184.png"
+ ],
+ "lamedhuyg": [
+  "cand0477.png"
+ ],
+ "lamedhuyg.init": [
+  "cand0506.png",
+  "cand0505.png",
+  "cand0509.png",
+  "cand0508.png"
+ ],
+ "lamedhuyg.medi": [
+  "cand0520.png",
+  "cand0526.png",
+  "cand0538.png",
+  "cand0527.png",
+  "cand0536.png"
+ ],
+ "lamedhuyg.fina": [
+  "cand0567.png"
+ ],
+ "nunuyg": [
+  "cand0758.png",
+  "cand0728.png"
+ ],
+ "nunuyg.init": [
+  "cand0934.png",
+  "cand2032.png",
+  "cand1015.png",
+  "cand1188.png"
+ ],
+ "nunuyg.medi": [
+  "cand3021.png",
+  "cand2260.png",
+  "cand2422.png",
+  "cand2547.png"
+ ],
+ "nunuyg.fina": [
+  "cand3570.png",
+  "cand3652.png"
+ ],
+ "samekhuyg": [
+  "cand3789.png",
+  "cand3790.png"
+ ],
+ "samekhuyg.init": [
+  "cand3877.png",
+  "cand3899.png",
+  "cand3871.png",
+  "cand3869.png",
+  "cand3815.png",
+  "cand3804.png",
+  "cand3811.png"
+ ],
+ "samekhuyg.medi": [
+  "cand4004.png",
+  "cand3931.png",
+  "cand3947.png",
+  "cand3943.png",
+  "cand3986.png",
+  "cand4031.png"
+ ],
+ "samekhuyg.fina": [
+  "cand4106.png",
+  "cand4107.png"
+ ],
+ "sadheuyg.init": [
+  "cand4113.png",
+  "cand4142.png",
+  "cand4146.png",
+  "cand4121.png",
+  "cand4126.png"
+ ],
+ "shinuyg": [
+  "cand4173.png",
+  "cand4171.png",
+  "cand4167.png"
+ ],
+ "shinuyg.init": [
+  "cand4270.png",
+  "cand4350.png",
+  "cand4180.png",
+  "cand4375.png",
+  "cand4202.png"
+ ],
+ "shinuyg.medi": [
+  "cand4420.png",
+  "cand4405.png",
+  "cand4590.png"
+ ],
+ "shinuyg.fina": [
+  "cand4604.png",
+  "cand4600.png",
+  "cand4602.png"
+ ],
+ "dotaboveuyg": [
+  "cand4765.png",
+  "cand5578.png"
+ ],
+ "dotbelowuyg": [
+  "cand5824.png",
+  "cand5831.png"
+ ]
+}

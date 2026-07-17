@@ -1,0 +1,18 @@
+# Large regenerable intermediates (5.4 GB): 1200-dpi page renders of the
+# Le Coq source volume. The harvest crops derived from them (harvest_lecoq*/)
+# ARE committed; see BUILDING.md for how to regenerate the page renders.
+lecoq_scans/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# scratch
+tmp/
+*.tmp

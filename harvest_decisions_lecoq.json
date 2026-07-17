@@ -1,0 +1,148 @@
+{
+ "PunctuationBar": [
+  "cand14671.png",
+  "cand12664.png",
+  "cand13865.png",
+  "cand18143.png",
+  "cand01764.png"
+ ],
+ "PunctuationFourDots": [
+  "cand22400.png"
+ ],
+ "PunctuationTwoBars": [
+  "cand02375.png",
+  "cand12403.png"
+ ],
+ "PunctuationTwoDots": [
+  "cand21172.png",
+  "cand04665.png",
+  "cand10745.png"
+ ],
+ "bethuyg": [
+  "cand05287.png",
+  "cand16409.png",
+  "cand05652.png",
+  "cand18096.png",
+  "cand05325.png",
+  "cand17762.png",
+  "cand21158.png",
+  "cand17508.png"
+ ],
+ "bethuyg.fina": [
+  "cand16412.png",
+  "cand05327.png",
+  "cand21161.png",
+  "cand22142.png",
+  "cand17511.png",
+  "cand17764.png"
+ ],
+ "bethuyg.init": [
+  "cand02785.png",
+  "cand16356.png",
+  "cand20928.png",
+  "cand21636.png",
+  "cand06565.png"
+ ],
+ "bethuyg.medi": [
+  "cand21316.png",
+  "cand01565.png",
+  "cand05759.png",
+  "cand15174.png",
+  "cand21444.png",
+  "cand05551.png",
+  "cand16286.png"
+ ],
+ "dotaboveuyg": [
+  "cand19357.png"
+ ],
+ "dotbelowuyg": [
+  "cand22393.png"
+ ],
+ "gimelHethuyg": [
+  "cand14617.png",
+  "cand14711.png",
+  "cand22174.png",
+  "cand12172.png",
+  "cand19005.png",
+  "cand19929.png"
+ ],
+ "gimelHethuyg.fina": [
+  "cand22198.png",
+  "cand14619.png",
+  "cand12176.png",
+  "cand20138.png",
+  "cand19932.png"
+ ],
+ "gimelHethuyg.init": [
+  "cand06789.png",
+  "cand17339.png",
+  "cand20135.png",
+  "cand20609.png",
+  "cand22600.png",
+  "cand19441.png",
+  "cand18338.png",
+  "cand18321.png",
+  "cand20317.png",
+  "cand17700.png"
+ ],
+ "gimelHethuyg.medi": [
+  "cand00411.png",
+  "cand18076.png",
+  "cand08936.png",
+  "cand13995.png",
+  "cand20745.png",
+  "cand13067.png"
+ ],
+ "kaphuyg": [
+  "cand14076.png",
+  "cand08178.png",
+  "cand21012.png",
+  "cand08334.png",
+  "cand16379.png"
+ ],
+ "kaphuyg.fina": [
+  "cand14077.png",
+  "cand19074.png",
+  "cand20353.png"
+ ],
+ "kaphuyg.init": [
+  "cand18035.png",
+  "cand20888.png"
+ ],
+ "kaphuyg.medi": [
+  "cand17402.png",
+  "cand18849.png",
+  "cand00574.png"
+ ],
+ "memuyg": [
+  "cand21294.png"
+ ],
+ "memuyg.fina": [
+  "cand22127.png",
+  "cand00677.png",
+  "cand12033.png",
+  "cand01759.png",
+  "cand06599.png",
+  "cand00847.png",
+  "cand08097.png"
+ ],
+ "memuyg.medi": [
+  "cand20890.png",
+  "cand16905.png",
+  "cand17205.png",
+  "cand16516.png",
+  "cand14979.png",
+  "cand12525.png",
+  "cand04884.png",
+  "cand03748.png",
+  "cand20969.png",
+  "cand18730.png"
+ ],
+ "twodotsaboveuyg": [
+  "cand19360.png"
+ ],
+ "twodotsbelowuyg": [
+  "cand21694.png",
+  "cand01773.png"
+ ]
+}

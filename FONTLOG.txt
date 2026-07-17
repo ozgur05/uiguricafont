@@ -1,0 +1,27 @@
+FONTLOG for Uigurica
+====================
+
+This file provides detailed information on the Uigurica font family.
+
+Basic Font Information
+----------------------
+Uigurica is a Unicode Old Uyghur (U+10F70-U+10F89) serif typeface. Its glyph
+outlines are reconstructed from the printed Old Uyghur metal type used in:
+  - F. W. K. Mueller, Uigurica I (APAW, 1908)
+  - A. von Le Coq, Tuerkische Manichaica aus Chotscho I (APAW, 1912)
+Both use the same Berlin-academy typeface. The technical foundation
+(OpenType layout, metrics anchors, hinting, cmap) is Google's Noto Serif
+Old Uyghur 1.004; those tables are preserved unchanged.
+
+ChangeLog
+---------
+v1.0.0 (2026-07-17) - Initial public release (font-internal 1.000).
+  - 39 production glyphs from multi-attestation consensus of the print.
+  - Metrics refinement for connector-run advances.
+  - 4 codepoints retained as draft (Noto outline) pending attestations.
+
+Acknowledgements
+----------------
+Source scans: Mueller 1908, Le Coq 1912 (public domain).
+Technical base: Noto Serif Old Uyghur, Google (OFL 1.1).
+Encoding model: Unicode Old Uyghur block; proposal L2/20-191.

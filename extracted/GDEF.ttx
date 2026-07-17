@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.63">
+
+  <GDEF>
+    <Version value="0x00010002"/>
+    <GlyphClassDef>
+      <ClassDef glyph="A" class="1"/>
+      <ClassDef glyph="AE" class="1"/>
+      <ClassDef glyph="Aacute" class="1"/>
+      <ClassDef glyph="Abreve" class="1"/>
+      <ClassDef glyph="Acircumflex" class="1"/>
+      <ClassDef glyph="Adieresis" class="1"/>
+      <ClassDef glyph="Agrave" class="1"/>
+      <ClassDef glyph="Amacron" class="1"/>
+      <ClassDef glyph="Aogonek" class="1"/>
+      <ClassDef glyph="Aring" class="1"/>
+      <ClassDef glyph="Atilde" class="1"/>
+      <ClassDef glyph="B" class="1"/>
+      <ClassDef glyph="C" class="1"/>
+      <ClassDef glyph="Cacute" class="1"/>
+      <ClassDef glyph="Ccaron" class="1"/>
+      <ClassDef glyph="Ccedilla" class="1"/>
+      <ClassDef glyph="Cdotaccent" class="1"/>
+      <ClassDef glyph="D" class="1"/>
+      <ClassDef glyph="Dcaron" class="1"/>
+      <ClassDef glyph="Dcroat" class="1"/>
+      <ClassDef glyph="E" class="1"/>
+      <ClassDef glyph="Eacute" class="1"/>
+      <ClassDef glyph="Ecaron" class="1"/>
+      <ClassDef glyph="Ecircumflex" class="1"/>
+      <ClassDef glyph="Edieresis" class="1"/>
+      <ClassDef glyph="Edotaccent" class="1"/>
+      <ClassDef glyph="Egrave" class="1"/>
+      <ClassDef glyph="Emacron" class="1"/>
+      <ClassDef glyph="Eogonek" class="1"/>
+      <ClassDef glyph="Eth" class="1"/>
+      <ClassDef glyph="F" class="1"/>
+      <ClassDef glyph="G" class="1"/>
+      <ClassDef glyph="Gbreve" class="1"/>
+      <ClassDef glyph="Gdotaccent" class="1"/>
+      <ClassDef glyph="H" class="1"/>
+      <ClassDef glyph="Hbar" class="1"/>
+      <ClassDef glyph="I" class="1"/>
+      <ClassDef glyph="Iacute" class="1"/>
+      <ClassDef glyph="Icircumflex" class="1"/>
+      <ClassDef glyph="Idieresis" class="1"/>
+      <ClassDef glyph="Idotaccent" class="1"/>
+      <ClassDef glyph="Igrave" class="1"/>
+      <ClassDef glyph="Imacron" class="1"/>
+      <ClassDef glyph="Iogonek" class="1"/>
+      <ClassDef glyph="J" class="1"/>
+      <ClassDef glyph="K" class="1"/>
+      <ClassDef glyph="L" class="1"/>
+      <ClassDef glyph="Lacute" class="1"/>
+      <ClassDef glyph="Lcaron" class="1"/>
+      <ClassDef glyph="Lslash" class="1"/>
+      <ClassDef glyph="M" class="1"/>
+      <ClassDef glyph="N" class="1"/>
+      <ClassDef glyph="Nacute" class="1"/>
+      <ClassDef glyph="Ncaron" class="1"/>
+      <ClassDef glyph="Ntilde" class="1"/>
+      <ClassDef glyph="O" class="1"/>
+      <ClassDef glyph="OE" class="1"/>
+      <ClassDef glyph="Oacute" class="1"/>
+      <ClassDef glyph="Ocircumflex" class="1"/>
+      <ClassDef glyph="Odieresis" class="1"/>
+      <ClassDef glyph="Ograve" class="1"/>
+      <ClassDef glyph="Ohungarumlaut" class="1"/>
+      <ClassDef glyph="Oslash" class="1"/>
+      <ClassDef glyph="Otilde" class="1"/>
+      <ClassDef glyph="P" class="1"/>
+      <ClassDef glyph="Q" class="1"/>
+      <ClassDef glyph="R" class="1"/>
+      <ClassDef glyph="Racute" class="1"/>
+      <ClassDef glyph="Rcaron" class="1"/>
+      <ClassDef glyph="S" class="1"/>
+      <ClassDef glyph="Sacute" class="1"/>
+      <ClassDef glyph="Scaron" class="1"/>
+      <ClassDef glyph="Scedilla" class="1"/>
+      <ClassDef glyph="T" class="1"/>
+      <ClassDef glyph="Tcaron" class="1"/>
+      <ClassDef glyph="Thorn" class="1"/>
+      <ClassDef glyph="U" class="1"/>
+      <ClassDef glyph="Uacute" class="1"/>
+      <ClassDef glyph="Ucircumflex" class="1"/>
+      <ClassDef glyph="Udieresis" class="1"/>
+      <ClassDef glyph="Ugrave" class="1"/>
+      <ClassDef glyph="Uhungarumlaut" class="1"/>
+      <ClassDef glyph="Umacron" class="1"/>
+      <ClassDef glyph="Uogonek" class="1"/>
+      <ClassDef glyph="Uring" class="1"/>
+      <ClassDef glyph="V" class="1"/>
+      <ClassDef glyph="W" class="1"/>
+      <ClassDef glyph="Wacute" class="1"/>
+      <ClassDef glyph="Wcircumflex" class="1"/>
+      <ClassDef glyph="Wdieresis" class="1"/>
+      <ClassDef glyph="Wgrave" class="1"/>
+      <ClassDef glyph="X" class="1"/>
+      <ClassDef glyph="Y" class="1"/>
+      <ClassDef glyph="Yacute" class="1"/>
+      <ClassDef glyph="Ycircumflex" class="1"/>
+      <ClassDef glyph="Ydieresis" class="1"/>
+      <ClassDef glyph="Ygrave" class="1"/>
+      <ClassDef glyph="Z" class="1"/>
+      <ClassDef glyph="Zacute" class="1"/>
+      <ClassDef glyph="Zcaron" class="1"/>
+      <ClassDef glyph="Zdotaccent" class="1"/>
+      <ClassDef glyph="a" class="1"/>
+      <ClassDef glyph="aacute" class="1"/>
+      <ClassDef glyph="abreve" class="1"/>
+      <ClassDef glyph="acircumflex" class="1"/>
+      <ClassDef glyph="acutecomb" class="3"/>
+      <ClassDef glyph="adieresis" class="1"/>
+      <ClassDef glyph="ae" class="1"/>
+      <ClassDef glyph="agrave" class="1"/>
+      <ClassDef glyph="amacron" class="1"/>
+      <ClassDef glyph="aogonek" class="1"/>
+      <ClassDef glyph="aring" class="1"/>
+      <ClassDef glyph="atilde" class="1"/>
+      <ClassDef glyph="b" class="1"/>
+      <ClassDef glyph="c" class="1"/>
+      <ClassDef glyph="cacute" class="1"/>
+      <ClassDef glyph="ccaron" class="1"/>
+      <ClassDef glyph="ccedilla" class="1"/>
+      <ClassDef glyph="cdotaccent" class="1"/>
+      <ClassDef glyph="d" class="1"/>
+      <ClassDef glyph="dcaron" class="1"/>
+      <ClassDef glyph="dcroat" class="1"/>
+      <ClassDef glyph="dotaboveuyg" class="3"/>
+      <ClassDef glyph="dotbelowuyg" class="3"/>
+      <ClassDef glyph="dotlessi" class="1"/>
+      <ClassDef glyph="e" class="1"/>
+      <ClassDef glyph="eacute" class="1"/>
+      <ClassDef glyph="ecaron" class="1"/>
+      <ClassDef glyph="ecircumflex" class="1"/>
+      <ClassDef glyph="edieresis" class="1"/>
+      <ClassDef glyph="edotaccent" class="1"/>
+      <ClassDef glyph="egrave" class="1"/>
+      <ClassDef glyph="emacron" class="1"/>
+      <ClassDef glyph="eogonek" class="1"/>
+      <ClassDef glyph="eth" class="1"/>
+      <ClassDef glyph="f" class="1"/>
+      <ClassDef glyph="finalHethuyg" class="1"/>
+      <ClassDef glyph="finalHethuyg.fina" class="1"/>
+      <ClassDef glyph="g" class="1"/>
+      <ClassDef glyph="gbreve" class="1"/>
+      <ClassDef glyph="gdotaccent" class="1"/>
+      <ClassDef glyph="germandbls" class="1"/>
+      <ClassDef glyph="gimelHethtwodotsaboveuyg" class="1"/>
+      <ClassDef glyph="gimelHethuyg" class="1"/>
+      <ClassDef glyph="gimelHethuyg.fina" class="1"/>
+      <ClassDef glyph="gimelHethuyg.init" class="1"/>
+      <ClassDef glyph="gimelHethuyg.medi" class="1"/>
+      <ClassDef glyph="gravecomb" class="3"/>
+      <ClassDef glyph="h" class="1"/>
+      <ClassDef glyph="hbar" class="1"/>
+      <ClassDef glyph="i" class="1"/>
+      <ClassDef glyph="iacute" class="1"/>
+      <ClassDef glyph="icircumflex" class="1"/>
+      <ClassDef glyph="idieresis" class="1"/>
+      <ClassDef glyph="igrave" class="1"/>
+      <ClassDef glyph="imacron" class="1"/>
+      <ClassDef glyph="iogonek" class="1"/>
+      <ClassDef glyph="j" class="1"/>
+      <ClassDef glyph="k" class="1"/>
+      <ClassDef glyph="kaphuyg.fina_leshuyg.fina" class="1"/>
+      <ClassDef glyph="kaphuyg.fina_wawuyg.fina" class="1"/>
+      <ClassDef glyph="kaphuyg.init_leshuyg.init" class="1"/>
+      <ClassDef glyph="kaphuyg.init_wawuyg.init" class="1"/>
+      <ClassDef glyph="kaphuyg.medi_leshuyg.medi" class="1"/>
+      <ClassDef glyph="kaphuyg.medi_wawuyg.medi" class="1"/>
+      <ClassDef glyph="kaphuyg.medi_wawuyg.medi.alt" class="2"/>
+      <ClassDef glyph="kaphuyg_leshuyg" class="1"/>
+      <ClassDef glyph="kaphuyg_wawuyg" class="1"/>
+      <ClassDef glyph="l" class="1"/>
+      <ClassDef glyph="lacute" class="1"/>
+      <ClassDef glyph="lcaron" class="1"/>
+      <ClassDef glyph="lslash" class="1"/>
+      <ClassDef glyph="m" class="1"/>
+      <ClassDef glyph="memuyg.fina_leshuyg.fina" class="1"/>
+      <ClassDef glyph="memuyg.init_leshuyg.init" class="1"/>
+      <ClassDef glyph="memuyg.medi_leshuyg.medi" class="1"/>
+      <ClassDef glyph="memuyg_leshuyg" class="1"/>
+      <ClassDef glyph="n" class="1"/>
+      <ClassDef glyph="nacute" class="1"/>
+      <ClassDef glyph="ncaron" class="1"/>
+      <ClassDef glyph="ntilde" class="1"/>
+      <ClassDef glyph="nunuyg" class="1"/>
+      <ClassDef glyph="nunuyg.fina" class="1"/>
+      <ClassDef glyph="nunuyg.init" class="1"/>
+      <ClassDef glyph="nunuyg.medi" class="1"/>
+      <ClassDef glyph="o" class="1"/>
+      <ClassDef glyph="oacute" class="1"/>
+      <ClassDef glyph="ocircumflex" class="1"/>
+      <ClassDef glyph="odieresis" class="1"/>
+      <ClassDef glyph="oe" class="1"/>
+      <ClassDef glyph="ograve" class="1"/>
+      <ClassDef glyph="ohungarumlaut" class="1"/>
+      <ClassDef glyph="ordfeminine" class="1"/>
+      <ClassDef glyph="ordmasculine" class="1"/>
+      <ClassDef glyph="oslash" class="1"/>
+      <ClassDef glyph="otilde" class="1"/>
+      <ClassDef glyph="p" class="1"/>
+      <ClassDef glyph="peuyg.fina_leshuyg.fina" class="1"/>
+      <ClassDef glyph="peuyg.fina_wawuyg.fina" class="1"/>
+      <ClassDef glyph="peuyg.init_leshuyg.init" class="1"/>
+      <ClassDef glyph="peuyg.init_wawuyg.init" class="1"/>
+      <ClassDef glyph="peuyg.medi_leshuyg.medi" class="1"/>
+      <ClassDef glyph="peuyg.medi_wawuyg.medi" class="1"/>
+      <ClassDef glyph="peuyg_leshuyg" class="1"/>
+      <ClassDef glyph="peuyg_wawuyg" class="1"/>
+      <ClassDef glyph="q" class="1"/>
+      <ClassDef glyph="r" class="1"/>
+      <ClassDef glyph="racute" class="1"/>
+      <ClassDef glyph="rcaron" class="1"/>
+      <ClassDef glyph="s" class="1"/>
+      <ClassDef glyph="sacute" class="1"/>
+      <ClassDef glyph="scaron" class="1"/>
+      <ClassDef glyph="scedilla" class="1"/>
+      <ClassDef glyph="shinuyg" class="1"/>
+      <ClassDef glyph="shinuyg.fina" class="1"/>
+      <ClassDef glyph="shinuyg.init" class="1"/>
+      <ClassDef glyph="shinuyg.medi" class="1"/>
+      <ClassDef glyph="t" class="1"/>
+      <ClassDef glyph="tcaron" class="1"/>
+      <ClassDef glyph="thorn" class="1"/>
+      <ClassDef glyph="tildecomb" class="3"/>
+      <ClassDef glyph="twodotsaboveuyg" class="3"/>
+      <ClassDef glyph="twodotsbelowuyg" class="3"/>
+      <ClassDef glyph="u" class="1"/>
+      <ClassDef glyph="uacute" class="1"/>
+      <ClassDef glyph="ucircumflex" class="1"/>
+      <ClassDef glyph="udieresis" class="1"/>
+      <ClassDef glyph="ugrave" class="1"/>
+      <ClassDef glyph="uhungarumlaut" class="1"/>
+      <ClassDef glyph="umacron" class="1"/>
+      <ClassDef glyph="uni0122" class="1"/>
+      <ClassDef glyph="uni0123" class="1"/>
+      <ClassDef glyph="uni0136" class="1"/>
+      <ClassDef glyph="uni0137" class="1"/>
+      <ClassDef glyph="uni013B" class="1"/>
+      <ClassDef glyph="uni013C" class="1"/>
+      <ClassDef glyph="uni0145" class="1"/>
+      <ClassDef glyph="uni0146" class="1"/>
+      <ClassDef glyph="uni0218" class="1"/>
+      <ClassDef glyph="uni0219" class="1"/>
+      <ClassDef glyph="uni021A" class="1"/>
+      <ClassDef glyph="uni021B" class="1"/>
+      <ClassDef glyph="uni0237" class="1"/>
+      <ClassDef glyph="uni0302" class="3"/>
+      <ClassDef glyph="uni0304" class="3"/>
+      <ClassDef glyph="uni0306" class="3"/>
+      <ClassDef glyph="uni0307" class="3"/>
+      <ClassDef glyph="uni0308" class="3"/>
+      <ClassDef glyph="uni030A" class="3"/>
+      <ClassDef glyph="uni030B" class="3"/>
+      <ClassDef glyph="uni030C" class="3"/>
+      <ClassDef glyph="uni0326" class="3"/>
+      <ClassDef glyph="uni0327" class="3"/>
+      <ClassDef glyph="uni0328" class="3"/>
+      <ClassDef glyph="uni0640" class="1"/>
+      <ClassDef glyph="uni1E9E" class="1"/>
+      <ClassDef glyph="uni25CC" class="1"/>
+      <ClassDef glyph="uogonek" class="1"/>
+      <ClassDef glyph="uring" class="1"/>
+      <ClassDef glyph="v" class="1"/>
+      <ClassDef glyph="w" class="1"/>
+      <ClassDef glyph="wacute" class="1"/>
+      <ClassDef glyph="wcircumflex" class="1"/>
+      <ClassDef glyph="wdieresis" class="1"/>
+      <ClassDef glyph="wgrave" class="1"/>
+      <ClassDef glyph="x" class="1"/>
+      <ClassDef glyph="y" class="1"/>
+      <ClassDef glyph="yacute" class="1"/>
+      <ClassDef glyph="ycircumflex" class="1"/>
+      <ClassDef glyph="ydieresis" class="1"/>
+      <ClassDef glyph="ygrave" class="1"/>
+      <ClassDef glyph="z" class="1"/>
+      <ClassDef glyph="zacute" class="1"/>
+      <ClassDef glyph="zayinuyg" class="1"/>
+      <ClassDef glyph="zayinuyg.fina" class="1"/>
+      <ClassDef glyph="zcaron" class="1"/>
+      <ClassDef glyph="zdotaccent" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage>
+        <Glyph value="kaphuyg_leshuyg"/>
+        <Glyph value="kaphuyg_wawuyg"/>
+        <Glyph value="kaphuyg.fina_leshuyg.fina"/>
+        <Glyph value="kaphuyg.fina_wawuyg.fina"/>
+        <Glyph value="kaphuyg.init_leshuyg.init"/>
+        <Glyph value="kaphuyg.medi_leshuyg.medi"/>
+        <Glyph value="kaphuyg.medi_wawuyg.medi"/>
+        <Glyph value="memuyg_leshuyg"/>
+        <Glyph value="memuyg.fina_leshuyg.fina"/>
+        <Glyph value="memuyg.init_leshuyg.init"/>
+        <Glyph value="peuyg_leshuyg"/>
+        <Glyph value="peuyg.fina_leshuyg.fina"/>
+        <Glyph value="peuyg.init_leshuyg.init"/>
+        <Glyph value="peuyg.fina_wawuyg.fina"/>
+        <Glyph value="peuyg.init_wawuyg.init"/>
+        <Glyph value="peuyg_wawuyg"/>
+        <Glyph value="memuyg.medi_leshuyg.medi"/>
+        <Glyph value="peuyg.medi_leshuyg.medi"/>
+        <Glyph value="peuyg.medi_wawuyg.medi"/>
+        <Glyph value="kaphuyg.medi_wawuyg.medi.alt"/>
+        <Glyph value="kaphuyg.init_wawuyg.init"/>
+      </Coverage>
+      <!-- LigGlyphCount=21 -->
+      <LigGlyph index="0">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="315"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="1">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="341"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="2">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="323"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="3">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="306"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="4">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="279"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="5">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="309"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="6">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="292"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="7">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="314"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="8">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="332"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="9">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="321"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="10">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="311"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="11">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="305"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="12">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="305"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="13">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="312"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="14">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="304"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="15">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="315"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="16">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="381"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="17">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="311"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="18">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="314"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="19">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="319"/>
+        </CaretValue>
+      </LigGlyph>
+      <LigGlyph index="20">
+        <!-- CaretCount=1 -->
+        <CaretValue index="0" Format="1">
+          <Coordinate value="301"/>
+        </CaretValue>
+      </LigGlyph>
+    </LigCaretList>
+    <MarkGlyphSetsDef>
+      <MarkSetTableFormat value="1"/>
+      <!-- MarkSetCount=2 -->
+      <Coverage index="0">
+        <Glyph value="acutecomb"/>
+        <Glyph value="uni0306"/>
+        <Glyph value="uni030C"/>
+        <Glyph value="uni0302"/>
+        <Glyph value="uni0308"/>
+        <Glyph value="uni0307"/>
+        <Glyph value="gravecomb"/>
+        <Glyph value="uni030B"/>
+        <Glyph value="uni0304"/>
+        <Glyph value="uni030A"/>
+        <Glyph value="tildecomb"/>
+      </Coverage>
+      <Coverage index="1">
+        <Glyph value="uni0327"/>
+        <Glyph value="uni0326"/>
+        <Glyph value="uni0328"/>
+      </Coverage>
+    </MarkGlyphSetsDef>
+  </GDEF>
+
+</ttFont>

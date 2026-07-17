@@ -1,0 +1,151 @@
+Phase 5.6 - human validation applied
+
+CLUSTER TOTALS
+  confirmed            0
+  corrected            7
+  confirmed_ambiguous  12
+  human_unmapped       39
+  junk                 10
+  pending              0
+
+SEGMENT TOTALS (members)
+  confirmed            0
+  corrected            39
+  confirmed_ambiguous  216
+  human_unmapped       677
+  junk                 629
+  pending              0
+
+UNICODE COVERAGE (26 Old Uyghur codepoints)
+  direct: 5 ['U+10F73', 'U+10F74', 'U+10F7C', 'U+10F7D', 'U+10F80']
+  via ambiguous group only: 9 ['U+10F70', 'U+10F71', 'U+10F72', 'U+10F75', 'U+10F76', 'U+10F77', 'U+10F79', 'U+10F7E', 'U+10F81']
+  missing: 12 ['U+10F78', 'U+10F7A', 'U+10F7B', 'U+10F7F', 'U+10F82', 'U+10F83', 'U+10F84', 'U+10F85', 'U+10F86', 'U+10F87', 'U+10F88', 'U+10F89']
+
+GLYPH COVERAGE
+  validated source: 5 glyphs: ['peuyg.fina', 'sadheuyg.init', 'tawuyg.medi', 'wawuyg.medi', 'zayinuyg.fina']
+  in confirmed-ambiguous groups: 27
+  letter/mark/punct glyphs with NO source: 51
+    PunctuationBar
+    PunctuationFourDots
+    PunctuationTwoBars
+    PunctuationTwoDots
+    alephuyg
+    alephuyg.fina
+    alephuyg.medi
+    bethuyg.init
+    bethuyg.medi
+    dotaboveuyg
+    dotbelowuyg
+    gimelHethuyg
+    gimelHethuyg.fina
+    gimelHethuyg.init
+    kaphuyg.alt
+    kaphuyg.init
+    kaphuyg.medi
+    lamedhuyg
+    lamedhuyg.fina
+    lamedhuyg.init
+    lamedhuyg.medi
+    leshuyg.init
+    leshuyg.medi
+    memuyg
+    memuyg.fina
+    memuyg.init
+    nunuyg
+    nunuyg.fina
+    nunuyg.init
+    nunuyg.medi
+    peuyg
+    peuyg.init
+    peuyg.medi
+    sadheuyg.medi
+    samekhuyg
+    samekhuyg.fina
+    samekhuyg.init
+    samekhuyg.medi
+    shinuyg
+    shinuyg.fina
+    shinuyg.init
+    shinuyg.medi
+    tawuyg.init
+    twodotsaboveuyg
+    twodotsbelowuyg
+    wawuyg
+    wawuyg.fina
+    wawuyg.init
+    yodhuyg.init
+    yodhuyg.medi
+    zayinuyg
+
+DUPLICATE FINAL ASSIGNMENTS
+  zayinuyg.fina: updated_052, updated_053, updated_063
+
+CHANGES
+  updated_000: machine=unmapped (multi-letter word segment) (best=memuyg.medi_leshuyg.medi, conf=0.105) -> human=human_unmapped
+  updated_001: machine=unmapped (multi-letter word segment) (best=memuyg.medi_leshuyg.medi, conf=0.039) -> human=human_unmapped
+  updated_002: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.391) -> human=human_unmapped
+  updated_003: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.366) -> human=junk
+  updated_004: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.395) -> human=human_unmapped
+  updated_005: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.169) -> human=human_unmapped
+  updated_006: machine=mapped (best=memuyg.medi_leshuyg.medi, conf=0.51) -> human=human_unmapped
+  updated_007: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.386) -> human=human_unmapped
+  updated_008: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.297) -> human=human_unmapped
+  updated_009: machine=review (best=PunctuationTwoDots, conf=0.29) -> human=human_unmapped
+  updated_010: machine=unmapped (multi-letter word segment) (best=memuyg.medi_leshuyg.medi, conf=0.0) -> human=confirmed_ambiguous
+  updated_011: machine=unmapped (multi-letter word segment) (best=memuyg.medi_leshuyg.medi, conf=0.097) -> human=human_unmapped
+  updated_012: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.205) -> human=human_unmapped
+  updated_013: machine=review (best=finalHethuyg, conf=0.243) -> human=human_unmapped  // Multi-letter fragment, not a single glyph. No font mapping.
+  updated_014: machine=review (best=peuyg, conf=0.236) -> human=human_unmapped
+  updated_015: machine=review (best=peuyg.fina_leshuyg.fina, conf=0.085) -> human=human_unmapped
+  updated_016: machine=review (best=memuyg_leshuyg, conf=0.225) -> human=human_unmapped
+  updated_017: machine=review (best=memuyg.init, conf=0.081) -> human=human_unmapped
+  updated_018: machine=review (best=peuyg.fina, conf=0.203) -> human=human_unmapped
+  updated_019: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.252) -> human=human_unmapped
+  updated_020: machine=review (best=peuyg.fina_leshuyg.fina, conf=0.319) -> human=human_unmapped
+  updated_021: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.198) -> human=human_unmapped
+  updated_022: machine=mapped (best=uni0640, conf=1.0) -> human=junk
+  updated_023: machine=review (best=bethuyg.fina, conf=0.262) -> human=human_unmapped
+  updated_024: machine=mapped (best=shinuyg.fina, conf=0.496) -> human=human_unmapped
+  updated_025: machine=review (best=tawuyg.medi, conf=0.535) -> human=human_unmapped
+  updated_026: machine=review (best=bethuyg.fina, conf=0.494) -> human=human_unmapped
+  updated_027: machine=mapped (best=bethuyg.init, conf=0.516) -> human=human_unmapped
+  updated_028: machine=mapped (best=bethuyg, conf=0.462) -> human=human_unmapped
+  updated_029: machine=review (best=peuyg.init_wawuyg.init, conf=0.375) -> human=human_unmapped
+  updated_030: machine=review (best=kaphuyg.medi_wawuyg.medi, conf=0.46) -> human=confirmed_ambiguous
+  updated_031: machine=review (best=peuyg.medi_wawuyg.medi, conf=0.378) -> human=human_unmapped
+  updated_032: machine=review (best=shinuyg.init, conf=0.448) -> human=human_unmapped
+  updated_033: machine=review (best=kaphuyg.medi_wawuyg.medi, conf=0.11) -> human=human_unmapped
+  updated_034: machine=review (best=memuyg.medi_leshuyg.medi, conf=0.169) -> human=human_unmapped
+  updated_035: machine=review (best=kaphuyg.medi_leshuyg.medi, conf=0.415) -> human=human_unmapped
+  updated_036: machine=review (best=kaphuyg_wawuyg, conf=0.467) -> human=human_unmapped
+  updated_037: machine=mapped (best=memuyg.medi_leshuyg.medi, conf=0.489) -> human=human_unmapped
+  updated_038: machine=review (best=memuyg.init_leshuyg.init, conf=0.297) -> human=human_unmapped
+  updated_039: machine=mapped (best=kaphuyg.fina, conf=0.991) -> human=confirmed_ambiguous
+  updated_040: machine=mapped (best=bethuyg, conf=0.892) -> human=corrected [wawuyg.medi]
+  updated_041: machine=unmapped (multi-letter word segment) (best=kaphuyg.fina_wawuyg.fina, conf=0.0) -> human=corrected [tawuyg.medi]
+  updated_042: machine=review (best=kaphuyg.fina, conf=0.351) -> human=junk
+  updated_043: machine=review (best=alephuyg.fina, conf=0.161) -> human=human_unmapped
+  updated_044: machine=review (best=kaphuyg.alt, conf=0.25) -> human=human_unmapped
+  updated_045: machine=mapped (best=lamedhuyg.fina, conf=0.774) -> human=human_unmapped
+  updated_046: machine=review (best=leshuyg.fina, conf=0.414) -> human=confirmed_ambiguous
+  updated_047: machine=review (best=leshuyg.fina, conf=0.569) -> human=confirmed_ambiguous
+  updated_048: machine=review (best=yodhuyg.fina, conf=0.609) -> human=human_unmapped
+  updated_049: machine=review (best=yodhuyg.fina, conf=0.508) -> human=confirmed_ambiguous
+  updated_050: machine=review (best=alephuyg.init, conf=0.56) -> human=confirmed_ambiguous
+  updated_051: machine=review (best=gimelHethuyg.medi, conf=0.518) -> human=confirmed_ambiguous
+  updated_052: machine=review (best=reshuyg.fina, conf=0.493) -> human=corrected [zayinuyg.fina]
+  updated_053: machine=review (best=reshuyg.fina, conf=0.311) -> human=corrected [zayinuyg.fina]
+  updated_054: machine=review (best=twodotsaboveuyg, conf=0.249) -> human=corrected [sadheuyg.init]
+  updated_055: machine=mapped (best=dotbelowuyg, conf=0.81) -> human=junk
+  updated_056: machine=review (best=uni0640, conf=0.458) -> human=junk  // Not a complete glyph. Stroke fragment only.
+  updated_057: machine=mapped (best=uni0640, conf=1.0) -> human=junk
+  updated_058: machine=review (best=reshuyg.init, conf=0.759) -> human=junk
+  updated_059: machine=review (best=PunctuationBar, conf=0.305) -> human=junk
+  updated_060: machine=review (best=yodhuyg, conf=0.484) -> human=confirmed_ambiguous
+  updated_061: machine=review (best=memuyg.medi, conf=0.398) -> human=confirmed_ambiguous
+  updated_062: machine=review (best=lamedhuyg.init, conf=0.282) -> human=corrected [peuyg.fina]
+  updated_063: machine=review (best=wawuyg.fina, conf=0.352) -> human=corrected [zayinuyg.fina]
+  updated_064: machine=review (best=alephuyg.init, conf=0.514) -> human=confirmed_ambiguous
+  updated_065: machine=unmapped (best=lamedhuyg.init, conf=0.02) -> human=junk
+  updated_066: machine=mapped (best=dotaboveuyg, conf=0.722) -> human=junk
+  updated_067: machine=review (best=gimelHethuyg.medi, conf=0.354) -> human=confirmed_ambiguous

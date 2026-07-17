@@ -1,0 +1,5236 @@
+{
+ "meta": {
+  "font": "build/Uigurica-Regular.ttf (Phase 1; outlines identical to Noto)",
+  "n_clusters": 68,
+  "mapped": 12,
+  "review": 50,
+  "unmapped": 6,
+  "joining_violations": [],
+  "duplicate_assignments": {
+   "memuyg.medi_leshuyg.medi": [
+    "updated_006",
+    "updated_037"
+   ],
+   "uni0640": [
+    "updated_022",
+    "updated_057"
+   ],
+   "bethuyg": [
+    "updated_028",
+    "updated_040"
+   ]
+  },
+  "font_glyphs_unclaimed": [
+   "gimelHethtwodotsaboveuyg",
+   "kaphuyg_leshuyg",
+   "kaphuyg_wawuyg",
+   "gimelHethuyg",
+   "wawuyg",
+   "zayinuyg",
+   "finalHethuyg",
+   "yodhuyg",
+   "kaphuyg",
+   "lamedhuyg",
+   "memuyg",
+   "nunuyg",
+   "samekhuyg",
+   "peuyg",
+   "sadheuyg",
+   "reshuyg",
+   "shinuyg",
+   "tawuyg",
+   "leshuyg",
+   "alephuyg.init",
+   "alephuyg.medi",
+   "bethuyg.medi",
+   "gimelHethuyg.init",
+   "gimelHethuyg.medi",
+   "kaphuyg.init",
+   "kaphuyg.medi",
+   "lamedhuyg.init",
+   "lamedhuyg.medi",
+   "leshuyg.init",
+   "leshuyg.medi",
+   "memuyg.init",
+   "memuyg.medi",
+   "nunuyg.init",
+   "nunuyg.medi",
+   "peuyg.init",
+   "peuyg.medi",
+   "reshuyg.init",
+   "reshuyg.medi",
+   "sadheuyg.init",
+   "sadheuyg.medi",
+   "samekhuyg.init",
+   "samekhuyg.medi",
+   "shinuyg.init",
+   "shinuyg.medi",
+   "tawuyg.init",
+   "tawuyg.medi",
+   "wawuyg.init",
+   "wawuyg.medi",
+   "yodhuyg.init",
+   "yodhuyg.medi",
+   "kaphuyg.fina_leshuyg.fina",
+   "kaphuyg.fina_wawuyg.fina",
+   "kaphuyg.init_leshuyg.init",
+   "kaphuyg.medi_leshuyg.medi",
+   "kaphuyg.medi_wawuyg.medi",
+   "alephuyg",
+   "alephuyg.fina",
+   "bethuyg.fina",
+   "finalHethuyg.fina",
+   "gimelHethuyg.fina",
+   "kaphuyg.alt",
+   "leshuyg.fina",
+   "memuyg.fina",
+   "nunuyg.fina",
+   "peuyg.fina",
+   "reshuyg.fina",
+   "sadheuyg.fina",
+   "samekhuyg.fina",
+   "tawuyg.fina",
+   "wawuyg.fina",
+   "yodhuyg.fina",
+   "zayinuyg.fina",
+   "memuyg_leshuyg",
+   "memuyg.fina_leshuyg.fina",
+   "memuyg.init_leshuyg.init",
+   "peuyg_leshuyg",
+   "peuyg.fina_leshuyg.fina",
+   "peuyg.init_leshuyg.init",
+   "peuyg.fina_wawuyg.fina",
+   "peuyg.init_wawuyg.init",
+   "peuyg_wawuyg",
+   "peuyg.medi_leshuyg.medi",
+   "peuyg.medi_wawuyg.medi",
+   "kaphuyg.medi_wawuyg.medi.alt",
+   "u10AF2",
+   "PunctuationBar",
+   "PunctuationTwoBars",
+   "PunctuationTwoDots",
+   "PunctuationFourDots",
+   "twodotsaboveuyg",
+   "twodotsbelowuyg",
+   "kaphuyg.init_wawuyg.init"
+  ],
+  "note": "mapping is a scored proposal, not a final assignment; font not modified"
+ },
+ "glyph_info": {
+  "uni0640": {
+   "glyph_id": 1,
+   "letters": [
+    "uni0640"
+   ],
+   "form": "medial",
+   "category": "tatweel",
+   "codepoint": "U+0640",
+   "unicode_name": "ARABIC TATWEEL",
+   "joining": null
+  },
+  "gimelHethtwodotsaboveuyg": {
+   "glyph_id": 2,
+   "letters": [
+    "gimelHethuyg",
+    "twodotsaboveuyg"
+   ],
+   "form": "isolated",
+   "category": "letter+mark",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg_leshuyg": {
+   "glyph_id": 3,
+   "letters": [
+    "kaphuyg",
+    "leshuyg"
+   ],
+   "form": "isolated",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg_wawuyg": {
+   "glyph_id": 4,
+   "letters": [
+    "kaphuyg",
+    "wawuyg"
+   ],
+   "form": "isolated",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "bethuyg": {
+   "glyph_id": 5,
+   "letters": [
+    "bethuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "joining": "dual"
+  },
+  "gimelHethuyg": {
+   "glyph_id": 6,
+   "letters": [
+    "gimelHethuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "joining": "dual"
+  },
+  "wawuyg": {
+   "glyph_id": 7,
+   "letters": [
+    "wawuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F73",
+   "unicode_name": "OLD UYGHUR LETTER WAW",
+   "joining": "dual"
+  },
+  "zayinuyg": {
+   "glyph_id": 8,
+   "letters": [
+    "zayinuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F74",
+   "unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "joining": "right"
+  },
+  "finalHethuyg": {
+   "glyph_id": 9,
+   "letters": [
+    "finalHethuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F75",
+   "unicode_name": "OLD UYGHUR LETTER FINAL HETH",
+   "joining": "right"
+  },
+  "yodhuyg": {
+   "glyph_id": 10,
+   "letters": [
+    "yodhuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F76",
+   "unicode_name": "OLD UYGHUR LETTER YODH",
+   "joining": "dual"
+  },
+  "kaphuyg": {
+   "glyph_id": 11,
+   "letters": [
+    "kaphuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "joining": "dual"
+  },
+  "lamedhuyg": {
+   "glyph_id": 12,
+   "letters": [
+    "lamedhuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "joining": "dual"
+  },
+  "memuyg": {
+   "glyph_id": 13,
+   "letters": [
+    "memuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "joining": "dual"
+  },
+  "nunuyg": {
+   "glyph_id": 14,
+   "letters": [
+    "nunuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "joining": "dual"
+  },
+  "samekhuyg": {
+   "glyph_id": 15,
+   "letters": [
+    "samekhuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "joining": "dual"
+  },
+  "peuyg": {
+   "glyph_id": 16,
+   "letters": [
+    "peuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7C",
+   "unicode_name": "OLD UYGHUR LETTER PE",
+   "joining": "dual"
+  },
+  "sadheuyg": {
+   "glyph_id": 17,
+   "letters": [
+    "sadheuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7D",
+   "unicode_name": "OLD UYGHUR LETTER SADHE",
+   "joining": "dual"
+  },
+  "reshuyg": {
+   "glyph_id": 18,
+   "letters": [
+    "reshuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7E",
+   "unicode_name": "OLD UYGHUR LETTER RESH",
+   "joining": "dual"
+  },
+  "shinuyg": {
+   "glyph_id": 19,
+   "letters": [
+    "shinuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "joining": "dual"
+  },
+  "tawuyg": {
+   "glyph_id": 20,
+   "letters": [
+    "tawuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F80",
+   "unicode_name": "OLD UYGHUR LETTER TAW",
+   "joining": "dual"
+  },
+  "leshuyg": {
+   "glyph_id": 21,
+   "letters": [
+    "leshuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F81",
+   "unicode_name": "OLD UYGHUR LETTER LESH",
+   "joining": "dual"
+  },
+  "alephuyg.init": {
+   "glyph_id": 22,
+   "letters": [
+    "alephuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F70",
+   "unicode_name": "OLD UYGHUR LETTER ALEPH",
+   "joining": "dual"
+  },
+  "alephuyg.medi": {
+   "glyph_id": 23,
+   "letters": [
+    "alephuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F70",
+   "unicode_name": "OLD UYGHUR LETTER ALEPH",
+   "joining": "dual"
+  },
+  "bethuyg.init": {
+   "glyph_id": 24,
+   "letters": [
+    "bethuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "joining": "dual"
+  },
+  "bethuyg.medi": {
+   "glyph_id": 25,
+   "letters": [
+    "bethuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "joining": "dual"
+  },
+  "gimelHethuyg.init": {
+   "glyph_id": 26,
+   "letters": [
+    "gimelHethuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "joining": "dual"
+  },
+  "gimelHethuyg.medi": {
+   "glyph_id": 27,
+   "letters": [
+    "gimelHethuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "joining": "dual"
+  },
+  "kaphuyg.init": {
+   "glyph_id": 28,
+   "letters": [
+    "kaphuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "joining": "dual"
+  },
+  "kaphuyg.medi": {
+   "glyph_id": 29,
+   "letters": [
+    "kaphuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "joining": "dual"
+  },
+  "lamedhuyg.init": {
+   "glyph_id": 30,
+   "letters": [
+    "lamedhuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "joining": "dual"
+  },
+  "lamedhuyg.medi": {
+   "glyph_id": 31,
+   "letters": [
+    "lamedhuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "joining": "dual"
+  },
+  "leshuyg.init": {
+   "glyph_id": 32,
+   "letters": [
+    "leshuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F81",
+   "unicode_name": "OLD UYGHUR LETTER LESH",
+   "joining": "dual"
+  },
+  "leshuyg.medi": {
+   "glyph_id": 33,
+   "letters": [
+    "leshuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F81",
+   "unicode_name": "OLD UYGHUR LETTER LESH",
+   "joining": "dual"
+  },
+  "memuyg.init": {
+   "glyph_id": 34,
+   "letters": [
+    "memuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "joining": "dual"
+  },
+  "memuyg.medi": {
+   "glyph_id": 35,
+   "letters": [
+    "memuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "joining": "dual"
+  },
+  "nunuyg.init": {
+   "glyph_id": 36,
+   "letters": [
+    "nunuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "joining": "dual"
+  },
+  "nunuyg.medi": {
+   "glyph_id": 37,
+   "letters": [
+    "nunuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "joining": "dual"
+  },
+  "peuyg.init": {
+   "glyph_id": 38,
+   "letters": [
+    "peuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7C",
+   "unicode_name": "OLD UYGHUR LETTER PE",
+   "joining": "dual"
+  },
+  "peuyg.medi": {
+   "glyph_id": 39,
+   "letters": [
+    "peuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7C",
+   "unicode_name": "OLD UYGHUR LETTER PE",
+   "joining": "dual"
+  },
+  "reshuyg.init": {
+   "glyph_id": 40,
+   "letters": [
+    "reshuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7E",
+   "unicode_name": "OLD UYGHUR LETTER RESH",
+   "joining": "dual"
+  },
+  "reshuyg.medi": {
+   "glyph_id": 41,
+   "letters": [
+    "reshuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7E",
+   "unicode_name": "OLD UYGHUR LETTER RESH",
+   "joining": "dual"
+  },
+  "sadheuyg.init": {
+   "glyph_id": 42,
+   "letters": [
+    "sadheuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7D",
+   "unicode_name": "OLD UYGHUR LETTER SADHE",
+   "joining": "dual"
+  },
+  "sadheuyg.medi": {
+   "glyph_id": 43,
+   "letters": [
+    "sadheuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7D",
+   "unicode_name": "OLD UYGHUR LETTER SADHE",
+   "joining": "dual"
+  },
+  "samekhuyg.init": {
+   "glyph_id": 44,
+   "letters": [
+    "samekhuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "joining": "dual"
+  },
+  "samekhuyg.medi": {
+   "glyph_id": 45,
+   "letters": [
+    "samekhuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "joining": "dual"
+  },
+  "shinuyg.init": {
+   "glyph_id": 46,
+   "letters": [
+    "shinuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "joining": "dual"
+  },
+  "shinuyg.medi": {
+   "glyph_id": 47,
+   "letters": [
+    "shinuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "joining": "dual"
+  },
+  "tawuyg.init": {
+   "glyph_id": 48,
+   "letters": [
+    "tawuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F80",
+   "unicode_name": "OLD UYGHUR LETTER TAW",
+   "joining": "dual"
+  },
+  "tawuyg.medi": {
+   "glyph_id": 49,
+   "letters": [
+    "tawuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F80",
+   "unicode_name": "OLD UYGHUR LETTER TAW",
+   "joining": "dual"
+  },
+  "wawuyg.init": {
+   "glyph_id": 50,
+   "letters": [
+    "wawuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F73",
+   "unicode_name": "OLD UYGHUR LETTER WAW",
+   "joining": "dual"
+  },
+  "wawuyg.medi": {
+   "glyph_id": 51,
+   "letters": [
+    "wawuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F73",
+   "unicode_name": "OLD UYGHUR LETTER WAW",
+   "joining": "dual"
+  },
+  "yodhuyg.init": {
+   "glyph_id": 52,
+   "letters": [
+    "yodhuyg"
+   ],
+   "form": "initial",
+   "category": "letter",
+   "codepoint": "U+10F76",
+   "unicode_name": "OLD UYGHUR LETTER YODH",
+   "joining": "dual"
+  },
+  "yodhuyg.medi": {
+   "glyph_id": 53,
+   "letters": [
+    "yodhuyg"
+   ],
+   "form": "medial",
+   "category": "letter",
+   "codepoint": "U+10F76",
+   "unicode_name": "OLD UYGHUR LETTER YODH",
+   "joining": "dual"
+  },
+  "kaphuyg.fina_leshuyg.fina": {
+   "glyph_id": 54,
+   "letters": [
+    "kaphuyg",
+    "leshuyg"
+   ],
+   "form": "final",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg.fina_wawuyg.fina": {
+   "glyph_id": 55,
+   "letters": [
+    "kaphuyg",
+    "wawuyg"
+   ],
+   "form": "final",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg.init_leshuyg.init": {
+   "glyph_id": 56,
+   "letters": [
+    "kaphuyg",
+    "leshuyg"
+   ],
+   "form": "initial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg.medi_leshuyg.medi": {
+   "glyph_id": 57,
+   "letters": [
+    "kaphuyg",
+    "leshuyg"
+   ],
+   "form": "medial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg.medi_wawuyg.medi": {
+   "glyph_id": 58,
+   "letters": [
+    "kaphuyg",
+    "wawuyg"
+   ],
+   "form": "medial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "alephuyg": {
+   "glyph_id": 59,
+   "letters": [
+    "alephuyg"
+   ],
+   "form": "isolated",
+   "category": "letter",
+   "codepoint": "U+10F70",
+   "unicode_name": "OLD UYGHUR LETTER ALEPH",
+   "joining": "dual"
+  },
+  "alephuyg.fina": {
+   "glyph_id": 60,
+   "letters": [
+    "alephuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F70",
+   "unicode_name": "OLD UYGHUR LETTER ALEPH",
+   "joining": "dual"
+  },
+  "bethuyg.fina": {
+   "glyph_id": 61,
+   "letters": [
+    "bethuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "joining": "dual"
+  },
+  "finalHethuyg.fina": {
+   "glyph_id": 62,
+   "letters": [
+    "finalHethuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F75",
+   "unicode_name": "OLD UYGHUR LETTER FINAL HETH",
+   "joining": "right"
+  },
+  "gimelHethuyg.fina": {
+   "glyph_id": 63,
+   "letters": [
+    "gimelHethuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "joining": "dual"
+  },
+  "kaphuyg.alt": {
+   "glyph_id": 64,
+   "letters": [
+    "kaphuyg"
+   ],
+   "form": "final-variant",
+   "category": "letter",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "joining": "dual"
+  },
+  "kaphuyg.fina": {
+   "glyph_id": 65,
+   "letters": [
+    "kaphuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "joining": "dual"
+  },
+  "lamedhuyg.fina": {
+   "glyph_id": 66,
+   "letters": [
+    "lamedhuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "joining": "dual"
+  },
+  "leshuyg.fina": {
+   "glyph_id": 67,
+   "letters": [
+    "leshuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F81",
+   "unicode_name": "OLD UYGHUR LETTER LESH",
+   "joining": "dual"
+  },
+  "memuyg.fina": {
+   "glyph_id": 68,
+   "letters": [
+    "memuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "joining": "dual"
+  },
+  "nunuyg.fina": {
+   "glyph_id": 69,
+   "letters": [
+    "nunuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "joining": "dual"
+  },
+  "peuyg.fina": {
+   "glyph_id": 70,
+   "letters": [
+    "peuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7C",
+   "unicode_name": "OLD UYGHUR LETTER PE",
+   "joining": "dual"
+  },
+  "reshuyg.fina": {
+   "glyph_id": 71,
+   "letters": [
+    "reshuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7E",
+   "unicode_name": "OLD UYGHUR LETTER RESH",
+   "joining": "dual"
+  },
+  "sadheuyg.fina": {
+   "glyph_id": 72,
+   "letters": [
+    "sadheuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7D",
+   "unicode_name": "OLD UYGHUR LETTER SADHE",
+   "joining": "dual"
+  },
+  "samekhuyg.fina": {
+   "glyph_id": 73,
+   "letters": [
+    "samekhuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "joining": "dual"
+  },
+  "shinuyg.fina": {
+   "glyph_id": 74,
+   "letters": [
+    "shinuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "joining": "dual"
+  },
+  "tawuyg.fina": {
+   "glyph_id": 75,
+   "letters": [
+    "tawuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F80",
+   "unicode_name": "OLD UYGHUR LETTER TAW",
+   "joining": "dual"
+  },
+  "wawuyg.fina": {
+   "glyph_id": 76,
+   "letters": [
+    "wawuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F73",
+   "unicode_name": "OLD UYGHUR LETTER WAW",
+   "joining": "dual"
+  },
+  "yodhuyg.fina": {
+   "glyph_id": 77,
+   "letters": [
+    "yodhuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F76",
+   "unicode_name": "OLD UYGHUR LETTER YODH",
+   "joining": "dual"
+  },
+  "zayinuyg.fina": {
+   "glyph_id": 78,
+   "letters": [
+    "zayinuyg"
+   ],
+   "form": "final",
+   "category": "letter",
+   "codepoint": "U+10F74",
+   "unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "joining": "right"
+  },
+  "memuyg_leshuyg": {
+   "glyph_id": 79,
+   "letters": [
+    "memuyg",
+    "leshuyg"
+   ],
+   "form": "isolated",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "memuyg.fina_leshuyg.fina": {
+   "glyph_id": 80,
+   "letters": [
+    "memuyg",
+    "leshuyg"
+   ],
+   "form": "final",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "memuyg.init_leshuyg.init": {
+   "glyph_id": 81,
+   "letters": [
+    "memuyg",
+    "leshuyg"
+   ],
+   "form": "initial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg_leshuyg": {
+   "glyph_id": 82,
+   "letters": [
+    "peuyg",
+    "leshuyg"
+   ],
+   "form": "isolated",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.fina_leshuyg.fina": {
+   "glyph_id": 83,
+   "letters": [
+    "peuyg",
+    "leshuyg"
+   ],
+   "form": "final",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.init_leshuyg.init": {
+   "glyph_id": 84,
+   "letters": [
+    "peuyg",
+    "leshuyg"
+   ],
+   "form": "initial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.fina_wawuyg.fina": {
+   "glyph_id": 85,
+   "letters": [
+    "peuyg",
+    "wawuyg"
+   ],
+   "form": "final",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.init_wawuyg.init": {
+   "glyph_id": 86,
+   "letters": [
+    "peuyg",
+    "wawuyg"
+   ],
+   "form": "initial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg_wawuyg": {
+   "glyph_id": 87,
+   "letters": [
+    "peuyg",
+    "wawuyg"
+   ],
+   "form": "isolated",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "memuyg.medi_leshuyg.medi": {
+   "glyph_id": 88,
+   "letters": [
+    "memuyg",
+    "leshuyg"
+   ],
+   "form": "medial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.medi_leshuyg.medi": {
+   "glyph_id": 89,
+   "letters": [
+    "peuyg",
+    "leshuyg"
+   ],
+   "form": "medial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "peuyg.medi_wawuyg.medi": {
+   "glyph_id": 90,
+   "letters": [
+    "peuyg",
+    "wawuyg"
+   ],
+   "form": "medial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "kaphuyg.medi_wawuyg.medi.alt": {
+   "glyph_id": 91,
+   "letters": [
+    "kaphuyg",
+    "wawuyg"
+   ],
+   "form": "unknown",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  },
+  "u10AF2": {
+   "glyph_id": 95,
+   "letters": [
+    "u10AF2"
+   ],
+   "form": "isolated",
+   "category": "other",
+   "codepoint": "U+10AF2",
+   "unicode_name": "MANICHAEAN DOUBLE DOT WITHIN DOT",
+   "joining": null
+  },
+  "PunctuationBar": {
+   "glyph_id": 96,
+   "letters": [
+    "PunctuationBar"
+   ],
+   "form": "isolated",
+   "category": "punctuation",
+   "codepoint": "U+10F86",
+   "unicode_name": "PUNCTUATION BAR",
+   "joining": null
+  },
+  "PunctuationTwoBars": {
+   "glyph_id": 97,
+   "letters": [
+    "PunctuationTwoBars"
+   ],
+   "form": "isolated",
+   "category": "punctuation",
+   "codepoint": "U+10F87",
+   "unicode_name": "PUNCTUATION TWO BARS",
+   "joining": null
+  },
+  "PunctuationTwoDots": {
+   "glyph_id": 98,
+   "letters": [
+    "PunctuationTwoDots"
+   ],
+   "form": "isolated",
+   "category": "punctuation",
+   "codepoint": "U+10F88",
+   "unicode_name": "PUNCTUATION TWO DOTS",
+   "joining": null
+  },
+  "PunctuationFourDots": {
+   "glyph_id": 99,
+   "letters": [
+    "PunctuationFourDots"
+   ],
+   "form": "isolated",
+   "category": "punctuation",
+   "codepoint": "U+10F89",
+   "unicode_name": "PUNCTUATION FOUR DOTS",
+   "joining": null
+  },
+  "dotaboveuyg": {
+   "glyph_id": 100,
+   "letters": [
+    "dotaboveuyg"
+   ],
+   "form": "isolated",
+   "category": "mark",
+   "codepoint": "U+10F82",
+   "unicode_name": "COMBINING DOT ABOVE",
+   "joining": null
+  },
+  "dotbelowuyg": {
+   "glyph_id": 101,
+   "letters": [
+    "dotbelowuyg"
+   ],
+   "form": "isolated",
+   "category": "mark",
+   "codepoint": "U+10F83",
+   "unicode_name": "COMBINING DOT BELOW",
+   "joining": null
+  },
+  "twodotsaboveuyg": {
+   "glyph_id": 102,
+   "letters": [
+    "twodotsaboveuyg"
+   ],
+   "form": "isolated",
+   "category": "mark",
+   "codepoint": "U+10F84",
+   "unicode_name": "COMBINING TWO DOTS ABOVE",
+   "joining": null
+  },
+  "twodotsbelowuyg": {
+   "glyph_id": 103,
+   "letters": [
+    "twodotsbelowuyg"
+   ],
+   "form": "isolated",
+   "category": "mark",
+   "codepoint": "U+10F85",
+   "unicode_name": "COMBINING TWO DOTS BELOW",
+   "joining": null
+  },
+  "kaphuyg.init_wawuyg.init": {
+   "glyph_id": 104,
+   "letters": [
+    "kaphuyg",
+    "wawuyg"
+   ],
+   "form": "initial",
+   "category": "ligature",
+   "codepoint": null,
+   "unicode_name": null,
+   "joining": "dual"
+  }
+ },
+ "mappings": {
+  "updated_000": {
+   "cluster_size": 192,
+   "cluster_type": "word segment",
+   "representative": "sub000186.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.5669,
+     "adjusted": 0.5419,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.3796,
+     "adjusted": 0.3546,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.355,
+     "adjusted": 0.335,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.3253,
+     "adjusted": 0.3333,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.335,
+     "adjusted": 0.3305,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.105,
+   "verdict": "unmapped (multi-letter word segment)",
+   "position_distribution": {
+    "initial": 0.323,
+    "isolated": 0.479,
+    "final": 0.13,
+    "medial": 0.068
+   },
+   "explanation": "visual similarity 0.567 to memuyg.medi_leshuyg.medi (margin 0.187 outside ambiguity group); members occur isolated in 48% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_001": {
+   "cluster_size": 29,
+   "cluster_type": "word segment",
+   "representative": "sub000905.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.5467,
+     "adjusted": 0.5177,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.4372,
+     "adjusted": 0.4414,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4583,
+     "adjusted": 0.4293,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.3994,
+     "adjusted": 0.4146,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi.alt",
+     "similarity": 0.4357,
+     "adjusted": 0.4067,
+     "form": "unknown",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.039,
+   "verdict": "unmapped (multi-letter word segment)",
+   "position_distribution": {
+    "final": 0.414,
+    "isolated": 0.552,
+    "initial": 0.034
+   },
+   "explanation": "visual similarity 0.547 to memuyg.medi_leshuyg.medi (margin 0.076 outside ambiguity group); members occur isolated in 55% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_002": {
+   "cluster_size": 34,
+   "cluster_type": "word segment",
+   "representative": "sub000747.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6733,
+     "adjusted": 0.6562,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.5312,
+     "adjusted": 0.5141,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.5083,
+     "adjusted": 0.5053,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.5095,
+     "adjusted": 0.4878,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.489,
+     "adjusted": 0.4861,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.391,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.265,
+    "final": 0.206,
+    "initial": 0.441,
+    "isolated": 0.088
+   },
+   "explanation": "visual similarity 0.673 to memuyg.medi_leshuyg.medi (margin 0.142 outside ambiguity group); members occur initial in 44% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_003": {
+   "cluster_size": 17,
+   "cluster_type": "word segment",
+   "representative": "sub000570.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6736,
+     "adjusted": 0.6466,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4514,
+     "adjusted": 0.4243,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.4216,
+     "adjusted": 0.4228,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.4101,
+     "adjusted": 0.4112,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.4062,
+     "adjusted": 0.4074,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.366,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.118,
+    "final": 0.235,
+    "initial": 0.471,
+    "isolated": 0.176
+   },
+   "explanation": "visual similarity 0.674 to memuyg.medi_leshuyg.medi (margin 0.222 outside ambiguity group); members occur initial in 47% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_004": {
+   "cluster_size": 20,
+   "cluster_type": "word segment",
+   "representative": "sub000539.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.684,
+     "adjusted": 0.658,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.4742,
+     "adjusted": 0.4722,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4949,
+     "adjusted": 0.4689,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.4362,
+     "adjusted": 0.4662,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.4184,
+     "adjusted": 0.4484,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.395,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.3,
+    "isolated": 0.7
+   },
+   "explanation": "visual similarity 0.684 to memuyg.medi_leshuyg.medi (margin 0.186 outside ambiguity group); members occur isolated in 70% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_005": {
+   "cluster_size": 1,
+   "cluster_type": "word segment",
+   "representative": "sub001030.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.5874,
+     "adjusted": 0.5674,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.3662,
+     "adjusted": 0.4262,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.4261,
+     "adjusted": 0.4061,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.3357,
+     "adjusted": 0.3957,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4048,
+     "adjusted": 0.3848,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.169,
+   "verdict": "review",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.587 to memuyg.medi_leshuyg.medi (margin 0.141 outside ambiguity group); members occur isolated in 100% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_006": {
+   "cluster_size": 1,
+   "cluster_type": "word segment",
+   "representative": "sub001072.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.7241,
+     "adjusted": 0.7041,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.4089,
+     "adjusted": 0.4689,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_leshuyg",
+     "similarity": 0.4009,
+     "adjusted": 0.4609,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_leshuyg.medi",
+     "similarity": 0.4746,
+     "adjusted": 0.4546,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg_leshuyg",
+     "similarity": 0.3798,
+     "adjusted": 0.4398,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.51,
+   "verdict": "mapped",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.724 to memuyg.medi_leshuyg.medi (margin 0.235 outside ambiguity group); members occur isolated in 100% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_007": {
+   "cluster_size": 2,
+   "cluster_type": "unknown",
+   "representative": "sub000060.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.7108,
+     "adjusted": 0.6708,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.6301,
+     "adjusted": 0.5901,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.5462,
+     "adjusted": 0.5862,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "tawuyg.fina",
+     "similarity": 0.5386,
+     "adjusted": 0.5786,
+     "form": "final",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.5302,
+     "adjusted": 0.5702,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.386,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.711 to memuyg.medi_leshuyg.medi (margin 0.081 outside ambiguity group); members occur final in 100% of words (glyph form: medial)"
+  },
+  "updated_008": {
+   "cluster_size": 4,
+   "cluster_type": "letter candidate",
+   "representative": "sub000005.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6977,
+     "adjusted": 0.7177,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6887,
+     "adjusted": 0.7087,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi",
+     "similarity": 0.6627,
+     "adjusted": 0.6827,
+     "form": "medial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.6611,
+     "adjusted": 0.6811,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.6886,
+     "adjusted": 0.6486,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.297,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.75,
+    "initial": 0.25
+   },
+   "explanation": "visual similarity 0.698 to memuyg.medi_leshuyg.medi (margin 0.009 outside ambiguity group); members occur medial in 75% of words (glyph form: medial)"
+  },
+  "updated_009": {
+   "cluster_size": 2,
+   "cluster_type": "letter candidate",
+   "representative": "sub000951.png",
+   "top_candidates": [
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.648,
+     "adjusted": 0.708,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.6364,
+     "adjusted": 0.6964,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "alephuyg",
+     "similarity": 0.5907,
+     "adjusted": 0.6507,
+     "form": "isolated",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6646,
+     "adjusted": 0.6446,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "twodotsaboveuyg",
+     "similarity": 0.5842,
+     "adjusted": 0.6442,
+     "form": "isolated",
+     "codepoint": "U+10F84",
+     "unicode_name": "COMBINING TWO DOTS ABOVE"
+    }
+   ],
+   "best_glyph": "PunctuationTwoDots",
+   "ambiguity_group": null,
+   "confidence": 0.29,
+   "verdict": "review",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.648 to PunctuationTwoDots (margin 0.012 outside ambiguity group); size-class mismatch: cluster is letter candidate but glyph is punctuation - demoted to review; members occur isolated in 100% of words (glyph form: isolated)"
+  },
+  "updated_010": {
+   "cluster_size": 4,
+   "cluster_type": "word segment",
+   "representative": "sub000500.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.4574,
+     "adjusted": 0.4224,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.3786,
+     "adjusted": 0.4036,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.3668,
+     "adjusted": 0.3918,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4101,
+     "adjusted": 0.3751,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi.alt",
+     "similarity": 0.3985,
+     "adjusted": 0.3635,
+     "form": "unknown",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.0,
+   "verdict": "unmapped (multi-letter word segment)",
+   "position_distribution": {
+    "initial": 0.75,
+    "isolated": 0.25
+   },
+   "explanation": "visual similarity 0.457 to memuyg.medi_leshuyg.medi (margin 0.019 outside ambiguity group); members occur initial in 75% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_011": {
+   "cluster_size": 56,
+   "cluster_type": "word segment",
+   "representative": "sub000985.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.5668,
+     "adjusted": 0.5497,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.5108,
+     "adjusted": 0.4936,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.4702,
+     "adjusted": 0.4702,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.495,
+     "adjusted": 0.4693,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.4799,
+     "adjusted": 0.4628,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.097,
+   "verdict": "unmapped (multi-letter word segment)",
+   "position_distribution": {
+    "medial": 0.25,
+    "initial": 0.464,
+    "final": 0.143,
+    "isolated": 0.143
+   },
+   "explanation": "visual similarity 0.567 to memuyg.medi_leshuyg.medi (margin 0.056 outside ambiguity group); members occur initial in 46% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_012": {
+   "cluster_size": 49,
+   "cluster_type": "word segment",
+   "representative": "sub000709.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6322,
+     "adjusted": 0.6102,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.5832,
+     "adjusted": 0.5611,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.5486,
+     "adjusted": 0.5462,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.5624,
+     "adjusted": 0.5437,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.5556,
+     "adjusted": 0.5335,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.205,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 0.429,
+    "medial": 0.184,
+    "final": 0.224,
+    "isolated": 0.163
+   },
+   "explanation": "visual similarity 0.632 to memuyg.medi_leshuyg.medi (margin 0.049 outside ambiguity group); members occur initial in 43% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_013": {
+   "cluster_size": 45,
+   "cluster_type": "unknown",
+   "representative": "sub000725.png",
+   "top_candidates": [
+    {
+     "glyph": "finalHethuyg",
+     "similarity": 0.6321,
+     "adjusted": 0.6632,
+     "form": "isolated",
+     "codepoint": "U+10F75",
+     "unicode_name": "OLD UYGHUR LETTER FINAL HETH"
+    },
+    {
+     "glyph": "alephuyg",
+     "similarity": 0.613,
+     "adjusted": 0.6441,
+     "form": "isolated",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "tawuyg",
+     "similarity": 0.6056,
+     "adjusted": 0.6367,
+     "form": "isolated",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "sadheuyg",
+     "similarity": 0.5954,
+     "adjusted": 0.6265,
+     "form": "isolated",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "kaphuyg",
+     "similarity": 0.5857,
+     "adjusted": 0.6168,
+     "form": "isolated",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    }
+   ],
+   "best_glyph": "finalHethuyg",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.243,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 0.156,
+    "isolated": 0.711,
+    "final": 0.111,
+    "medial": 0.022
+   },
+   "explanation": "visual similarity 0.632 to finalHethuyg (margin 0.019 outside ambiguity group); visually indistinguishable in isolation from: bethuyg, bethuyg.fina, finalHethuyg.fina, kaphuyg, kaphuyg.fina, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur isolated in 71% of words (glyph form: isolated); finalHethuyg is right-joining per L2/20-191; only isolated/final forms exist"
+  },
+  "updated_014": {
+   "cluster_size": 20,
+   "cluster_type": "unknown",
+   "representative": "sub001046.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg",
+     "similarity": 0.6038,
+     "adjusted": 0.6188,
+     "form": "isolated",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    },
+    {
+     "glyph": "peuyg.fina",
+     "similarity": 0.5986,
+     "adjusted": 0.6016,
+     "form": "final",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.5451,
+     "adjusted": 0.5601,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg",
+     "similarity": 0.5141,
+     "adjusted": 0.5291,
+     "form": "isolated",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.5292,
+     "adjusted": 0.5042,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "peuyg",
+   "ambiguity_group": [
+    "peuyg",
+    "peuyg.fina"
+   ],
+   "confidence": 0.236,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.4,
+    "initial": 0.05,
+    "isolated": 0.55
+   },
+   "explanation": "visual similarity 0.604 to peuyg (margin 0.059 outside ambiguity group); visually indistinguishable in isolation from: peuyg.fina; members occur isolated in 55% of words (glyph form: isolated)"
+  },
+  "updated_015": {
+   "cluster_size": 1,
+   "cluster_type": "unknown",
+   "representative": "sub000816.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg.fina_leshuyg.fina",
+     "similarity": 0.523,
+     "adjusted": 0.563,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.fina_leshuyg.fina",
+     "similarity": 0.5152,
+     "adjusted": 0.5552,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.fina",
+     "similarity": 0.5075,
+     "adjusted": 0.5475,
+     "form": "final",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    },
+    {
+     "glyph": "peuyg.fina_wawuyg.fina",
+     "similarity": 0.5073,
+     "adjusted": 0.5473,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_leshuyg.fina",
+     "similarity": 0.5072,
+     "adjusted": 0.5472,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "peuyg.fina_leshuyg.fina",
+   "ambiguity_group": [
+    "peuyg.fina_leshuyg.fina",
+    "peuyg_leshuyg"
+   ],
+   "confidence": 0.085,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.523 to peuyg.fina_leshuyg.fina (margin 0.008 outside ambiguity group); visually indistinguishable in isolation from: peuyg_leshuyg; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_016": {
+   "cluster_size": 2,
+   "cluster_type": "unknown",
+   "representative": "sub001003.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.5838,
+     "adjusted": 0.6438,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg",
+     "similarity": 0.5588,
+     "adjusted": 0.6188,
+     "form": "isolated",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.5738,
+     "adjusted": 0.5538,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "finalHethuyg",
+     "similarity": 0.4872,
+     "adjusted": 0.5472,
+     "form": "isolated",
+     "codepoint": "U+10F75",
+     "unicode_name": "OLD UYGHUR LETTER FINAL HETH"
+    },
+    {
+     "glyph": "shinuyg",
+     "similarity": 0.4829,
+     "adjusted": 0.5429,
+     "form": "isolated",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    }
+   ],
+   "best_glyph": "memuyg_leshuyg",
+   "ambiguity_group": null,
+   "confidence": 0.225,
+   "verdict": "review",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.584 to memuyg_leshuyg (margin 0.025 outside ambiguity group); members occur isolated in 100% of words (glyph form: isolated)"
+  },
+  "updated_017": {
+   "cluster_size": 3,
+   "cluster_type": "unknown",
+   "representative": "sub000830.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.init",
+     "similarity": 0.5493,
+     "adjusted": 0.5627,
+     "form": "initial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.5454,
+     "adjusted": 0.5587,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg",
+     "similarity": 0.5984,
+     "adjusted": 0.5584,
+     "form": "isolated",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.5871,
+     "adjusted": 0.5471,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init",
+     "similarity": 0.4838,
+     "adjusted": 0.4972,
+     "form": "initial",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    }
+   ],
+   "best_glyph": "memuyg.init",
+   "ambiguity_group": null,
+   "confidence": 0.081,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 0.667,
+    "final": 0.333
+   },
+   "explanation": "visual similarity 0.549 to memuyg.init (margin 0.004 outside ambiguity group); members occur initial in 67% of words (glyph form: initial)"
+  },
+  "updated_018": {
+   "cluster_size": 1,
+   "cluster_type": "unknown",
+   "representative": "sub000801.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg.fina",
+     "similarity": 0.5948,
+     "adjusted": 0.6348,
+     "form": "final",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    },
+    {
+     "glyph": "lamedhuyg.fina",
+     "similarity": 0.5743,
+     "adjusted": 0.6143,
+     "form": "final",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "memuyg",
+     "similarity": 0.6245,
+     "adjusted": 0.5845,
+     "form": "isolated",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.init",
+     "similarity": 0.6028,
+     "adjusted": 0.5628,
+     "form": "initial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.5148,
+     "adjusted": 0.5548,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "peuyg.fina",
+   "ambiguity_group": [
+    "peuyg",
+    "peuyg.fina"
+   ],
+   "confidence": 0.203,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.595 to peuyg.fina (margin 0.020 outside ambiguity group); visually indistinguishable in isolation from: peuyg; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_019": {
+   "cluster_size": 3,
+   "cluster_type": "word segment",
+   "representative": "sub001053.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6365,
+     "adjusted": 0.6165,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.4838,
+     "adjusted": 0.5438,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.fina_leshuyg.fina",
+     "similarity": 0.5537,
+     "adjusted": 0.5337,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.4928,
+     "adjusted": 0.4728,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_leshuyg.medi",
+     "similarity": 0.4684,
+     "adjusted": 0.4484,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.252,
+   "verdict": "review",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.636 to memuyg.medi_leshuyg.medi (margin 0.073 outside ambiguity group); members occur isolated in 100% of words (glyph form: medial); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_020": {
+   "cluster_size": 2,
+   "cluster_type": "letter candidate",
+   "representative": "sub001048.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg.fina_leshuyg.fina",
+     "similarity": 0.6811,
+     "adjusted": 0.7211,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_leshuyg.fina",
+     "similarity": 0.6656,
+     "adjusted": 0.7056,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "gimelHethuyg.fina",
+     "similarity": 0.6259,
+     "adjusted": 0.6659,
+     "form": "final",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "peuyg_leshuyg",
+     "similarity": 0.6933,
+     "adjusted": 0.6533,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_leshuyg.init",
+     "similarity": 0.6809,
+     "adjusted": 0.6409,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "peuyg.fina_leshuyg.fina",
+   "ambiguity_group": [
+    "peuyg.fina_leshuyg.fina",
+    "peuyg_leshuyg"
+   ],
+   "confidence": 0.319,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.681 to peuyg.fina_leshuyg.fina (margin 0.015 outside ambiguity group); visually indistinguishable in isolation from: peuyg_leshuyg; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_021": {
+   "cluster_size": 3,
+   "cluster_type": "unknown",
+   "representative": "sub001068.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6822,
+     "adjusted": 0.6556,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.fina_leshuyg.fina",
+     "similarity": 0.6536,
+     "adjusted": 0.6536,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_leshuyg",
+     "similarity": 0.602,
+     "adjusted": 0.6287,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.5997,
+     "adjusted": 0.6264,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_leshuyg.fina",
+     "similarity": 0.6124,
+     "adjusted": 0.6124,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.198,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.333,
+    "isolated": 0.667
+   },
+   "explanation": "visual similarity 0.682 to memuyg.medi_leshuyg.medi (margin 0.002 outside ambiguity group); members occur isolated in 67% of words (glyph form: medial)"
+  },
+  "updated_022": {
+   "cluster_size": 146,
+   "cluster_type": "letter candidate",
+   "representative": "sub000870.png",
+   "top_candidates": [
+    {
+     "glyph": "uni0640",
+     "similarity": 0.9348,
+     "adjusted": 0.903,
+     "form": "medial",
+     "codepoint": "U+0640",
+     "unicode_name": "ARABIC TATWEEL"
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.7671,
+     "adjusted": 0.7271,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.6251,
+     "adjusted": 0.6201,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "nunuyg.fina",
+     "similarity": 0.5932,
+     "adjusted": 0.5899,
+     "form": "final",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "similarity": 0.6081,
+     "adjusted": 0.5763,
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "uni0640",
+   "ambiguity_group": null,
+   "confidence": 1.0,
+   "verdict": "mapped",
+   "position_distribution": {
+    "initial": 0.438,
+    "final": 0.459,
+    "medial": 0.103
+   },
+   "explanation": "visual similarity 0.935 to uni0640 (margin 0.176 outside ambiguity group); members occur final in 46% of words (glyph form: medial)"
+  },
+  "updated_023": {
+   "cluster_size": 4,
+   "cluster_type": "letter candidate",
+   "representative": "sub000679.png",
+   "top_candidates": [
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.6571,
+     "adjusted": 0.6971,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "shinuyg.fina",
+     "similarity": 0.6509,
+     "adjusted": 0.6909,
+     "form": "final",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "samekhuyg.fina",
+     "similarity": 0.6481,
+     "adjusted": 0.6881,
+     "form": "final",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "tawuyg.fina",
+     "similarity": 0.6338,
+     "adjusted": 0.6738,
+     "form": "final",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.7061,
+     "adjusted": 0.6661,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "bethuyg.fina",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.262,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.657 to bethuyg.fina (margin 0.006 outside ambiguity group); visually indistinguishable in isolation from: bethuyg, finalHethuyg, finalHethuyg.fina, kaphuyg, kaphuyg.fina, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_024": {
+   "cluster_size": 4,
+   "cluster_type": "letter candidate",
+   "representative": "sub000173.png",
+   "top_candidates": [
+    {
+     "glyph": "shinuyg.fina",
+     "similarity": 0.7083,
+     "adjusted": 0.7283,
+     "form": "final",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "samekhuyg.fina",
+     "similarity": 0.6935,
+     "adjusted": 0.7135,
+     "form": "final",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "shinuyg",
+     "similarity": 0.696,
+     "adjusted": 0.656,
+     "form": "isolated",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6744,
+     "adjusted": 0.6544,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "samekhuyg",
+     "similarity": 0.6866,
+     "adjusted": 0.6466,
+     "form": "isolated",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    }
+   ],
+   "best_glyph": "shinuyg.fina",
+   "ambiguity_group": [
+    "samekhuyg",
+    "samekhuyg.fina",
+    "shinuyg",
+    "shinuyg.fina"
+   ],
+   "confidence": 0.496,
+   "verdict": "mapped",
+   "position_distribution": {
+    "final": 0.75,
+    "medial": 0.25
+   },
+   "explanation": "visual similarity 0.708 to shinuyg.fina (margin 0.074 outside ambiguity group); visually indistinguishable in isolation from: samekhuyg, samekhuyg.fina, shinuyg; members occur final in 75% of words (glyph form: final)"
+  },
+  "updated_025": {
+   "cluster_size": 20,
+   "cluster_type": "letter candidate",
+   "representative": "sub000903.png",
+   "top_candidates": [
+    {
+     "glyph": "tawuyg.medi",
+     "similarity": 0.8102,
+     "adjusted": 0.8462,
+     "form": "medial",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "similarity": 0.7866,
+     "adjusted": 0.8226,
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "bethuyg.medi",
+     "similarity": 0.7715,
+     "adjusted": 0.8075,
+     "form": "medial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "gimelHethuyg.medi",
+     "similarity": 0.7426,
+     "adjusted": 0.7786,
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.7865,
+     "adjusted": 0.7465,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "tawuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.535,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.95,
+    "final": 0.05
+   },
+   "explanation": "visual similarity 0.810 to tawuyg.medi (margin 0.024 outside ambiguity group); members occur medial in 95% of words (glyph form: medial)"
+  },
+  "updated_026": {
+   "cluster_size": 35,
+   "cluster_type": "letter candidate",
+   "representative": "sub000262.png",
+   "top_candidates": [
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.7721,
+     "adjusted": 0.7789,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "kaphuyg.fina",
+     "similarity": 0.7557,
+     "adjusted": 0.7626,
+     "form": "final",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.7304,
+     "adjusted": 0.7372,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "sadheuyg.fina",
+     "similarity": 0.7285,
+     "adjusted": 0.7354,
+     "form": "final",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.7683,
+     "adjusted": 0.7341,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    }
+   ],
+   "best_glyph": "bethuyg.fina",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.494,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.571,
+    "medial": 0.371,
+    "isolated": 0.057
+   },
+   "explanation": "visual similarity 0.772 to bethuyg.fina (margin 0.042 outside ambiguity group); visually indistinguishable in isolation from: bethuyg, finalHethuyg, finalHethuyg.fina, kaphuyg, kaphuyg.fina, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur final in 57% of words (glyph form: final)"
+  },
+  "updated_027": {
+   "cluster_size": 10,
+   "cluster_type": "letter candidate",
+   "representative": "sub000082.png",
+   "top_candidates": [
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.7323,
+     "adjusted": 0.7483,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "shinuyg.init",
+     "similarity": 0.6661,
+     "adjusted": 0.6821,
+     "form": "initial",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "shinuyg.medi",
+     "similarity": 0.6949,
+     "adjusted": 0.6789,
+     "form": "medial",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.6476,
+     "adjusted": 0.6636,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "yodhuyg.init",
+     "similarity": 0.6475,
+     "adjusted": 0.6635,
+     "form": "initial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    }
+   ],
+   "best_glyph": "bethuyg.init",
+   "ambiguity_group": null,
+   "confidence": 0.516,
+   "verdict": "mapped",
+   "position_distribution": {
+    "initial": 0.7,
+    "medial": 0.3
+   },
+   "explanation": "visual similarity 0.732 to bethuyg.init (margin 0.066 outside ambiguity group); members occur initial in 70% of words (glyph form: initial)"
+  },
+  "updated_028": {
+   "cluster_size": 38,
+   "cluster_type": "letter candidate",
+   "representative": "sub000849.png",
+   "top_candidates": [
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.7678,
+     "adjusted": 0.7436,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.7446,
+     "adjusted": 0.7078,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.6634,
+     "adjusted": 0.6918,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.7063,
+     "adjusted": 0.6821,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "kaphuyg",
+     "similarity": 0.6961,
+     "adjusted": 0.6719,
+     "form": "isolated",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    }
+   ],
+   "best_glyph": "bethuyg",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.462,
+   "verdict": "mapped",
+   "position_distribution": {
+    "initial": 0.816,
+    "medial": 0.026,
+    "isolated": 0.158
+   },
+   "explanation": "visual similarity 0.768 to bethuyg (margin 0.052 outside ambiguity group); visually indistinguishable in isolation from: bethuyg.fina, finalHethuyg, finalHethuyg.fina, kaphuyg, kaphuyg.fina, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur initial in 82% of words (glyph form: isolated)"
+  },
+  "updated_029": {
+   "cluster_size": 27,
+   "cluster_type": "letter candidate",
+   "representative": "sub000643.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.6912,
+     "adjusted": 0.7194,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.6546,
+     "adjusted": 0.6828,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.6459,
+     "adjusted": 0.6741,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.6424,
+     "adjusted": 0.6705,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6949,
+     "adjusted": 0.6668,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "peuyg.init_wawuyg.init",
+   "ambiguity_group": [
+    "peuyg.fina_wawuyg.fina",
+    "peuyg.init_wawuyg.init",
+    "peuyg.medi_wawuyg.medi",
+    "peuyg_wawuyg"
+   ],
+   "confidence": 0.375,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.148,
+    "initial": 0.852
+   },
+   "explanation": "visual similarity 0.691 to peuyg.init_wawuyg.init (margin 0.037 outside ambiguity group); visually indistinguishable in isolation from: peuyg.fina_wawuyg.fina, peuyg.medi_wawuyg.medi, peuyg_wawuyg; members occur initial in 85% of words (glyph form: initial)"
+  },
+  "updated_030": {
+   "cluster_size": 15,
+   "cluster_type": "letter candidate",
+   "representative": "sub000629.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.7731,
+     "adjusted": 0.7691,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.7362,
+     "adjusted": 0.7322,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.756,
+     "adjusted": 0.7307,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.7323,
+     "adjusted": 0.7176,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi.alt",
+     "similarity": 0.7526,
+     "adjusted": 0.7166,
+     "form": "unknown",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg.medi_wawuyg.medi",
+   "ambiguity_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "confidence": 0.46,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.4,
+    "final": 0.133,
+    "initial": 0.267,
+    "isolated": 0.2
+   },
+   "explanation": "visual similarity 0.773 to kaphuyg.medi_wawuyg.medi (margin 0.037 outside ambiguity group); visually indistinguishable in isolation from: kaphuyg.fina_wawuyg.fina, kaphuyg.init_wawuyg.init, kaphuyg.medi_wawuyg.medi.alt, kaphuyg_wawuyg; members occur medial in 40% of words (glyph form: medial)"
+  },
+  "updated_031": {
+   "cluster_size": 2,
+   "cluster_type": "letter candidate",
+   "representative": "sub000170.png",
+   "top_candidates": [
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.7475,
+     "adjusted": 0.7875,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.7423,
+     "adjusted": 0.7823,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6722,
+     "adjusted": 0.7122,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.7492,
+     "adjusted": 0.7092,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "shinuyg.medi",
+     "similarity": 0.659,
+     "adjusted": 0.699,
+     "form": "medial",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    }
+   ],
+   "best_glyph": "peuyg.medi_wawuyg.medi",
+   "ambiguity_group": [
+    "peuyg.fina_wawuyg.fina",
+    "peuyg.init_wawuyg.init",
+    "peuyg.medi_wawuyg.medi",
+    "peuyg_wawuyg"
+   ],
+   "confidence": 0.378,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 1.0
+   },
+   "explanation": "visual similarity 0.748 to peuyg.medi_wawuyg.medi (margin 0.005 outside ambiguity group); visually indistinguishable in isolation from: peuyg.fina_wawuyg.fina, peuyg.init_wawuyg.init, peuyg_wawuyg; members occur medial in 100% of words (glyph form: medial)"
+  },
+  "updated_032": {
+   "cluster_size": 10,
+   "cluster_type": "letter candidate",
+   "representative": "sub000638.png",
+   "top_candidates": [
+    {
+     "glyph": "shinuyg.init",
+     "similarity": 0.7717,
+     "adjusted": 0.7957,
+     "form": "initial",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "samekhuyg.init",
+     "similarity": 0.7506,
+     "adjusted": 0.7746,
+     "form": "initial",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "shinuyg.medi",
+     "similarity": 0.7909,
+     "adjusted": 0.7669,
+     "form": "medial",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.7244,
+     "adjusted": 0.7484,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "gimelHethuyg.init",
+     "similarity": 0.7242,
+     "adjusted": 0.7482,
+     "form": "initial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    }
+   ],
+   "best_glyph": "shinuyg.init",
+   "ambiguity_group": [
+    "shinuyg.init",
+    "shinuyg.medi"
+   ],
+   "confidence": 0.448,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.2,
+    "initial": 0.8
+   },
+   "explanation": "visual similarity 0.772 to shinuyg.init (margin 0.021 outside ambiguity group); visually indistinguishable in isolation from: shinuyg.medi; members occur initial in 80% of words (glyph form: initial)"
+  },
+  "updated_033": {
+   "cluster_size": 4,
+   "cluster_type": "unknown",
+   "representative": "sub000624.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6012,
+     "adjusted": 0.5812,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.573,
+     "adjusted": 0.573,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi",
+     "similarity": 0.5892,
+     "adjusted": 0.5692,
+     "form": "medial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.5857,
+     "adjusted": 0.5657,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.584,
+     "adjusted": 0.564,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg.medi_wawuyg.medi",
+   "ambiguity_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "confidence": 0.11,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.25,
+    "initial": 0.5,
+    "final": 0.25
+   },
+   "explanation": "visual similarity 0.601 to kaphuyg.medi_wawuyg.medi (margin 0.008 outside ambiguity group); visually indistinguishable in isolation from: kaphuyg.fina_wawuyg.fina, kaphuyg.init_wawuyg.init, kaphuyg.medi_wawuyg.medi.alt, kaphuyg_wawuyg; members occur initial in 50% of words (glyph form: medial)"
+  },
+  "updated_034": {
+   "cluster_size": 10,
+   "cluster_type": "letter candidate",
+   "representative": "sub000999.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6491,
+     "adjusted": 0.6331,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6478,
+     "adjusted": 0.6318,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.5889,
+     "adjusted": 0.6289,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.5743,
+     "adjusted": 0.6143,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.6312,
+     "adjusted": 0.6072,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.169,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.1,
+    "isolated": 0.8,
+    "initial": 0.1
+   },
+   "explanation": "visual similarity 0.649 to memuyg.medi_leshuyg.medi (margin 0.001 outside ambiguity group); members occur isolated in 80% of words (glyph form: medial)"
+  },
+  "updated_035": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000580.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.medi_leshuyg.medi",
+     "similarity": 0.728,
+     "adjusted": 0.768,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi",
+     "similarity": 0.704,
+     "adjusted": 0.744,
+     "form": "medial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "peuyg.medi_leshuyg.medi",
+     "similarity": 0.7017,
+     "adjusted": 0.7417,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6809,
+     "adjusted": 0.7209,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.7358,
+     "adjusted": 0.6958,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg.medi_leshuyg.medi",
+   "ambiguity_group": [
+    "kaphuyg.fina_leshuyg.fina",
+    "kaphuyg.init_leshuyg.init",
+    "kaphuyg.medi_leshuyg.medi",
+    "kaphuyg_leshuyg"
+   ],
+   "confidence": 0.415,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 1.0
+   },
+   "explanation": "visual similarity 0.728 to kaphuyg.medi_leshuyg.medi (margin 0.024 outside ambiguity group); visually indistinguishable in isolation from: kaphuyg.fina_leshuyg.fina, kaphuyg.init_leshuyg.init, kaphuyg_leshuyg; members occur medial in 100% of words (glyph form: medial)"
+  },
+  "updated_036": {
+   "cluster_size": 2,
+   "cluster_type": "letter candidate",
+   "representative": "sub000990.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "similarity": 0.7437,
+     "adjusted": 0.8037,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg_wawuyg",
+     "similarity": 0.7206,
+     "adjusted": 0.7806,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg_leshuyg",
+     "similarity": 0.7092,
+     "adjusted": 0.7692,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.7626,
+     "adjusted": 0.7426,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg_leshuyg",
+     "similarity": 0.6807,
+     "adjusted": 0.7407,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg_wawuyg",
+   "ambiguity_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "confidence": 0.467,
+   "verdict": "review",
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "explanation": "visual similarity 0.744 to kaphuyg_wawuyg (margin 0.023 outside ambiguity group); visually indistinguishable in isolation from: kaphuyg.fina_wawuyg.fina, kaphuyg.init_wawuyg.init, kaphuyg.medi_wawuyg.medi, kaphuyg.medi_wawuyg.medi.alt; members occur isolated in 100% of words (glyph form: isolated)"
+  },
+  "updated_037": {
+   "cluster_size": 3,
+   "cluster_type": "letter candidate",
+   "representative": "sub000363.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.7351,
+     "adjusted": 0.7484,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6777,
+     "adjusted": 0.6911,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.medi_wawuyg.medi",
+     "similarity": 0.6253,
+     "adjusted": 0.6386,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.648,
+     "adjusted": 0.6347,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.6449,
+     "adjusted": 0.6316,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.medi_leshuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.489,
+   "verdict": "mapped",
+   "position_distribution": {
+    "medial": 0.667,
+    "initial": 0.333
+   },
+   "explanation": "visual similarity 0.735 to memuyg.medi_leshuyg.medi (margin 0.057 outside ambiguity group); members occur medial in 67% of words (glyph form: medial)"
+  },
+  "updated_038": {
+   "cluster_size": 12,
+   "cluster_type": "unknown",
+   "representative": "sub000817.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.init_leshuyg.init",
+     "similarity": 0.6691,
+     "adjusted": 0.6841,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.6799,
+     "adjusted": 0.6549,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "similarity": 0.621,
+     "adjusted": 0.636,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.init_wawuyg.init",
+     "similarity": 0.6192,
+     "adjusted": 0.6342,
+     "form": "initial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.6542,
+     "adjusted": 0.6292,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "memuyg.init_leshuyg.init",
+   "ambiguity_group": null,
+   "confidence": 0.297,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.083,
+    "initial": 0.667,
+    "medial": 0.167,
+    "isolated": 0.083
+   },
+   "explanation": "visual similarity 0.669 to memuyg.init_leshuyg.init (margin 0.029 outside ambiguity group); members occur initial in 67% of words (glyph form: initial)"
+  },
+  "updated_039": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000915.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.fina",
+     "similarity": 0.8663,
+     "adjusted": 0.8963,
+     "form": "final",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "finalHethuyg.fina",
+     "similarity": 0.84,
+     "adjusted": 0.87,
+     "form": "final",
+     "codepoint": "U+10F75",
+     "unicode_name": "OLD UYGHUR LETTER FINAL HETH"
+    },
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.8339,
+     "adjusted": 0.8639,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "sadheuyg.fina",
+     "similarity": 0.8267,
+     "adjusted": 0.8567,
+     "form": "final",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "tawuyg.fina",
+     "similarity": 0.8138,
+     "adjusted": 0.8438,
+     "form": "final",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    }
+   ],
+   "best_glyph": "kaphuyg.fina",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.991,
+   "verdict": "mapped",
+   "position_distribution": {
+    "final": 0.833,
+    "isolated": 0.167
+   },
+   "explanation": "visual similarity 0.866 to kaphuyg.fina (margin 0.126 outside ambiguity group); visually indistinguishable in isolation from: bethuyg, bethuyg.fina, finalHethuyg, finalHethuyg.fina, kaphuyg, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur final in 83% of words (glyph form: final)"
+  },
+  "updated_040": {
+   "cluster_size": 5,
+   "cluster_type": "letter candidate",
+   "representative": "sub001060.png",
+   "top_candidates": [
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.8166,
+     "adjusted": 0.8566,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "kaphuyg",
+     "similarity": 0.8024,
+     "adjusted": 0.8424,
+     "form": "isolated",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "sadheuyg",
+     "similarity": 0.7913,
+     "adjusted": 0.8313,
+     "form": "isolated",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "bethuyg.fina",
+     "similarity": 0.8375,
+     "adjusted": 0.8295,
+     "form": "final",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "finalHethuyg",
+     "similarity": 0.7841,
+     "adjusted": 0.8241,
+     "form": "isolated",
+     "codepoint": "U+10F75",
+     "unicode_name": "OLD UYGHUR LETTER FINAL HETH"
+    }
+   ],
+   "best_glyph": "bethuyg",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.892,
+   "verdict": "mapped",
+   "position_distribution": {
+    "final": 0.2,
+    "isolated": 0.8
+   },
+   "explanation": "visual similarity 0.817 to bethuyg (margin 0.115 outside ambiguity group); visually indistinguishable in isolation from: bethuyg.fina, finalHethuyg, finalHethuyg.fina, kaphuyg, kaphuyg.fina, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur isolated in 80% of words (glyph form: isolated)"
+  },
+  "updated_041": {
+   "cluster_size": 11,
+   "cluster_type": "word segment",
+   "representative": "sub000011.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "similarity": 0.4451,
+     "adjusted": 0.4724,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "similarity": 0.4893,
+     "adjusted": 0.4584,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "similarity": 0.4557,
+     "adjusted": 0.4248,
+     "form": "medial",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "peuyg.fina_wawuyg.fina",
+     "similarity": 0.3849,
+     "adjusted": 0.4121,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi.alt",
+     "similarity": 0.4396,
+     "adjusted": 0.4015,
+     "form": "unknown",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg.fina_wawuyg.fina",
+   "ambiguity_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "confidence": 0.0,
+   "verdict": "unmapped (multi-letter word segment)",
+   "position_distribution": {
+    "final": 0.818,
+    "medial": 0.091,
+    "isolated": 0.091
+   },
+   "explanation": "visual similarity 0.445 to kaphuyg.fina_wawuyg.fina (margin 0.014 outside ambiguity group); visually indistinguishable in isolation from: kaphuyg.init_wawuyg.init, kaphuyg.medi_wawuyg.medi, kaphuyg.medi_wawuyg.medi.alt, kaphuyg_wawuyg; members occur final in 82% of words (glyph form: final); multi-letter segment: only ligature glyphs eligible"
+  },
+  "updated_042": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub000130.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.fina",
+     "similarity": 0.7635,
+     "adjusted": 0.7235,
+     "form": "final",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "sadheuyg.fina",
+     "similarity": 0.7597,
+     "adjusted": 0.7197,
+     "form": "final",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "sadheuyg",
+     "similarity": 0.759,
+     "adjusted": 0.719,
+     "form": "isolated",
+     "codepoint": "U+10F7D",
+     "unicode_name": "OLD UYGHUR LETTER SADHE"
+    },
+    {
+     "glyph": "kaphuyg",
+     "similarity": 0.7584,
+     "adjusted": 0.7184,
+     "form": "isolated",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "finalHethuyg",
+     "similarity": 0.7464,
+     "adjusted": 0.7064,
+     "form": "isolated",
+     "codepoint": "U+10F75",
+     "unicode_name": "OLD UYGHUR LETTER FINAL HETH"
+    }
+   ],
+   "best_glyph": "kaphuyg.fina",
+   "ambiguity_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "confidence": 0.351,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 1.0
+   },
+   "explanation": "visual similarity 0.763 to kaphuyg.fina (margin 0.025 outside ambiguity group); visually indistinguishable in isolation from: bethuyg, bethuyg.fina, finalHethuyg, finalHethuyg.fina, kaphuyg, sadheuyg, sadheuyg.fina, tawuyg, tawuyg.fina; members occur initial in 100% of words (glyph form: final)"
+  },
+  "updated_043": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub000423.png",
+   "top_candidates": [
+    {
+     "glyph": "alephuyg.fina",
+     "similarity": 0.6473,
+     "adjusted": 0.6073,
+     "form": "final",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "alephuyg",
+     "similarity": 0.642,
+     "adjusted": 0.602,
+     "form": "isolated",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "nunuyg.fina",
+     "similarity": 0.6332,
+     "adjusted": 0.5932,
+     "form": "final",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.6275,
+     "adjusted": 0.5875,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "nunuyg",
+     "similarity": 0.6232,
+     "adjusted": 0.5832,
+     "form": "isolated",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    }
+   ],
+   "best_glyph": "alephuyg.fina",
+   "ambiguity_group": [
+    "alephuyg",
+    "alephuyg.fina",
+    "nunuyg",
+    "nunuyg.fina"
+   ],
+   "confidence": 0.161,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 1.0
+   },
+   "explanation": "visual similarity 0.647 to alephuyg.fina (margin 0.020 outside ambiguity group); visually indistinguishable in isolation from: alephuyg, nunuyg, nunuyg.fina; members occur initial in 100% of words (glyph form: final)"
+  },
+  "updated_044": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000756.png",
+   "top_candidates": [
+    {
+     "glyph": "kaphuyg.alt",
+     "similarity": 0.6924,
+     "adjusted": 0.6558,
+     "form": "final-variant",
+     "codepoint": "U+10F77",
+     "unicode_name": "OLD UYGHUR LETTER KAPH"
+    },
+    {
+     "glyph": "lamedhuyg.fina",
+     "similarity": 0.5976,
+     "adjusted": 0.6276,
+     "form": "final",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "lamedhuyg",
+     "similarity": 0.6181,
+     "adjusted": 0.5947,
+     "form": "isolated",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "lamedhuyg.init",
+     "similarity": 0.6263,
+     "adjusted": 0.5896,
+     "form": "initial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "peuyg.fina_leshuyg.fina",
+     "similarity": 0.5445,
+     "adjusted": 0.5745,
+     "form": "final",
+     "codepoint": null,
+     "unicode_name": null
+    }
+   ],
+   "best_glyph": "kaphuyg.alt",
+   "ambiguity_group": null,
+   "confidence": 0.25,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.833,
+    "isolated": 0.167
+   },
+   "explanation": "visual similarity 0.692 to kaphuyg.alt (margin 0.028 outside ambiguity group); members occur final in 83% of words (glyph form: final-variant)"
+  },
+  "updated_045": {
+   "cluster_size": 11,
+   "cluster_type": "letter candidate",
+   "representative": "sub001010.png",
+   "top_candidates": [
+    {
+     "glyph": "lamedhuyg.fina",
+     "similarity": 0.784,
+     "adjusted": 0.8095,
+     "form": "final",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "lamedhuyg",
+     "similarity": 0.7522,
+     "adjusted": 0.7122,
+     "form": "isolated",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "peuyg.fina",
+     "similarity": 0.5655,
+     "adjusted": 0.591,
+     "form": "final",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    },
+    {
+     "glyph": "memuyg",
+     "similarity": 0.6199,
+     "adjusted": 0.5799,
+     "form": "isolated",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "memuyg.fina",
+     "similarity": 0.5529,
+     "adjusted": 0.5784,
+     "form": "final",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    }
+   ],
+   "best_glyph": "lamedhuyg.fina",
+   "ambiguity_group": [
+    "lamedhuyg",
+    "lamedhuyg.fina"
+   ],
+   "confidence": 0.774,
+   "verdict": "mapped",
+   "position_distribution": {
+    "final": 0.818,
+    "medial": 0.182
+   },
+   "explanation": "visual similarity 0.784 to lamedhuyg.fina (margin 0.219 outside ambiguity group); visually indistinguishable in isolation from: lamedhuyg; members occur final in 82% of words (glyph form: final)"
+  },
+  "updated_046": {
+   "cluster_size": 8,
+   "cluster_type": "letter candidate",
+   "representative": "sub000823.png",
+   "top_candidates": [
+    {
+     "glyph": "leshuyg.fina",
+     "similarity": 0.6883,
+     "adjusted": 0.7283,
+     "form": "final",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "lamedhuyg.init",
+     "similarity": 0.7231,
+     "adjusted": 0.6831,
+     "form": "initial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "leshuyg",
+     "similarity": 0.6943,
+     "adjusted": 0.6543,
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "leshuyg.init",
+     "similarity": 0.6907,
+     "adjusted": 0.6507,
+     "form": "initial",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "lamedhuyg.medi",
+     "similarity": 0.6866,
+     "adjusted": 0.6466,
+     "form": "medial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    }
+   ],
+   "best_glyph": "leshuyg.fina",
+   "ambiguity_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "confidence": 0.414,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.688 to leshuyg.fina (margin 0.045 outside ambiguity group); visually indistinguishable in isolation from: leshuyg; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_047": {
+   "cluster_size": 6,
+   "cluster_type": "letter candidate",
+   "representative": "sub000997.png",
+   "top_candidates": [
+    {
+     "glyph": "leshuyg.fina",
+     "similarity": 0.8237,
+     "adjusted": 0.8504,
+     "form": "final",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "gimelHethuyg.init",
+     "similarity": 0.8472,
+     "adjusted": 0.8206,
+     "form": "initial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "samekhuyg.init",
+     "similarity": 0.8267,
+     "adjusted": 0.8,
+     "form": "initial",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "samekhuyg.medi",
+     "similarity": 0.8267,
+     "adjusted": 0.7867,
+     "form": "medial",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "leshuyg.init",
+     "similarity": 0.8036,
+     "adjusted": 0.7769,
+     "form": "initial",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    }
+   ],
+   "best_glyph": "leshuyg.fina",
+   "ambiguity_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "confidence": 0.569,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 0.167,
+    "final": 0.833
+   },
+   "explanation": "visual similarity 0.824 to leshuyg.fina (margin 0.030 outside ambiguity group); visually indistinguishable in isolation from: leshuyg; members occur final in 83% of words (glyph form: final)"
+  },
+  "updated_048": {
+   "cluster_size": 2,
+   "cluster_type": "letter candidate",
+   "representative": "sub000948.png",
+   "top_candidates": [
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.7963,
+     "adjusted": 0.8363,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.7564,
+     "adjusted": 0.7964,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "samekhuyg.fina",
+     "similarity": 0.7514,
+     "adjusted": 0.7914,
+     "form": "final",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "yodhuyg",
+     "similarity": 0.8113,
+     "adjusted": 0.7713,
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.7245,
+     "adjusted": 0.7645,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    }
+   ],
+   "best_glyph": "yodhuyg.fina",
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "confidence": 0.609,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.796 to yodhuyg.fina (margin 0.045 outside ambiguity group); visually indistinguishable in isolation from: reshuyg, reshuyg.fina, yodhuyg; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_049": {
+   "cluster_size": 76,
+   "cluster_type": "letter candidate",
+   "representative": "sub000449.png",
+   "top_candidates": [
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.749,
+     "adjusted": 0.7879,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.7247,
+     "adjusted": 0.7637,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "yodhuyg",
+     "similarity": 0.7867,
+     "adjusted": 0.7467,
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.7866,
+     "adjusted": 0.7466,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "peuyg.medi",
+     "similarity": 0.7636,
+     "adjusted": 0.7246,
+     "form": "medial",
+     "codepoint": "U+10F7C",
+     "unicode_name": "OLD UYGHUR LETTER PE"
+    }
+   ],
+   "best_glyph": "yodhuyg.fina",
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "confidence": 0.508,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.987,
+    "medial": 0.013
+   },
+   "explanation": "visual similarity 0.749 to yodhuyg.fina (margin 0.041 outside ambiguity group); visually indistinguishable in isolation from: reshuyg, reshuyg.fina, yodhuyg; members occur final in 99% of words (glyph form: final)"
+  },
+  "updated_050": {
+   "cluster_size": 20,
+   "cluster_type": "letter candidate",
+   "representative": "sub000466.png",
+   "top_candidates": [
+    {
+     "glyph": "alephuyg.init",
+     "similarity": 0.8507,
+     "adjusted": 0.8867,
+     "form": "initial",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "yodhuyg.init",
+     "similarity": 0.8348,
+     "adjusted": 0.8708,
+     "form": "initial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.804,
+     "adjusted": 0.84,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.7891,
+     "adjusted": 0.8251,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "tawuyg.init",
+     "similarity": 0.7549,
+     "adjusted": 0.7909,
+     "form": "initial",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    }
+   ],
+   "best_glyph": "alephuyg.init",
+   "ambiguity_group": null,
+   "confidence": 0.56,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 0.95,
+    "medial": 0.05
+   },
+   "explanation": "visual similarity 0.851 to alephuyg.init (margin 0.016 outside ambiguity group); members occur initial in 95% of words (glyph form: initial)"
+  },
+  "updated_051": {
+   "cluster_size": 66,
+   "cluster_type": "letter candidate",
+   "representative": "sub000099.png",
+   "top_candidates": [
+    {
+     "glyph": "gimelHethuyg.medi",
+     "similarity": 0.8968,
+     "adjusted": 0.9041,
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "wawuyg.medi",
+     "similarity": 0.8933,
+     "adjusted": 0.9005,
+     "form": "medial",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "yodhuyg.medi",
+     "similarity": 0.892,
+     "adjusted": 0.8992,
+     "form": "medial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "similarity": 0.884,
+     "adjusted": 0.8912,
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "wawuyg.init",
+     "similarity": 0.8949,
+     "adjusted": 0.8755,
+     "form": "initial",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    }
+   ],
+   "best_glyph": "gimelHethuyg.medi",
+   "ambiguity_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "confidence": 0.518,
+   "verdict": "review",
+   "position_distribution": {
+    "medial": 0.591,
+    "final": 0.152,
+    "initial": 0.258
+   },
+   "explanation": "visual similarity 0.897 to gimelHethuyg.medi (margin 0.004 outside ambiguity group); visually indistinguishable in isolation from: reshuyg.init, reshuyg.medi; members occur medial in 59% of words (glyph form: medial)"
+  },
+  "updated_052": {
+   "cluster_size": 14,
+   "cluster_type": "letter candidate",
+   "representative": "sub000169.png",
+   "top_candidates": [
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.7897,
+     "adjusted": 0.824,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.7875,
+     "adjusted": 0.8218,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.768,
+     "adjusted": 0.8022,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "tawuyg.medi",
+     "similarity": 0.8013,
+     "adjusted": 0.767,
+     "form": "medial",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "bethuyg.medi",
+     "similarity": 0.7854,
+     "adjusted": 0.7511,
+     "form": "medial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    }
+   ],
+   "best_glyph": "reshuyg.fina",
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "confidence": 0.493,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 0.929,
+    "medial": 0.071
+   },
+   "explanation": "visual similarity 0.790 to reshuyg.fina (margin 0.022 outside ambiguity group); visually indistinguishable in isolation from: reshuyg, yodhuyg, yodhuyg.fina; members occur final in 93% of words (glyph form: final)"
+  },
+  "updated_053": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub001073.png",
+   "top_candidates": [
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.7046,
+     "adjusted": 0.7446,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "tawuyg.medi",
+     "similarity": 0.7829,
+     "adjusted": 0.7429,
+     "form": "medial",
+     "codepoint": "U+10F80",
+     "unicode_name": "OLD UYGHUR LETTER TAW"
+    },
+    {
+     "glyph": "yodhuyg.init",
+     "similarity": 0.7794,
+     "adjusted": 0.7394,
+     "form": "initial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.6936,
+     "adjusted": 0.7336,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.6558,
+     "adjusted": 0.6958,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    }
+   ],
+   "best_glyph": "reshuyg.fina",
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "confidence": 0.311,
+   "verdict": "review",
+   "position_distribution": {
+    "final": 1.0
+   },
+   "explanation": "visual similarity 0.705 to reshuyg.fina (margin 0.002 outside ambiguity group); visually indistinguishable in isolation from: reshuyg, yodhuyg, yodhuyg.fina; members occur final in 100% of words (glyph form: final)"
+  },
+  "updated_054": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "sub001071.png",
+   "top_candidates": [
+    {
+     "glyph": "twodotsaboveuyg",
+     "similarity": 0.7218,
+     "adjusted": 0.6818,
+     "form": "isolated",
+     "codepoint": "U+10F84",
+     "unicode_name": "COMBINING TWO DOTS ABOVE"
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.6323,
+     "adjusted": 0.6723,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "twodotsbelowuyg",
+     "similarity": 0.7029,
+     "adjusted": 0.6629,
+     "form": "isolated",
+     "codepoint": "U+10F85",
+     "unicode_name": "COMBINING TWO DOTS BELOW"
+    },
+    {
+     "glyph": "yodhuyg.init",
+     "similarity": 0.5948,
+     "adjusted": 0.6348,
+     "form": "initial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "yodhuyg",
+     "similarity": 0.6662,
+     "adjusted": 0.6262,
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    }
+   ],
+   "best_glyph": "twodotsaboveuyg",
+   "ambiguity_group": [
+    "twodotsaboveuyg",
+    "twodotsbelowuyg"
+   ],
+   "confidence": 0.249,
+   "verdict": "review",
+   "position_distribution": {
+    "initial": 1.0
+   },
+   "explanation": "visual similarity 0.722 to twodotsaboveuyg (margin 0.009 outside ambiguity group); visually indistinguishable in isolation from: twodotsbelowuyg; size-class mismatch: cluster is letter candidate but glyph is mark - demoted to review; members occur initial in 100% of words (glyph form: isolated)"
+  },
+  "updated_055": {
+   "cluster_size": 318,
+   "cluster_type": "diacritic",
+   "representative": "glyph000267.png",
+   "top_candidates": [
+    {
+     "glyph": "dotbelowuyg",
+     "similarity": 0.8666,
+     "adjusted": 0.8666,
+     "form": "isolated",
+     "codepoint": "U+10F83",
+     "unicode_name": "COMBINING DOT BELOW"
+    },
+    {
+     "glyph": "dotaboveuyg",
+     "similarity": 0.8576,
+     "adjusted": 0.8576,
+     "form": "isolated",
+     "codepoint": "U+10F82",
+     "unicode_name": "COMBINING DOT ABOVE"
+    },
+    {
+     "glyph": "nunuyg.init",
+     "similarity": 0.7897,
+     "adjusted": 0.7897,
+     "form": "initial",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "nunuyg.medi",
+     "similarity": 0.7804,
+     "adjusted": 0.7804,
+     "form": "medial",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "alephuyg.medi",
+     "similarity": 0.7789,
+     "adjusted": 0.7789,
+     "form": "medial",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    }
+   ],
+   "best_glyph": "dotbelowuyg",
+   "ambiguity_group": [
+    "dotaboveuyg",
+    "dotbelowuyg"
+   ],
+   "confidence": 0.81,
+   "verdict": "mapped",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.867 to dotbelowuyg (margin 0.077 outside ambiguity group); visually indistinguishable in isolation from: dotaboveuyg"
+  },
+  "updated_056": {
+   "cluster_size": 60,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000044.png",
+   "top_candidates": [
+    {
+     "glyph": "uni0640",
+     "similarity": 0.7949,
+     "adjusted": 0.7949,
+     "form": "medial",
+     "codepoint": "U+0640",
+     "unicode_name": "ARABIC TATWEEL"
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.7706,
+     "adjusted": 0.7706,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "twodotsaboveuyg",
+     "similarity": 0.6933,
+     "adjusted": 0.6933,
+     "form": "isolated",
+     "codepoint": "U+10F84",
+     "unicode_name": "COMBINING TWO DOTS ABOVE"
+    },
+    {
+     "glyph": "twodotsbelowuyg",
+     "similarity": 0.6917,
+     "adjusted": 0.6917,
+     "form": "isolated",
+     "codepoint": "U+10F85",
+     "unicode_name": "COMBINING TWO DOTS BELOW"
+    },
+    {
+     "glyph": "bethuyg",
+     "similarity": 0.6443,
+     "adjusted": 0.6443,
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    }
+   ],
+   "best_glyph": "uni0640",
+   "ambiguity_group": null,
+   "confidence": 0.458,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.795 to uni0640 (margin 0.024 outside ambiguity group)"
+  },
+  "updated_057": {
+   "cluster_size": 43,
+   "cluster_type": "letter fragment",
+   "representative": "glyph000607.png",
+   "top_candidates": [
+    {
+     "glyph": "uni0640",
+     "similarity": 0.9403,
+     "adjusted": 0.9403,
+     "form": "medial",
+     "codepoint": "U+0640",
+     "unicode_name": "ARABIC TATWEEL"
+    },
+    {
+     "glyph": "PunctuationTwoDots",
+     "similarity": 0.7555,
+     "adjusted": 0.7555,
+     "form": "isolated",
+     "codepoint": "U+10F88",
+     "unicode_name": "PUNCTUATION TWO DOTS"
+    },
+    {
+     "glyph": "nunuyg.fina",
+     "similarity": 0.6367,
+     "adjusted": 0.6367,
+     "form": "final",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "nunuyg",
+     "similarity": 0.6346,
+     "adjusted": 0.6346,
+     "form": "isolated",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "alephuyg",
+     "similarity": 0.6267,
+     "adjusted": 0.6267,
+     "form": "isolated",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    }
+   ],
+   "best_glyph": "uni0640",
+   "ambiguity_group": null,
+   "confidence": 1.0,
+   "verdict": "mapped",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.940 to uni0640 (margin 0.185 outside ambiguity group)"
+  },
+  "updated_058": {
+   "cluster_size": 34,
+   "cluster_type": "diacritic",
+   "representative": "glyph000988.png",
+   "top_candidates": [
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.8179,
+     "adjusted": 0.8179,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "similarity": 0.8062,
+     "adjusted": 0.8062,
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "gimelHethuyg.medi",
+     "similarity": 0.7532,
+     "adjusted": 0.7532,
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "nunuyg.init",
+     "similarity": 0.7269,
+     "adjusted": 0.7269,
+     "form": "initial",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "alephuyg.init",
+     "similarity": 0.7264,
+     "adjusted": 0.7264,
+     "form": "initial",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    }
+   ],
+   "best_glyph": "reshuyg.init",
+   "ambiguity_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "confidence": 0.759,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.818 to reshuyg.init (margin 0.091 outside ambiguity group); visually indistinguishable in isolation from: gimelHethuyg.medi, reshuyg.medi; size-class mismatch: cluster is diacritic but glyph is letter - demoted to review"
+  },
+  "updated_059": {
+   "cluster_size": 8,
+   "cluster_type": "letter fragment",
+   "representative": "glyph000788.png",
+   "top_candidates": [
+    {
+     "glyph": "PunctuationBar",
+     "similarity": 0.6856,
+     "adjusted": 0.6856,
+     "form": "isolated",
+     "codepoint": "U+10F86",
+     "unicode_name": "PUNCTUATION BAR"
+    },
+    {
+     "glyph": "leshuyg",
+     "similarity": 0.6543,
+     "adjusted": 0.6543,
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "gimelHethtwodotsaboveuyg",
+     "similarity": 0.6528,
+     "adjusted": 0.6528,
+     "form": "isolated",
+     "codepoint": null,
+     "unicode_name": null
+    },
+    {
+     "glyph": "leshuyg.fina",
+     "similarity": 0.6302,
+     "adjusted": 0.6302,
+     "form": "final",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "lamedhuyg.medi",
+     "similarity": 0.5632,
+     "adjusted": 0.5632,
+     "form": "medial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    }
+   ],
+   "best_glyph": "PunctuationBar",
+   "ambiguity_group": null,
+   "confidence": 0.305,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.686 to PunctuationBar (margin 0.031 outside ambiguity group)"
+  },
+  "updated_060": {
+   "cluster_size": 8,
+   "cluster_type": "letter candidate",
+   "representative": "glyph001009.png",
+   "top_candidates": [
+    {
+     "glyph": "yodhuyg",
+     "similarity": 0.8582,
+     "adjusted": 0.8582,
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "bethuyg.init",
+     "similarity": 0.8501,
+     "adjusted": 0.8501,
+     "form": "initial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "bethuyg.medi",
+     "similarity": 0.8299,
+     "adjusted": 0.8299,
+     "form": "medial",
+     "codepoint": "U+10F71",
+     "unicode_name": "OLD UYGHUR LETTER BETH"
+    },
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.8175,
+     "adjusted": 0.8175,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg",
+     "similarity": 0.8108,
+     "adjusted": 0.8108,
+     "form": "isolated",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "yodhuyg",
+   "ambiguity_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "confidence": 0.484,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.858 to yodhuyg (margin 0.008 outside ambiguity group); visually indistinguishable in isolation from: reshuyg, reshuyg.fina, yodhuyg.fina"
+  },
+  "updated_061": {
+   "cluster_size": 5,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000317.png",
+   "top_candidates": [
+    {
+     "glyph": "memuyg.medi",
+     "similarity": 0.6968,
+     "adjusted": 0.6968,
+     "form": "medial",
+     "codepoint": "U+10F79",
+     "unicode_name": "OLD UYGHUR LETTER MEM"
+    },
+    {
+     "glyph": "samekhuyg.fina",
+     "similarity": 0.635,
+     "adjusted": 0.635,
+     "form": "final",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "shinuyg.fina",
+     "similarity": 0.6327,
+     "adjusted": 0.6327,
+     "form": "final",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    },
+    {
+     "glyph": "samekhuyg",
+     "similarity": 0.6303,
+     "adjusted": 0.6303,
+     "form": "isolated",
+     "codepoint": "U+10F7B",
+     "unicode_name": "OLD UYGHUR LETTER SAMEKH"
+    },
+    {
+     "glyph": "shinuyg",
+     "similarity": 0.6206,
+     "adjusted": 0.6206,
+     "form": "isolated",
+     "codepoint": "U+10F7F",
+     "unicode_name": "OLD UYGHUR LETTER SHIN"
+    }
+   ],
+   "best_glyph": "memuyg.medi",
+   "ambiguity_group": null,
+   "confidence": 0.398,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.697 to memuyg.medi (margin 0.062 outside ambiguity group)"
+  },
+  "updated_062": {
+   "cluster_size": 4,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000791.png",
+   "top_candidates": [
+    {
+     "glyph": "lamedhuyg.init",
+     "similarity": 0.7131,
+     "adjusted": 0.7131,
+     "form": "initial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "leshuyg.init",
+     "similarity": 0.7073,
+     "adjusted": 0.7073,
+     "form": "initial",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "leshuyg",
+     "similarity": 0.6972,
+     "adjusted": 0.6972,
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "leshuyg.fina",
+     "similarity": 0.6885,
+     "adjusted": 0.6885,
+     "form": "final",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "lamedhuyg.medi",
+     "similarity": 0.6775,
+     "adjusted": 0.6775,
+     "form": "medial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    }
+   ],
+   "best_glyph": "lamedhuyg.init",
+   "ambiguity_group": [
+    "lamedhuyg.init",
+    "lamedhuyg.medi"
+   ],
+   "confidence": 0.282,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.713 to lamedhuyg.init (margin 0.006 outside ambiguity group); visually indistinguishable in isolation from: lamedhuyg.medi"
+  },
+  "updated_063": {
+   "cluster_size": 3,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000637.png",
+   "top_candidates": [
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.7422,
+     "adjusted": 0.7422,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "wawuyg",
+     "similarity": 0.7334,
+     "adjusted": 0.7334,
+     "form": "isolated",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "yodhuyg.fina",
+     "similarity": 0.7259,
+     "adjusted": 0.7259,
+     "form": "final",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "reshuyg.fina",
+     "similarity": 0.715,
+     "adjusted": 0.715,
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    },
+    {
+     "glyph": "yodhuyg",
+     "similarity": 0.7027,
+     "adjusted": 0.7027,
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    }
+   ],
+   "best_glyph": "wawuyg.fina",
+   "ambiguity_group": [
+    "wawuyg",
+    "wawuyg.fina"
+   ],
+   "confidence": 0.352,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.742 to wawuyg.fina (margin 0.016 outside ambiguity group); visually indistinguishable in isolation from: wawuyg"
+  },
+  "updated_064": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000213.png",
+   "top_candidates": [
+    {
+     "glyph": "alephuyg.init",
+     "similarity": 0.8265,
+     "adjusted": 0.8265,
+     "form": "initial",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    },
+    {
+     "glyph": "yodhuyg.init",
+     "similarity": 0.8006,
+     "adjusted": 0.8006,
+     "form": "initial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "yodhuyg.medi",
+     "similarity": 0.7795,
+     "adjusted": 0.7795,
+     "form": "medial",
+     "codepoint": "U+10F76",
+     "unicode_name": "OLD UYGHUR LETTER YODH"
+    },
+    {
+     "glyph": "gimelHethuyg.medi",
+     "similarity": 0.7724,
+     "adjusted": 0.7724,
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "similarity": 0.7712,
+     "adjusted": 0.7712,
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "alephuyg.init",
+   "ambiguity_group": null,
+   "confidence": 0.514,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.827 to alephuyg.init (margin 0.026 outside ambiguity group)"
+  },
+  "updated_065": {
+   "cluster_size": 1,
+   "cluster_type": "punctuation-like mark",
+   "representative": "glyph000446.png",
+   "top_candidates": [
+    {
+     "glyph": "lamedhuyg.init",
+     "similarity": 0.5132,
+     "adjusted": 0.5132,
+     "form": "initial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "lamedhuyg.medi",
+     "similarity": 0.5108,
+     "adjusted": 0.5108,
+     "form": "medial",
+     "codepoint": "U+10F78",
+     "unicode_name": "OLD UYGHUR LETTER LAMEDH"
+    },
+    {
+     "glyph": "leshuyg",
+     "similarity": 0.4905,
+     "adjusted": 0.4905,
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "unicode_name": "OLD UYGHUR LETTER LESH"
+    },
+    {
+     "glyph": "nunuyg.init",
+     "similarity": 0.4889,
+     "adjusted": 0.4889,
+     "form": "initial",
+     "codepoint": "U+10F7A",
+     "unicode_name": "OLD UYGHUR LETTER NUN"
+    },
+    {
+     "glyph": "alephuyg.medi",
+     "similarity": 0.4875,
+     "adjusted": 0.4875,
+     "form": "medial",
+     "codepoint": "U+10F70",
+     "unicode_name": "OLD UYGHUR LETTER ALEPH"
+    }
+   ],
+   "best_glyph": "lamedhuyg.init",
+   "ambiguity_group": [
+    "lamedhuyg.init",
+    "lamedhuyg.medi"
+   ],
+   "confidence": 0.02,
+   "verdict": "unmapped",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.513 to lamedhuyg.init (margin 0.023 outside ambiguity group); visually indistinguishable in isolation from: lamedhuyg.medi; size-class mismatch: cluster is punctuation-like mark but glyph is letter - demoted to review"
+  },
+  "updated_066": {
+   "cluster_size": 1,
+   "cluster_type": "punctuation-like mark",
+   "representative": "glyph000453.png",
+   "top_candidates": [
+    {
+     "glyph": "dotaboveuyg",
+     "similarity": 0.7889,
+     "adjusted": 0.7889,
+     "form": "isolated",
+     "codepoint": "U+10F82",
+     "unicode_name": "COMBINING DOT ABOVE"
+    },
+    {
+     "glyph": "dotbelowuyg",
+     "similarity": 0.7744,
+     "adjusted": 0.7744,
+     "form": "isolated",
+     "codepoint": "U+10F83",
+     "unicode_name": "COMBINING DOT BELOW"
+    },
+    {
+     "glyph": "wawuyg",
+     "similarity": 0.6437,
+     "adjusted": 0.6437,
+     "form": "isolated",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "wawuyg.fina",
+     "similarity": 0.6221,
+     "adjusted": 0.6221,
+     "form": "final",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "PunctuationBar",
+     "similarity": 0.6079,
+     "adjusted": 0.6079,
+     "form": "isolated",
+     "codepoint": "U+10F86",
+     "unicode_name": "PUNCTUATION BAR"
+    }
+   ],
+   "best_glyph": "dotaboveuyg",
+   "ambiguity_group": [
+    "dotaboveuyg",
+    "dotbelowuyg"
+   ],
+   "confidence": 0.722,
+   "verdict": "mapped",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.789 to dotaboveuyg (margin 0.145 outside ambiguity group); visually indistinguishable in isolation from: dotbelowuyg"
+  },
+  "updated_067": {
+   "cluster_size": 1,
+   "cluster_type": "letter candidate",
+   "representative": "glyph000728.png",
+   "top_candidates": [
+    {
+     "glyph": "gimelHethuyg.medi",
+     "similarity": 0.7641,
+     "adjusted": 0.7641,
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH"
+    },
+    {
+     "glyph": "wawuyg.init",
+     "similarity": 0.7568,
+     "adjusted": 0.7568,
+     "form": "initial",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "wawuyg.medi",
+     "similarity": 0.7489,
+     "adjusted": 0.7489,
+     "form": "medial",
+     "codepoint": "U+10F73",
+     "unicode_name": "OLD UYGHUR LETTER WAW"
+    },
+    {
+     "glyph": "zayinuyg",
+     "similarity": 0.7263,
+     "adjusted": 0.7263,
+     "form": "isolated",
+     "codepoint": "U+10F74",
+     "unicode_name": "OLD UYGHUR LETTER ZAYIN"
+    },
+    {
+     "glyph": "reshuyg.init",
+     "similarity": 0.723,
+     "adjusted": 0.723,
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "unicode_name": "OLD UYGHUR LETTER RESH"
+    }
+   ],
+   "best_glyph": "gimelHethuyg.medi",
+   "ambiguity_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "confidence": 0.354,
+   "verdict": "review",
+   "position_distribution": {},
+   "explanation": "visual similarity 0.764 to gimelHethuyg.medi (margin 0.007 outside ambiguity group); visually indistinguishable in isolation from: reshuyg.init, reshuyg.medi"
+  }
+ }
+}

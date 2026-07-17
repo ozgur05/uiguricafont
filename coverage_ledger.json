@@ -1,0 +1,322 @@
+{
+ "meta": {
+  "covered": 22,
+  "draft-only": 4
+ },
+ "codepoints": [
+  {
+   "codepoint": "U+10F70",
+   "name": "ALEPH",
+   "state": "covered",
+   "production_forms": [
+    "alephuyg.init"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_050 resolved -> alephuyg.init"
+   ]
+  },
+  {
+   "codepoint": "U+10F71",
+   "name": "BETH",
+   "state": "covered",
+   "production_forms": [
+    "bethuyg",
+    "bethuyg.fina",
+    "bethuyg.init",
+    "bethuyg.medi"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_039 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F72",
+   "name": "GIMEL-HETH",
+   "state": "covered",
+   "production_forms": [
+    "gimelHethuyg",
+    "gimelHethuyg.fina",
+    "gimelHethuyg.init",
+    "gimelHethuyg.medi"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_051 shortlist (unchanged)"
+   ]
+  },
+  {
+   "codepoint": "U+10F73",
+   "name": "WAW",
+   "state": "covered",
+   "production_forms": [
+    "wawuyg.medi"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F74",
+   "name": "ZAYIN",
+   "state": "covered",
+   "production_forms": [
+    "zayinuyg.fina"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F75",
+   "name": "FINAL HETH",
+   "state": "covered",
+   "production_forms": [
+    "finalHethuyg.fina"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_039 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F76",
+   "name": "YODH",
+   "state": "covered",
+   "production_forms": [
+    "yodhuyg"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_049 shortlist (narrowed)",
+    "updated_060 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F77",
+   "name": "KAPH",
+   "state": "covered",
+   "production_forms": [
+    "kaphuyg",
+    "kaphuyg.fina",
+    "kaphuyg.medi"
+   ],
+   "draft_forms": [
+    "kaphuyg.init"
+   ],
+   "ambiguity_evidence": [
+    "updated_039 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F78",
+   "name": "LAMEDH",
+   "state": "covered",
+   "production_forms": [
+    "lamedhuyg.init",
+    "lamedhuyg.medi"
+   ],
+   "draft_forms": [
+    "lamedhuyg",
+    "lamedhuyg.fina"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F79",
+   "name": "MEM",
+   "state": "covered",
+   "production_forms": [
+    "memuyg.fina",
+    "memuyg.medi"
+   ],
+   "draft_forms": [
+    "memuyg"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F7A",
+   "name": "NUN",
+   "state": "covered",
+   "production_forms": [
+    "nunuyg.init",
+    "nunuyg.medi"
+   ],
+   "draft_forms": [
+    "nunuyg",
+    "nunuyg.fina"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F7B",
+   "name": "SAMEKH",
+   "state": "covered",
+   "production_forms": [
+    "samekhuyg.init",
+    "samekhuyg.medi"
+   ],
+   "draft_forms": [
+    "samekhuyg",
+    "samekhuyg.fina"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F7C",
+   "name": "PE",
+   "state": "covered",
+   "production_forms": [
+    "peuyg.fina"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F7D",
+   "name": "SADHE",
+   "state": "covered",
+   "production_forms": [
+    "sadheuyg.init"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_039 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F7E",
+   "name": "RESH",
+   "state": "covered",
+   "production_forms": [
+    "reshuyg.fina"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_049 shortlist (narrowed)",
+    "updated_051 shortlist (unchanged)",
+    "updated_051 shortlist (unchanged)",
+    "updated_060 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F7F",
+   "name": "SHIN",
+   "state": "covered",
+   "production_forms": [
+    "shinuyg",
+    "shinuyg.fina",
+    "shinuyg.init",
+    "shinuyg.medi"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F80",
+   "name": "TAW",
+   "state": "covered",
+   "production_forms": [
+    "tawuyg.medi"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_039 shortlist (narrowed)"
+   ]
+  },
+  {
+   "codepoint": "U+10F81",
+   "name": "LESH",
+   "state": "covered",
+   "production_forms": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": [
+    "updated_046 resolved -> leshuyg.fina",
+    "updated_047 resolved -> leshuyg.fina"
+   ]
+  },
+  {
+   "codepoint": "U+10F82",
+   "name": "DOT ABOVE",
+   "state": "covered",
+   "production_forms": [
+    "dotaboveuyg"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F83",
+   "name": "DOT BELOW",
+   "state": "covered",
+   "production_forms": [
+    "dotbelowuyg"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F84",
+   "name": "TWO DOTS ABOVE",
+   "state": "draft-only",
+   "production_forms": [],
+   "draft_forms": [
+    "twodotsaboveuyg"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F85",
+   "name": "TWO DOTS BELOW",
+   "state": "draft-only",
+   "production_forms": [],
+   "draft_forms": [
+    "twodotsbelowuyg"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F86",
+   "name": "BAR",
+   "state": "covered",
+   "production_forms": [
+    "PunctuationBar"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F87",
+   "name": "TWO BARS",
+   "state": "draft-only",
+   "production_forms": [],
+   "draft_forms": [
+    "PunctuationTwoBars"
+   ],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F88",
+   "name": "TWO DOTS",
+   "state": "covered",
+   "production_forms": [
+    "PunctuationTwoDots"
+   ],
+   "draft_forms": [],
+   "ambiguity_evidence": []
+  },
+  {
+   "codepoint": "U+10F89",
+   "name": "FOUR DOTS",
+   "state": "draft-only",
+   "production_forms": [],
+   "draft_forms": [
+    "PunctuationFourDots"
+   ],
+   "ambiguity_evidence": []
+  }
+ ]
+}

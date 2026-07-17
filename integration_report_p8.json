@@ -1,0 +1,1329 @@
+{
+ "meta": {
+  "font": "build/Uigurica-Regular.ttf",
+  "backup": "build/Uigurica-Regular.phase1-noto.ttf",
+  "band_units": [
+   0.0,
+   95.0
+  ],
+  "join_convention": "init left -8 / medi -8..adv+8 / fina adv+8 (band-row anchored) / free sb 10",
+  "stray_rule": "detached non-hole contours < 12% of largest",
+  "cu2qu_max_err": 1.0,
+  "n_replaced": 39
+ },
+ "glyphs": {
+  "PunctuationBar": {
+   "master": "masters/glif/harvest_PunctuationBar.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.638,
+   "vertical_method": "noto_vertical_center",
+   "dy": 5.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 327,
+    "new": 327
+   },
+   "lsb": {
+    "old": 55,
+    "new": 71
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "PunctuationTwoDots": {
+   "master": "masters/glif/harvest_PunctuationTwoDots.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.665,
+   "vertical_method": "noto_vertical_center",
+   "dy": -14.5,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 438,
+    "new": 438
+   },
+   "lsb": {
+    "old": 20,
+    "new": 9
+   },
+   "join_stubs": [],
+   "n_contours": 2,
+   "status": "production"
+  },
+  "alephuyg.init": {
+   "master": "masters/glif/updated_050_alephuyg_init.glif",
+   "source": "phase6:updated_050",
+   "attestations": 20,
+   "provenance": {
+    "mueller1908": 20
+   },
+   "quality": 0.604,
+   "vertical_method": "word_context_band(ratio=0.7499)",
+   "dy": -13.9,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 220,
+    "new": 271
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 56.0,
+     "y_range": [
+      25.0,
+      108.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "bethuyg": {
+   "master": "masters/glif/harvest_bethuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 8,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 8,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.479,
+   "vertical_method": "word_context_band(ratio=0.7102)",
+   "dy": -17.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 715,
+    "new": 641
+   },
+   "lsb": {
+    "old": 10,
+    "new": 10
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "bethuyg.fina": {
+   "master": "masters/glif/harvest_bethuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.524,
+   "vertical_method": "word_context_band(ratio=0.7524)",
+   "dy": -8.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 701,
+    "new": 638
+   },
+   "lsb": {
+    "old": 10,
+    "new": 10
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "bethuyg.init": {
+   "master": "masters/glif/harvest_bethuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.691,
+   "vertical_method": "word_context_band(ratio=0.6991)",
+   "dy": -25.3,
+   "stray_contours_removed": 2,
+   "advance": {
+    "old": 401,
+    "new": 383
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": -1.0,
+     "band_coverage_before": 44.0,
+     "y_range": [
+      -21.0,
+      70.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "bethuyg.medi": {
+   "master": "masters/glif/harvest_bethuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 7,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 7,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.663,
+   "vertical_method": "word_context_band(ratio=0.8048)",
+   "dy": 2.9,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 366,
+    "new": 326
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "dotaboveuyg": {
+   "master": "masters/glif/harvest_dotaboveuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.729,
+   "vertical_method": "noto_vertical_center",
+   "dy": 466.4,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 0,
+    "new": 0
+   },
+   "lsb": {
+    "old": 120,
+    "new": 133
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "dotbelowuyg": {
+   "master": "masters/glif/harvest_dotbelowuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.767,
+   "vertical_method": "noto_vertical_center",
+   "dy": -245.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 0,
+    "new": 0
+   },
+   "lsb": {
+    "old": 120,
+    "new": 127
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "finalHethuyg.fina": {
+   "master": "masters/glif/updated_039_finalHethuyg_fina.glif",
+   "source": "phase6:updated_039",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 6
+   },
+   "quality": 0.612,
+   "vertical_method": "word_context_band(ratio=0.8102)",
+   "dy": -10.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 735,
+    "new": 531
+   },
+   "lsb": {
+    "old": 10,
+    "new": 9
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 59.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    }
+   ],
+   "n_contours": 2,
+   "status": "production"
+  },
+  "gimelHethuyg": {
+   "master": "masters/glif/harvest_gimelHethuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.642,
+   "vertical_method": "word_context_band(ratio=0.3047)",
+   "dy": -317.6,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 349,
+    "new": 339
+   },
+   "lsb": {
+    "old": 5,
+    "new": 7
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "gimelHethuyg.fina": {
+   "master": "masters/glif/harvest_gimelHethuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.574,
+   "vertical_method": "word_context_band(ratio=0.3109)",
+   "dy": -320.1,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 336,
+    "new": 328
+   },
+   "lsb": {
+    "old": 5,
+    "new": 7
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "gimelHethuyg.init": {
+   "master": "masters/glif/harvest_gimelHethuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 10,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 10,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.773,
+   "vertical_method": "word_context_band(ratio=0.559)",
+   "dy": -74.2,
+   "stray_contours_removed": 2,
+   "advance": {
+    "old": 290,
+    "new": 262
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "gimelHethuyg.medi": {
+   "master": "masters/glif/harvest_gimelHethuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.495,
+   "vertical_method": "word_context_band(ratio=0.866)",
+   "dy": 21.4,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 271,
+    "new": 265
+   },
+   "lsb": {
+    "old": -8,
+    "new": -7
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "kaphuyg": {
+   "master": "masters/glif/harvest_kaphuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.603,
+   "vertical_method": "word_context_band(ratio=0.8142)",
+   "dy": 3.0,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 727,
+    "new": 662
+   },
+   "lsb": {
+    "old": 10,
+    "new": 10
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "kaphuyg.fina": {
+   "master": "masters/glif/harvest_kaphuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.615,
+   "vertical_method": "word_context_band(ratio=0.8363)",
+   "dy": 7.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 720,
+    "new": 687
+   },
+   "lsb": {
+    "old": 10,
+    "new": 10
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "kaphuyg.medi": {
+   "master": "masters/glif/harvest_kaphuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.575,
+   "vertical_method": "word_context_band(ratio=0.7174)",
+   "dy": -45.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 359,
+    "new": 563
+   },
+   "lsb": {
+    "old": -255,
+    "new": -7
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 49.0,
+     "y_range": [
+      25.0,
+      119.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "kaphuyg.medi_wawuyg.medi": {
+   "master": "masters/glif/updated_030_kaphuyg_medi_wawuyg_medi.glif",
+   "source": "phase6:updated_030",
+   "attestations": 15,
+   "provenance": {
+    "mueller1908": 15
+   },
+   "quality": 0.606,
+   "vertical_method": "word_context_band(ratio=0.6373)",
+   "dy": -61.3,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 637,
+    "new": 511
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "lamedhuyg.init": {
+   "master": "masters/glif/harvest_lamedhuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.669,
+   "vertical_method": "word_context_band(ratio=0.9597)",
+   "dy": 26.1,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 398,
+    "new": 341
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 50.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "lamedhuyg.medi": {
+   "master": "masters/glif/harvest_lamedhuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.641,
+   "vertical_method": "word_context_band(ratio=0.9646)",
+   "dy": 26.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 303,
+    "new": 340
+   },
+   "lsb": {
+    "old": -98,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 54.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    },
+    {
+     "side": "right",
+     "h_gap": null,
+     "band_coverage_before": 0,
+     "y_range": [
+      25.0,
+      70.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "leshuyg": {
+   "master": "masters/glif/updated_046_leshuyg.glif",
+   "source": "phase6:updated_046",
+   "attestations": 8,
+   "provenance": {
+    "mueller1908": 8
+   },
+   "quality": 0.609,
+   "vertical_method": "word_context_band(ratio=0.9503)",
+   "dy": 3.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 313,
+    "new": 369
+   },
+   "lsb": {
+    "old": 10,
+    "new": 8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "leshuyg.fina": {
+   "master": "masters/glif/updated_047_leshuyg_fina.glif",
+   "source": "phase6:updated_047",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 6
+   },
+   "quality": 0.64,
+   "vertical_method": "word_context_band(ratio=0.5493)",
+   "dy": -122.0,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 283,
+    "new": 272
+   },
+   "lsb": {
+    "old": 15,
+    "new": 10
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 56.0,
+     "y_range": [
+      25.0,
+      92.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "memuyg.fina": {
+   "master": "masters/glif/harvest_memuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 7,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 7,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.602,
+   "vertical_method": "word_context_band(ratio=0.5477)",
+   "dy": -219.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 420,
+    "new": 444
+   },
+   "lsb": {
+    "old": -50,
+    "new": 9
+   },
+   "join_stubs": [],
+   "n_contours": 2,
+   "status": "production"
+  },
+  "memuyg.medi": {
+   "master": "masters/glif/harvest_memuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 10,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 10,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.595,
+   "vertical_method": "word_context_band(ratio=0.5355)",
+   "dy": -133.9,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 415,
+    "new": 428
+   },
+   "lsb": {
+    "old": -52,
+    "new": -12
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "nunuyg.init": {
+   "master": "masters/glif/harvest_nunuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.703,
+   "vertical_method": "word_context_band(ratio=1.1341)",
+   "dy": 69.4,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 169,
+    "new": 147
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": -1.0,
+     "band_coverage_before": 14.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    }
+   ],
+   "n_contours": 2,
+   "status": "production"
+  },
+  "nunuyg.medi": {
+   "master": "masters/glif/harvest_nunuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.675,
+   "vertical_method": "word_context_band(ratio=1.1037)",
+   "dy": 65.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 149,
+    "new": 130
+   },
+   "lsb": {
+    "old": -8,
+    "new": -9
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": -1.0,
+     "band_coverage_before": 18.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    },
+    {
+     "side": "right",
+     "h_gap": null,
+     "band_coverage_before": 0,
+     "y_range": [
+      25.0,
+      70.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "peuyg.fina": {
+   "master": "masters/glif/updated_062_peuyg_fina.glif",
+   "source": "phase6:updated_062",
+   "attestations": 4,
+   "provenance": {
+    "mueller1908": 4
+   },
+   "quality": 0.586,
+   "vertical_method": "word_context_band(ratio=0.9627)",
+   "dy": 26.0,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 672,
+    "new": 344
+   },
+   "lsb": {
+    "old": 3,
+    "new": 9
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": -10.0,
+     "band_coverage_before": 47.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    }
+   ],
+   "n_contours": 2,
+   "status": "production"
+  },
+  "reshuyg.fina": {
+   "master": "masters/glif/updated_049_reshuyg_fina.glif",
+   "source": "phase6:updated_049",
+   "attestations": 76,
+   "provenance": {
+    "mueller1908": 76
+   },
+   "quality": 0.591,
+   "vertical_method": "word_context_band(ratio=0.625)",
+   "dy": -92.1,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 475,
+    "new": 386
+   },
+   "lsb": {
+    "old": 10,
+    "new": 8
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 58.0,
+     "y_range": [
+      25.0,
+      100.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "sadheuyg.init": {
+   "master": "masters/glif/harvest_sadheuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 1
+   },
+   "quality": 0.684,
+   "vertical_method": "word_context_band(ratio=0.9213)",
+   "dy": 25.0,
+   "stray_contours_removed": 2,
+   "advance": {
+    "old": 280,
+    "new": 456
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 53.0,
+     "y_range": [
+      25.0,
+      121.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "samekhuyg.init": {
+   "master": "masters/glif/harvest_samekhuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 7,
+   "provenance": {
+    "mueller1908": 7,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.661,
+   "vertical_method": "word_context_band(ratio=0.6679)",
+   "dy": -52.0,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 323,
+    "new": 280
+   },
+   "lsb": {
+    "old": -8,
+    "new": -7
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "samekhuyg.medi": {
+   "master": "masters/glif/harvest_samekhuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 6,
+   "provenance": {
+    "mueller1908": 6,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.658,
+   "vertical_method": "word_context_band(ratio=0.5964)",
+   "dy": -88.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 313,
+    "new": 270
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 44.0,
+     "y_range": [
+      25.0,
+      121.0
+     ]
+    },
+    {
+     "side": "right",
+     "h_gap": null,
+     "band_coverage_before": 0,
+     "y_range": [
+      25.0,
+      70.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "shinuyg": {
+   "master": "masters/glif/harvest_shinuyg.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.687,
+   "vertical_method": "word_context_band(ratio=0.6976)",
+   "dy": -46.4,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 435,
+    "new": 539
+   },
+   "lsb": {
+    "old": -100,
+    "new": 10
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "shinuyg.fina": {
+   "master": "masters/glif/harvest_shinuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.72,
+   "vertical_method": "word_context_band(ratio=0.6845)",
+   "dy": -48.2,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 520,
+    "new": 448
+   },
+   "lsb": {
+    "old": 5,
+    "new": 10
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 42.0,
+     "y_range": [
+      25.0,
+      130
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "shinuyg.init": {
+   "master": "masters/glif/harvest_shinuyg_init.glif",
+   "source": "phase7.4b",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.626,
+   "vertical_method": "word_context_band(ratio=0.6367)",
+   "dy": -83.7,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 343,
+    "new": 302
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 42.0,
+     "y_range": [
+      25.0,
+      94.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "shinuyg.medi": {
+   "master": "masters/glif/harvest_shinuyg_medi.glif",
+   "source": "phase7.4b",
+   "attestations": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "quality": 0.66,
+   "vertical_method": "word_context_band(ratio=0.6314)",
+   "dy": -78.9,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 321,
+    "new": 277
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [
+    {
+     "side": "left",
+     "h_gap": 0.0,
+     "band_coverage_before": 49.0,
+     "y_range": [
+      25.0,
+      97.0
+     ]
+    },
+    {
+     "side": "right",
+     "h_gap": null,
+     "band_coverage_before": 0,
+     "y_range": [
+      25.0,
+      70.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "tawuyg.medi": {
+   "master": "masters/glif/updated_041_tawuyg_medi.glif",
+   "source": "phase6:updated_041",
+   "attestations": 11,
+   "provenance": {
+    "mueller1908": 11
+   },
+   "quality": 0.622,
+   "vertical_method": "word_context_band(ratio=0.7792)",
+   "dy": -15.8,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 404,
+    "new": 785
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "wawuyg.medi": {
+   "master": "masters/glif/updated_040_wawuyg_medi.glif",
+   "source": "phase6:updated_040",
+   "attestations": 5,
+   "provenance": {
+    "mueller1908": 5
+   },
+   "quality": 0.676,
+   "vertical_method": "word_context_band(ratio=0.8348)",
+   "dy": 8.6,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 234,
+    "new": 552
+   },
+   "lsb": {
+    "old": -8,
+    "new": -8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "yodhuyg": {
+   "master": "masters/glif/updated_060_yodhuyg.glif",
+   "source": "phase6:updated_060",
+   "attestations": 8,
+   "provenance": {
+    "mueller1908": 8
+   },
+   "quality": 0.657,
+   "vertical_method": "word_context_band(ratio=0.6443)",
+   "dy": -56.4,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 486,
+    "new": 361
+   },
+   "lsb": {
+    "old": 10,
+    "new": 8
+   },
+   "join_stubs": [],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "zayinuyg.fina": {
+   "master": "masters/glif/harvest_zayinuyg_fina.glif",
+   "source": "phase7.4b",
+   "attestations": 21,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 18
+   },
+   "quality": 0.62,
+   "vertical_method": "word_context_band(ratio=0.8606)",
+   "dy": 11.6,
+   "stray_contours_removed": 0,
+   "advance": {
+    "old": 226,
+    "new": 343
+   },
+   "lsb": {
+    "old": 10,
+    "new": 9
+   },
+   "join_stubs": [
+    {
+     "side": "right",
+     "h_gap": 0.0,
+     "band_coverage_before": 59.0,
+     "y_range": [
+      25.0,
+      104.0
+     ]
+    }
+   ],
+   "n_contours": 1,
+   "status": "production"
+  },
+  "PunctuationFourDots": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_PunctuationFourDots.svg",
+    "glif": "masters/glif/harvest_PunctuationFourDots.glif"
+   },
+   "attestations": 1,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "PunctuationTwoBars": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_PunctuationTwoBars.svg",
+    "glif": "masters/glif/harvest_PunctuationTwoBars.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "kaphuyg.init": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_kaphuyg_init.svg",
+    "glif": "masters/glif/harvest_kaphuyg_init.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "lamedhuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_lamedhuyg.svg",
+    "glif": "masters/glif/harvest_lamedhuyg.glif"
+   },
+   "attestations": 1,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "lamedhuyg.fina": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_lamedhuyg_fina.svg",
+    "glif": "masters/glif/harvest_lamedhuyg_fina.glif"
+   },
+   "attestations": 1,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "memuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_memuyg.svg",
+    "glif": "masters/glif/harvest_memuyg.glif"
+   },
+   "attestations": 1,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "nunuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_nunuyg.svg",
+    "glif": "masters/glif/harvest_nunuyg.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "nunuyg.fina": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_nunuyg_fina.svg",
+    "glif": "masters/glif/harvest_nunuyg_fina.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "samekhuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_samekhuyg.svg",
+    "glif": "masters/glif/harvest_samekhuyg.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "samekhuyg.fina": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_samekhuyg_fina.svg",
+    "glif": "masters/glif/harvest_samekhuyg_fina.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "twodotsaboveuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_twodotsaboveuyg.svg",
+    "glif": "masters/glif/harvest_twodotsaboveuyg.glif"
+   },
+   "attestations": 1,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  },
+  "twodotsbelowuyg": {
+   "status": "draft-not-integrated",
+   "kept": "existing font outline (Noto)",
+   "draft_master_reference": {
+    "svg": "masters/svg/harvest_twodotsbelowuyg.svg",
+    "glif": "masters/glif/harvest_twodotsbelowuyg.glif"
+   },
+   "attestations": 2,
+   "reason": "insufficient attestations (<3); see coverage_gaps_74b.md"
+  }
+ },
+ "validation": {
+  "issues": [],
+  "informational": {
+   "missing_extrema_segments": 39,
+   "checked": 39
+  },
+  "tables_changed": [
+   "head",
+   "maxp",
+   "hmtx",
+   "loca",
+   "glyf"
+  ],
+  "tables_preserved_ok": {
+   "GSUB": true,
+   "GPOS": true,
+   "GDEF": true,
+   "cmap": true,
+   "name": true,
+   "post": true,
+   "OS/2": true,
+   "gasp": true,
+   "prep": true,
+   "fpgm": true,
+   "cvt ": true
+  },
+  "join_audit": {
+   "pairs_tested": 399,
+   "broken": 0
+  },
+  "verdict": "PASS"
+ }
+}

@@ -1,0 +1,536 @@
+{
+ "summary": {
+  "n_words": 27,
+  "iou_median": {
+   "mueller_font": 0.527,
+   "noto_font": 0.285
+  },
+  "iou_mean": {
+   "mueller_font": 0.533,
+   "noto_font": 0.243
+  },
+  "coverage_median": {
+   "mueller_font": 0.745,
+   "noto_font": 0.347
+  },
+  "words_where_mueller_beats_noto": 22,
+  "join_continuity_ok": 27
+ },
+ "words": [
+  {
+   "word": "glyph000313.png",
+   "glyphs": [
+    "alephuyg.init",
+    "wawuyg.medi"
+   ],
+   "n_letters": 2,
+   "new": {
+    "iou": 0.319,
+    "coverage": 0.488,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.289,
+    "coverage": 0.347,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000589.png",
+   "glyphs": [
+    "kaphuyg.medi_wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.119,
+    "coverage": 0.167,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.401,
+    "coverage": 0.509,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000593.png",
+   "glyphs": [
+    "wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.31,
+    "coverage": 0.576,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.351,
+    "coverage": 0.439,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000618.png",
+   "glyphs": [
+    "wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.756,
+    "coverage": 0.982,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.369,
+    "coverage": 0.42,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000626.png",
+   "glyphs": [
+    "wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.763,
+    "coverage": 0.972,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.386,
+    "coverage": 0.43,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000630.png",
+   "glyphs": [
+    "wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.738,
+    "coverage": 0.97,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.182,
+    "coverage": 0.241,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000509.png",
+   "glyphs": [
+    "kaphuyg.medi_wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.37,
+    "coverage": 0.588,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.508,
+    "coverage": 0.648,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000534.png",
+   "glyphs": [
+    "kaphuyg.medi_wawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.244,
+    "coverage": 0.416,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.223,
+    "coverage": 0.321,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000420.png",
+   "glyphs": [
+    "tawuyg.medi"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.368,
+    "coverage": 0.66,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.311,
+    "coverage": 0.485,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph001045.png",
+   "glyphs": [
+    "finalHethuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.555,
+    "coverage": 0.833,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.117,
+    "coverage": 0.264,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000140.png",
+   "glyphs": [
+    "sadheuyg.init",
+    "reshuyg.fina"
+   ],
+   "n_letters": 2,
+   "new": {
+    "iou": 0.655,
+    "coverage": 0.824,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.141,
+    "coverage": 0.333,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000160.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.803,
+    "coverage": 0.984,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.029,
+    "coverage": 0.052,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000208.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.407,
+    "coverage": 0.51,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.288,
+    "coverage": 0.454,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000584.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.428,
+    "coverage": 0.533,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.527,
+    "coverage": 0.726,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000683.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.527,
+    "coverage": 0.745,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.181,
+    "coverage": 0.292,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000738.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.773,
+    "coverage": 0.967,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.305,
+    "coverage": 0.63,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000760.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.434,
+    "coverage": 0.536,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.37,
+    "coverage": 0.565,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000866.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.783,
+    "coverage": 0.952,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.009,
+    "coverage": 0.016,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph001009.png",
+   "glyphs": [
+    "yodhuyg"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.813,
+    "coverage": 0.958,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.029,
+    "coverage": 0.052,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000276.png",
+   "glyphs": [
+    "peuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.779,
+    "coverage": 0.906,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.179,
+    "coverage": 0.369,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000468.png",
+   "glyphs": [
+    "peuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.422,
+    "coverage": 0.732,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.137,
+    "coverage": 0.275,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000791.png",
+   "glyphs": [
+    "peuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.783,
+    "coverage": 0.904,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.139,
+    "coverage": 0.345,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000856.png",
+   "glyphs": [
+    "peuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.173,
+    "coverage": 0.246,
+    "cc_scan": 1,
+    "cc_render": 2
+   },
+   "old": {
+    "iou": 0.111,
+    "coverage": 0.233,
+    "cc_scan": 1,
+    "cc_render": 2
+   }
+  },
+  {
+   "word": "glyph000613.png",
+   "glyphs": [
+    "zayinuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.363,
+    "coverage": 0.552,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.285,
+    "coverage": 0.347,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000637.png",
+   "glyphs": [
+    "zayinuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.691,
+    "coverage": 0.805,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.285,
+    "coverage": 0.333,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph001056.png",
+   "glyphs": [
+    "zayinuyg.fina"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.218,
+    "coverage": 0.373,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.335,
+    "coverage": 0.414,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  },
+  {
+   "word": "glyph000213.png",
+   "glyphs": [
+    "alephuyg.init"
+   ],
+   "n_letters": 1,
+   "new": {
+    "iou": 0.808,
+    "coverage": 0.978,
+    "cc_scan": 1,
+    "cc_render": 1
+   },
+   "old": {
+    "iou": 0.085,
+    "coverage": 0.134,
+    "cc_scan": 1,
+    "cc_render": 1
+   }
+  }
+ ]
+}

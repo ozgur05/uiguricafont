@@ -1,0 +1,551 @@
+{
+ "meta": {
+  "method": "position-form compatibility + L2/20-191 joining model; visual similarity orders but never eliminates",
+  "support_min": 0.25,
+  "resolved": 3,
+  "narrowed": 8,
+  "unchanged": 1
+ },
+ "clusters": {
+  "updated_010": {
+   "cluster_size": 4,
+   "position_distribution": {
+    "initial": 0.75,
+    "isolated": 0.25
+   },
+   "original_group": [
+    "memuyg.medi_leshuyg.medi"
+   ],
+   "survivors": [],
+   "eliminated": [
+    {
+     "glyph": "memuyg.medi_leshuyg.medi",
+     "form": "medial",
+     "codepoint": null,
+     "position_support": 0,
+     "visual_rank_adjusted": 0.4224,
+     "eliminated_because": [
+      "form 'medial' matches only 0% of member positions (members are initial in 75%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "ALL candidates eliminated - group or positions inconsistent, needs re-examination"
+  },
+  "updated_030": {
+   "cluster_size": 15,
+   "position_distribution": {
+    "medial": 0.4,
+    "final": 0.133,
+    "initial": 0.267,
+    "isolated": 0.2
+   },
+   "original_group": [
+    "kaphuyg.fina_wawuyg.fina",
+    "kaphuyg.init_wawuyg.init",
+    "kaphuyg.medi_wawuyg.medi",
+    "kaphuyg.medi_wawuyg.medi.alt",
+    "kaphuyg_wawuyg"
+   ],
+   "survivors": [
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi",
+     "form": "medial",
+     "codepoint": null,
+     "position_support": 0.4,
+     "visual_rank_adjusted": 0.7691
+    },
+    {
+     "glyph": "kaphuyg.init_wawuyg.init",
+     "form": "initial",
+     "codepoint": null,
+     "position_support": 0.267,
+     "visual_rank_adjusted": 0.7176
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "kaphuyg.fina_wawuyg.fina",
+     "form": "final",
+     "codepoint": null,
+     "position_support": 0.133,
+     "visual_rank_adjusted": 0.7307,
+     "eliminated_because": [
+      "form 'final' matches only 13% of member positions (members are medial in 40%)"
+     ]
+    },
+    {
+     "glyph": "kaphuyg.medi_wawuyg.medi.alt",
+     "form": "unknown",
+     "codepoint": null,
+     "position_support": 0,
+     "visual_rank_adjusted": 0.7166,
+     "eliminated_because": [
+      "form 'unknown' matches only 0% of member positions (members are medial in 40%)"
+     ]
+    },
+    {
+     "glyph": "kaphuyg_wawuyg",
+     "form": "isolated",
+     "codepoint": null,
+     "position_support": 0.2,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 20% of member positions (members are medial in 40%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "human pick required among survivors"
+  },
+  "updated_039": {
+   "cluster_size": 6,
+   "position_distribution": {
+    "final": 0.833,
+    "isolated": 0.167
+   },
+   "original_group": [
+    "bethuyg",
+    "bethuyg.fina",
+    "finalHethuyg",
+    "finalHethuyg.fina",
+    "kaphuyg",
+    "kaphuyg.fina",
+    "sadheuyg",
+    "sadheuyg.fina",
+    "tawuyg",
+    "tawuyg.fina"
+   ],
+   "survivors": [
+    {
+     "glyph": "kaphuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F77",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.8963
+    },
+    {
+     "glyph": "finalHethuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F75",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.87
+    },
+    {
+     "glyph": "bethuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F71",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.8639
+    },
+    {
+     "glyph": "sadheuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F7D",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.8567
+    },
+    {
+     "glyph": "tawuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F80",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.8438
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "bethuyg",
+     "form": "isolated",
+     "codepoint": "U+10F71",
+     "position_support": 0.167,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 17% of member positions (members are final in 83%)"
+     ]
+    },
+    {
+     "glyph": "finalHethuyg",
+     "form": "isolated",
+     "codepoint": "U+10F75",
+     "position_support": 0.167,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 17% of member positions (members are final in 83%)"
+     ]
+    },
+    {
+     "glyph": "kaphuyg",
+     "form": "isolated",
+     "codepoint": "U+10F77",
+     "position_support": 0.167,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 17% of member positions (members are final in 83%)"
+     ]
+    },
+    {
+     "glyph": "sadheuyg",
+     "form": "isolated",
+     "codepoint": "U+10F7D",
+     "position_support": 0.167,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 17% of member positions (members are final in 83%)"
+     ]
+    },
+    {
+     "glyph": "tawuyg",
+     "form": "isolated",
+     "codepoint": "U+10F80",
+     "position_support": 0.167,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 17% of member positions (members are final in 83%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "human pick required among survivors"
+  },
+  "updated_046": {
+   "cluster_size": 8,
+   "position_distribution": {
+    "final": 1.0
+   },
+   "original_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "survivors": [
+    {
+     "glyph": "leshuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F81",
+     "position_support": 1.0,
+     "visual_rank_adjusted": 0.7283
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "leshuyg",
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.6543,
+     "eliminated_because": [
+      "form 'isolated' matches only 0% of member positions (members are final in 100%)"
+     ]
+    }
+   ],
+   "status": "resolved",
+   "proposed_glyph": "leshuyg.fina",
+   "note": "single survivor by position+joining logic; visual rank not needed"
+  },
+  "updated_047": {
+   "cluster_size": 6,
+   "position_distribution": {
+    "initial": 0.167,
+    "final": 0.833
+   },
+   "original_group": [
+    "leshuyg",
+    "leshuyg.fina"
+   ],
+   "survivors": [
+    {
+     "glyph": "leshuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F81",
+     "position_support": 0.833,
+     "visual_rank_adjusted": 0.8504
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "leshuyg",
+     "form": "isolated",
+     "codepoint": "U+10F81",
+     "position_support": 0,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 0% of member positions (members are final in 83%)"
+     ]
+    }
+   ],
+   "status": "resolved",
+   "proposed_glyph": "leshuyg.fina",
+   "note": "single survivor by position+joining logic; visual rank not needed"
+  },
+  "updated_049": {
+   "cluster_size": 76,
+   "position_distribution": {
+    "final": 0.987,
+    "medial": 0.013
+   },
+   "original_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "survivors": [
+    {
+     "glyph": "yodhuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F76",
+     "position_support": 0.987,
+     "visual_rank_adjusted": 0.7879
+    },
+    {
+     "glyph": "reshuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "position_support": 0.987,
+     "visual_rank_adjusted": 0.7637
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "reshuyg",
+     "form": "isolated",
+     "codepoint": "U+10F7E",
+     "position_support": 0,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'isolated' matches only 0% of member positions (members are final in 99%)"
+     ]
+    },
+    {
+     "glyph": "yodhuyg",
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.7467,
+     "eliminated_because": [
+      "form 'isolated' matches only 0% of member positions (members are final in 99%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "human pick required among survivors"
+  },
+  "updated_050": {
+   "cluster_size": 20,
+   "position_distribution": {
+    "initial": 0.95,
+    "medial": 0.05
+   },
+   "original_group": [
+    "alephuyg.init"
+   ],
+   "survivors": [
+    {
+     "glyph": "alephuyg.init",
+     "form": "initial",
+     "codepoint": "U+10F70",
+     "position_support": 0.95,
+     "visual_rank_adjusted": 0.8867
+    }
+   ],
+   "eliminated": [],
+   "status": "resolved",
+   "proposed_glyph": "alephuyg.init",
+   "note": "single survivor by position+joining logic; visual rank not needed"
+  },
+  "updated_051": {
+   "cluster_size": 66,
+   "position_distribution": {
+    "medial": 0.591,
+    "final": 0.152,
+    "initial": 0.258
+   },
+   "original_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "survivors": [
+    {
+     "glyph": "gimelHethuyg.medi",
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "position_support": 0.591,
+     "visual_rank_adjusted": 0.9041
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "position_support": 0.591,
+     "visual_rank_adjusted": 0.8912
+    },
+    {
+     "glyph": "reshuyg.init",
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "position_support": 0.258,
+     "visual_rank_adjusted": null
+    }
+   ],
+   "eliminated": [],
+   "status": "unchanged",
+   "proposed_glyph": null,
+   "note": "human pick required among survivors"
+  },
+  "updated_060": {
+   "cluster_size": 8,
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "original_group": [
+    "reshuyg",
+    "reshuyg.fina",
+    "yodhuyg",
+    "yodhuyg.fina"
+   ],
+   "survivors": [
+    {
+     "glyph": "yodhuyg",
+     "form": "isolated",
+     "codepoint": "U+10F76",
+     "position_support": 1.0,
+     "visual_rank_adjusted": 0.8582
+    },
+    {
+     "glyph": "reshuyg",
+     "form": "isolated",
+     "codepoint": "U+10F7E",
+     "position_support": 1.0,
+     "visual_rank_adjusted": 0.8108
+    }
+   ],
+   "eliminated": [
+    {
+     "glyph": "reshuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F7E",
+     "position_support": 0,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'final' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    },
+    {
+     "glyph": "yodhuyg.fina",
+     "form": "final",
+     "codepoint": "U+10F76",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.8175,
+     "eliminated_because": [
+      "form 'final' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "human pick required among survivors"
+  },
+  "updated_061": {
+   "cluster_size": 5,
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "original_group": [
+    "memuyg.medi"
+   ],
+   "survivors": [],
+   "eliminated": [
+    {
+     "glyph": "memuyg.medi",
+     "form": "medial",
+     "codepoint": "U+10F79",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.6968,
+     "eliminated_because": [
+      "form 'medial' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "ALL candidates eliminated - group or positions inconsistent, needs re-examination"
+  },
+  "updated_064": {
+   "cluster_size": 1,
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "original_group": [
+    "alephuyg.init"
+   ],
+   "survivors": [],
+   "eliminated": [
+    {
+     "glyph": "alephuyg.init",
+     "form": "initial",
+     "codepoint": "U+10F70",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.8265,
+     "eliminated_because": [
+      "form 'initial' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "ALL candidates eliminated - group or positions inconsistent, needs re-examination"
+  },
+  "updated_067": {
+   "cluster_size": 1,
+   "position_distribution": {
+    "isolated": 1.0
+   },
+   "original_group": [
+    "gimelHethuyg.medi",
+    "reshuyg.init",
+    "reshuyg.medi"
+   ],
+   "survivors": [],
+   "eliminated": [
+    {
+     "glyph": "gimelHethuyg.medi",
+     "form": "medial",
+     "codepoint": "U+10F72",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.7641,
+     "eliminated_because": [
+      "form 'medial' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    },
+    {
+     "glyph": "reshuyg.init",
+     "form": "initial",
+     "codepoint": "U+10F7E",
+     "position_support": 0,
+     "visual_rank_adjusted": 0.723,
+     "eliminated_because": [
+      "form 'initial' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    },
+    {
+     "glyph": "reshuyg.medi",
+     "form": "medial",
+     "codepoint": "U+10F7E",
+     "position_support": 0,
+     "visual_rank_adjusted": null,
+     "eliminated_because": [
+      "form 'medial' matches only 0% of member positions (members are isolated in 100%)"
+     ]
+    }
+   ],
+   "status": "narrowed",
+   "proposed_glyph": null,
+   "note": "ALL candidates eliminated - group or positions inconsistent, needs re-examination"
+  }
+ }
+}

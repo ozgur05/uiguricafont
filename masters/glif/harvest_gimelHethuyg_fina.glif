@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gimelHethuyg.fina" format="2">
+ <advance width="404"/>
+ <outline>
+  <contour>
+   <point x="18.0" y="27.2" type="curve"/>
+   <point x="0.0" y="41.7"/>
+   <point x="50.3" y="149.4"/>
+   <point x="57.0" y="173.2" type="curve"/>
+   <point x="63.7" y="197.2"/>
+   <point x="87.8" y="277.8"/>
+   <point x="84.1" y="298.4" type="curve"/>
+   <point x="80.3" y="320.2"/>
+   <point x="36.6" y="310.7"/>
+   <point x="49.1" y="352.0" type="curve"/>
+   <point x="63.5" y="399.2"/>
+   <point x="143.8" y="500.0"/>
+   <point x="189.4" y="520.0" type="curve"/>
+   <point x="198.2" y="523.9"/>
+   <point x="210.4" y="521.8"/>
+   <point x="219.7" y="521.8" type="curve"/>
+   <point x="225.0" y="521.8"/>
+   <point x="238.5" y="524.2"/>
+   <point x="241.5" y="518.7" type="curve"/>
+   <point x="245.3" y="503.7"/>
+   <point x="189.5" y="429.1"/>
+   <point x="202.7" y="408.5" type="curve"/>
+   <point x="209.3" y="400.0"/>
+   <point x="223.2" y="403.6"/>
+   <point x="232.1" y="403.5" type="curve"/>
+   <point x="244.9" y="403.4"/>
+   <point x="263.0" y="396.6"/>
+   <point x="274.8" y="403.6" type="curve"/>
+   <point x="287.5" y="411.0"/>
+   <point x="313.0" y="485.4"/>
+   <point x="331.9" y="481.8" type="curve"/>
+   <point x="340.4" y="479.3"/>
+   <point x="343.9" y="331.5"/>
+   <point x="337.0" y="321.7" type="curve"/>
+   <point x="307.7" y="292.1"/>
+   <point x="196.0" y="332.0"/>
+   <point x="176.9" y="303.8" type="curve"/>
+   <point x="164.0" y="284.7"/>
+   <point x="162.8" y="254.4"/>
+   <point x="154.9" y="232.7" type="curve"/>
+   <point x="144.3" y="203.7"/>
+   <point x="59.2" y="0.0"/>
+  </contour>
+ </outline>
+</glyph>

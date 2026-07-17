@@ -1,0 +1,913 @@
+{
+ "meta": {
+  "source": "harvest_decisions.json (Mueller) + harvest_decisions_lecoq.json (Le Coq) + existing validated members; same metal type, co-stacked with per-master provenance",
+  "production_min": 3,
+  "n_masters": 41,
+  "production": 29,
+  "draft": 12
+ },
+ "outlines": [
+  {
+   "glyph": "PunctuationBar",
+   "codepoint": "U+10F86",
+   "unicode_name": "PUNCTUATION BAR",
+   "contextual_form": "isolated",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.947,
+   "n_cubic_segments": 12,
+   "fitting_error_rms_px": 1.043,
+   "fitting_error_max_px": 2.874,
+   "outline_quality_score": 0.638,
+   "files": {
+    "svg": "masters/svg/harvest_PunctuationBar.svg",
+    "glif": "masters/glif/harvest_PunctuationBar.glif"
+   }
+  },
+  {
+   "glyph": "PunctuationFourDots",
+   "codepoint": "U+10F89",
+   "unicode_name": "PUNCTUATION FOUR DOTS",
+   "contextual_form": "isolated",
+   "attestations_total": 1,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.99,
+   "n_cubic_segments": 49,
+   "fitting_error_rms_px": 0.905,
+   "fitting_error_max_px": 2.979,
+   "outline_quality_score": 0.71,
+   "files": {
+    "svg": "masters/svg/harvest_PunctuationFourDots.svg",
+    "glif": "masters/glif/harvest_PunctuationFourDots.glif"
+   }
+  },
+  {
+   "glyph": "PunctuationTwoBars",
+   "codepoint": "U+10F87",
+   "unicode_name": "PUNCTUATION TWO BARS",
+   "contextual_form": "isolated",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 2,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.646,
+   "n_cubic_segments": 134,
+   "fitting_error_rms_px": 0.344,
+   "fitting_error_max_px": 1.6,
+   "outline_quality_score": 0.577,
+   "files": {
+    "svg": "masters/svg/harvest_PunctuationTwoBars.svg",
+    "glif": "masters/glif/harvest_PunctuationTwoBars.glif"
+   }
+  },
+  {
+   "glyph": "PunctuationTwoDots",
+   "codepoint": "U+10F88",
+   "unicode_name": "PUNCTUATION TWO DOTS",
+   "contextual_form": "isolated",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.89,
+   "n_cubic_segments": 63,
+   "fitting_error_rms_px": 0.81,
+   "fitting_error_max_px": 2.493,
+   "outline_quality_score": 0.665,
+   "files": {
+    "svg": "masters/svg/harvest_PunctuationTwoDots.svg",
+    "glif": "masters/glif/harvest_PunctuationTwoDots.glif"
+   }
+  },
+  {
+   "glyph": "bethuyg",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "contextual_form": "isolated",
+   "attestations_total": 8,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 8,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.962,
+   "n_cubic_segments": 38,
+   "fitting_error_rms_px": 1.605,
+   "fitting_error_max_px": 5.182,
+   "outline_quality_score": 0.479,
+   "files": {
+    "svg": "masters/svg/harvest_bethuyg.svg",
+    "glif": "masters/glif/harvest_bethuyg.glif"
+   }
+  },
+  {
+   "glyph": "bethuyg.fina",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "contextual_form": "final",
+   "attestations_total": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.966,
+   "n_cubic_segments": 43,
+   "fitting_error_rms_px": 1.466,
+   "fitting_error_max_px": 5.828,
+   "outline_quality_score": 0.524,
+   "files": {
+    "svg": "masters/svg/harvest_bethuyg_fina.svg",
+    "glif": "masters/glif/harvest_bethuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "bethuyg.init",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "contextual_form": "initial",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.946,
+   "n_cubic_segments": 35,
+   "fitting_error_rms_px": 0.863,
+   "fitting_error_max_px": 3.572,
+   "outline_quality_score": 0.691,
+   "files": {
+    "svg": "masters/svg/harvest_bethuyg_init.svg",
+    "glif": "masters/glif/harvest_bethuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "bethuyg.medi",
+   "codepoint": "U+10F71",
+   "unicode_name": "OLD UYGHUR LETTER BETH",
+   "contextual_form": "medial",
+   "attestations_total": 7,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 7,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.927,
+   "n_cubic_segments": 43,
+   "fitting_error_rms_px": 0.911,
+   "fitting_error_max_px": 2.93,
+   "outline_quality_score": 0.663,
+   "files": {
+    "svg": "masters/svg/harvest_bethuyg_medi.svg",
+    "glif": "masters/glif/harvest_bethuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "dotaboveuyg",
+   "codepoint": "U+10F82",
+   "unicode_name": "COMBINING DOT ABOVE",
+   "contextual_form": "isolated",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.905,
+   "n_cubic_segments": 44,
+   "fitting_error_rms_px": 0.622,
+   "fitting_error_max_px": 2.52,
+   "outline_quality_score": 0.729,
+   "files": {
+    "svg": "masters/svg/harvest_dotaboveuyg.svg",
+    "glif": "masters/glif/harvest_dotaboveuyg.glif"
+   }
+  },
+  {
+   "glyph": "dotbelowuyg",
+   "codepoint": "U+10F83",
+   "unicode_name": "COMBINING DOT BELOW",
+   "contextual_form": "isolated",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.912,
+   "n_cubic_segments": 48,
+   "fitting_error_rms_px": 0.509,
+   "fitting_error_max_px": 1.649,
+   "outline_quality_score": 0.767,
+   "files": {
+    "svg": "masters/svg/harvest_dotbelowuyg.svg",
+    "glif": "masters/glif/harvest_dotbelowuyg.glif"
+   }
+  },
+  {
+   "glyph": "gimelHethuyg",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "contextual_form": "isolated",
+   "attestations_total": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.953,
+   "n_cubic_segments": 18,
+   "fitting_error_rms_px": 1.044,
+   "fitting_error_max_px": 3.112,
+   "outline_quality_score": 0.642,
+   "files": {
+    "svg": "masters/svg/harvest_gimelHethuyg.svg",
+    "glif": "masters/glif/harvest_gimelHethuyg.glif"
+   }
+  },
+  {
+   "glyph": "gimelHethuyg.fina",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "contextual_form": "final",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.958,
+   "n_cubic_segments": 14,
+   "fitting_error_rms_px": 1.284,
+   "fitting_error_max_px": 3.561,
+   "outline_quality_score": 0.574,
+   "files": {
+    "svg": "masters/svg/harvest_gimelHethuyg_fina.svg",
+    "glif": "masters/glif/harvest_gimelHethuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "gimelHethuyg.init",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "contextual_form": "initial",
+   "attestations_total": 10,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 10,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.952,
+   "n_cubic_segments": 22,
+   "fitting_error_rms_px": 0.604,
+   "fitting_error_max_px": 2.472,
+   "outline_quality_score": 0.773,
+   "files": {
+    "svg": "masters/svg/harvest_gimelHethuyg_init.svg",
+    "glif": "masters/glif/harvest_gimelHethuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "gimelHethuyg.medi",
+   "codepoint": "U+10F72",
+   "unicode_name": "OLD UYGHUR LETTER GIMEL-HETH",
+   "contextual_form": "medial",
+   "attestations_total": 6,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 6,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.961,
+   "n_cubic_segments": 23,
+   "fitting_error_rms_px": 1.552,
+   "fitting_error_max_px": 4.236,
+   "outline_quality_score": 0.495,
+   "files": {
+    "svg": "masters/svg/harvest_gimelHethuyg_medi.svg",
+    "glif": "masters/glif/harvest_gimelHethuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "kaphuyg",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "contextual_form": "isolated",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 5,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.889,
+   "n_cubic_segments": 53,
+   "fitting_error_rms_px": 1.029,
+   "fitting_error_max_px": 3.076,
+   "outline_quality_score": 0.603,
+   "files": {
+    "svg": "masters/svg/harvest_kaphuyg.svg",
+    "glif": "masters/glif/harvest_kaphuyg.glif"
+   }
+  },
+  {
+   "glyph": "kaphuyg.fina",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "contextual_form": "final",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.951,
+   "n_cubic_segments": 44,
+   "fitting_error_rms_px": 1.131,
+   "fitting_error_max_px": 4.561,
+   "outline_quality_score": 0.615,
+   "files": {
+    "svg": "masters/svg/harvest_kaphuyg_fina.svg",
+    "glif": "masters/glif/harvest_kaphuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "kaphuyg.init",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "contextual_form": "initial",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 2,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.806,
+   "n_cubic_segments": 53,
+   "fitting_error_rms_px": 0.756,
+   "fitting_error_max_px": 2.456,
+   "outline_quality_score": 0.616,
+   "files": {
+    "svg": "masters/svg/harvest_kaphuyg_init.svg",
+    "glif": "masters/glif/harvest_kaphuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "kaphuyg.medi",
+   "codepoint": "U+10F77",
+   "unicode_name": "OLD UYGHUR LETTER KAPH",
+   "contextual_form": "medial",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 3,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.794,
+   "n_cubic_segments": 40,
+   "fitting_error_rms_px": 0.885,
+   "fitting_error_max_px": 2.624,
+   "outline_quality_score": 0.575,
+   "files": {
+    "svg": "masters/svg/harvest_kaphuyg_medi.svg",
+    "glif": "masters/glif/harvest_kaphuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "lamedhuyg",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "contextual_form": "isolated",
+   "attestations_total": 1,
+   "provenance": {
+    "mueller1908": 1,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.962,
+   "n_cubic_segments": 126,
+   "fitting_error_rms_px": 0.571,
+   "fitting_error_max_px": 2.585,
+   "outline_quality_score": 0.79,
+   "files": {
+    "svg": "masters/svg/harvest_lamedhuyg.svg",
+    "glif": "masters/glif/harvest_lamedhuyg.glif"
+   }
+  },
+  {
+   "glyph": "lamedhuyg.fina",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "contextual_form": "final",
+   "attestations_total": 1,
+   "provenance": {
+    "mueller1908": 1,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.979,
+   "n_cubic_segments": 133,
+   "fitting_error_rms_px": 0.619,
+   "fitting_error_max_px": 2.167,
+   "outline_quality_score": 0.79,
+   "files": {
+    "svg": "masters/svg/harvest_lamedhuyg_fina.svg",
+    "glif": "masters/glif/harvest_lamedhuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "lamedhuyg.init",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "contextual_form": "initial",
+   "attestations_total": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.872,
+   "n_cubic_segments": 50,
+   "fitting_error_rms_px": 0.745,
+   "fitting_error_max_px": 1.998,
+   "outline_quality_score": 0.669,
+   "files": {
+    "svg": "masters/svg/harvest_lamedhuyg_init.svg",
+    "glif": "masters/glif/harvest_lamedhuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "lamedhuyg.medi",
+   "codepoint": "U+10F78",
+   "unicode_name": "OLD UYGHUR LETTER LAMEDH",
+   "contextual_form": "medial",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.882,
+   "n_cubic_segments": 45,
+   "fitting_error_rms_px": 0.875,
+   "fitting_error_max_px": 2.751,
+   "outline_quality_score": 0.641,
+   "files": {
+    "svg": "masters/svg/harvest_lamedhuyg_medi.svg",
+    "glif": "masters/glif/harvest_lamedhuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "memuyg",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "contextual_form": "isolated",
+   "attestations_total": 1,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.991,
+   "n_cubic_segments": 40,
+   "fitting_error_rms_px": 1.259,
+   "fitting_error_max_px": 4.878,
+   "outline_quality_score": 0.601,
+   "files": {
+    "svg": "masters/svg/harvest_memuyg.svg",
+    "glif": "masters/glif/harvest_memuyg.glif"
+   }
+  },
+  {
+   "glyph": "memuyg.fina",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "contextual_form": "final",
+   "attestations_total": 7,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 7,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.967,
+   "n_cubic_segments": 15,
+   "fitting_error_rms_px": 1.206,
+   "fitting_error_max_px": 6.191,
+   "outline_quality_score": 0.602,
+   "files": {
+    "svg": "masters/svg/harvest_memuyg_fina.svg",
+    "glif": "masters/glif/harvest_memuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "memuyg.medi",
+   "codepoint": "U+10F79",
+   "unicode_name": "OLD UYGHUR LETTER MEM",
+   "contextual_form": "medial",
+   "attestations_total": 10,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 10,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.94,
+   "n_cubic_segments": 24,
+   "fitting_error_rms_px": 1.175,
+   "fitting_error_max_px": 3.658,
+   "outline_quality_score": 0.595,
+   "files": {
+    "svg": "masters/svg/harvest_memuyg_medi.svg",
+    "glif": "masters/glif/harvest_memuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "nunuyg",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "contextual_form": "isolated",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.832,
+   "n_cubic_segments": 117,
+   "fitting_error_rms_px": 1.175,
+   "fitting_error_max_px": 15.181,
+   "outline_quality_score": 0.526,
+   "files": {
+    "svg": "masters/svg/harvest_nunuyg.svg",
+    "glif": "masters/glif/harvest_nunuyg.glif"
+   }
+  },
+  {
+   "glyph": "nunuyg.fina",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "contextual_form": "final",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.841,
+   "n_cubic_segments": 109,
+   "fitting_error_rms_px": 0.896,
+   "fitting_error_max_px": 9.634,
+   "outline_quality_score": 0.605,
+   "files": {
+    "svg": "masters/svg/harvest_nunuyg_fina.svg",
+    "glif": "masters/glif/harvest_nunuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "nunuyg.init",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "contextual_form": "initial",
+   "attestations_total": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.852,
+   "n_cubic_segments": 54,
+   "fitting_error_rms_px": 0.559,
+   "fitting_error_max_px": 1.898,
+   "outline_quality_score": 0.703,
+   "files": {
+    "svg": "masters/svg/harvest_nunuyg_init.svg",
+    "glif": "masters/glif/harvest_nunuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "nunuyg.medi",
+   "codepoint": "U+10F7A",
+   "unicode_name": "OLD UYGHUR LETTER NUN",
+   "contextual_form": "medial",
+   "attestations_total": 4,
+   "provenance": {
+    "mueller1908": 4,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.843,
+   "n_cubic_segments": 47,
+   "fitting_error_rms_px": 0.637,
+   "fitting_error_max_px": 1.79,
+   "outline_quality_score": 0.675,
+   "files": {
+    "svg": "masters/svg/harvest_nunuyg_medi.svg",
+    "glif": "masters/glif/harvest_nunuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "sadheuyg.init",
+   "codepoint": "U+10F7D",
+   "unicode_name": "OLD UYGHUR LETTER SADHE",
+   "contextual_form": "initial",
+   "attestations_total": 6,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 1
+   },
+   "status": "production",
+   "consensus_agreement": 0.821,
+   "n_cubic_segments": 86,
+   "fitting_error_rms_px": 0.535,
+   "fitting_error_max_px": 1.856,
+   "outline_quality_score": 0.684,
+   "files": {
+    "svg": "masters/svg/harvest_sadheuyg_init.svg",
+    "glif": "masters/glif/harvest_sadheuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "samekhuyg",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "contextual_form": "isolated",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.703,
+   "n_cubic_segments": 115,
+   "fitting_error_rms_px": 0.625,
+   "fitting_error_max_px": 1.999,
+   "outline_quality_score": 0.566,
+   "files": {
+    "svg": "masters/svg/harvest_samekhuyg.svg",
+    "glif": "masters/glif/harvest_samekhuyg.glif"
+   }
+  },
+  {
+   "glyph": "samekhuyg.fina",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "contextual_form": "final",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 2,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.879,
+   "n_cubic_segments": 81,
+   "fitting_error_rms_px": 0.778,
+   "fitting_error_max_px": 4.114,
+   "outline_quality_score": 0.665,
+   "files": {
+    "svg": "masters/svg/harvest_samekhuyg_fina.svg",
+    "glif": "masters/glif/harvest_samekhuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "samekhuyg.init",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "contextual_form": "initial",
+   "attestations_total": 7,
+   "provenance": {
+    "mueller1908": 7,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.836,
+   "n_cubic_segments": 51,
+   "fitting_error_rms_px": 0.668,
+   "fitting_error_max_px": 2.176,
+   "outline_quality_score": 0.661,
+   "files": {
+    "svg": "masters/svg/harvest_samekhuyg_init.svg",
+    "glif": "masters/glif/harvest_samekhuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "samekhuyg.medi",
+   "codepoint": "U+10F7B",
+   "unicode_name": "OLD UYGHUR LETTER SAMEKH",
+   "contextual_form": "medial",
+   "attestations_total": 6,
+   "provenance": {
+    "mueller1908": 6,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.845,
+   "n_cubic_segments": 48,
+   "fitting_error_rms_px": 0.708,
+   "fitting_error_max_px": 1.944,
+   "outline_quality_score": 0.658,
+   "files": {
+    "svg": "masters/svg/harvest_samekhuyg_medi.svg",
+    "glif": "masters/glif/harvest_samekhuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "shinuyg",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "contextual_form": "isolated",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.815,
+   "n_cubic_segments": 131,
+   "fitting_error_rms_px": 0.503,
+   "fitting_error_max_px": 1.987,
+   "outline_quality_score": 0.687,
+   "files": {
+    "svg": "masters/svg/harvest_shinuyg.svg",
+    "glif": "masters/glif/harvest_shinuyg.glif"
+   }
+  },
+  {
+   "glyph": "shinuyg.fina",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "contextual_form": "final",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.835,
+   "n_cubic_segments": 126,
+   "fitting_error_rms_px": 0.442,
+   "fitting_error_max_px": 1.678,
+   "outline_quality_score": 0.72,
+   "files": {
+    "svg": "masters/svg/harvest_shinuyg_fina.svg",
+    "glif": "masters/glif/harvest_shinuyg_fina.glif"
+   }
+  },
+  {
+   "glyph": "shinuyg.init",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "contextual_form": "initial",
+   "attestations_total": 5,
+   "provenance": {
+    "mueller1908": 5,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.785,
+   "n_cubic_segments": 61,
+   "fitting_error_rms_px": 0.648,
+   "fitting_error_max_px": 1.736,
+   "outline_quality_score": 0.626,
+   "files": {
+    "svg": "masters/svg/harvest_shinuyg_init.svg",
+    "glif": "masters/glif/harvest_shinuyg_init.glif"
+   }
+  },
+  {
+   "glyph": "shinuyg.medi",
+   "codepoint": "U+10F7F",
+   "unicode_name": "OLD UYGHUR LETTER SHIN",
+   "contextual_form": "medial",
+   "attestations_total": 3,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 0
+   },
+   "status": "production",
+   "consensus_agreement": 0.894,
+   "n_cubic_segments": 49,
+   "fitting_error_rms_px": 0.837,
+   "fitting_error_max_px": 3.383,
+   "outline_quality_score": 0.66,
+   "files": {
+    "svg": "masters/svg/harvest_shinuyg_medi.svg",
+    "glif": "masters/glif/harvest_shinuyg_medi.glif"
+   }
+  },
+  {
+   "glyph": "twodotsaboveuyg",
+   "codepoint": "U+10F84",
+   "unicode_name": "COMBINING TWO DOTS ABOVE",
+   "contextual_form": "isolated",
+   "attestations_total": 1,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 1,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.982,
+   "n_cubic_segments": 100,
+   "fitting_error_rms_px": 0.675,
+   "fitting_error_max_px": 2.627,
+   "outline_quality_score": 0.775,
+   "files": {
+    "svg": "masters/svg/harvest_twodotsaboveuyg.svg",
+    "glif": "masters/glif/harvest_twodotsaboveuyg.glif"
+   }
+  },
+  {
+   "glyph": "twodotsbelowuyg",
+   "codepoint": "U+10F85",
+   "unicode_name": "COMBINING TWO DOTS BELOW",
+   "contextual_form": "isolated",
+   "attestations_total": 2,
+   "provenance": {
+    "mueller1908": 0,
+    "lecoq1912": 2,
+    "validated_mueller1908": 0
+   },
+   "status": "draft",
+   "consensus_agreement": 0.869,
+   "n_cubic_segments": 119,
+   "fitting_error_rms_px": 0.51,
+   "fitting_error_max_px": 1.998,
+   "outline_quality_score": 0.73,
+   "files": {
+    "svg": "masters/svg/harvest_twodotsbelowuyg.svg",
+    "glif": "masters/glif/harvest_twodotsbelowuyg.glif"
+   }
+  },
+  {
+   "glyph": "zayinuyg.fina",
+   "codepoint": "U+10F74",
+   "unicode_name": "OLD UYGHUR LETTER ZAYIN",
+   "contextual_form": "final",
+   "attestations_total": 21,
+   "provenance": {
+    "mueller1908": 3,
+    "lecoq1912": 0,
+    "validated_mueller1908": 18
+   },
+   "status": "production",
+   "consensus_agreement": 0.799,
+   "n_cubic_segments": 56,
+   "fitting_error_rms_px": 0.717,
+   "fitting_error_max_px": 1.957,
+   "outline_quality_score": 0.62,
+   "files": {
+    "svg": "masters/svg/harvest_zayinuyg_fina.svg",
+    "glif": "masters/glif/harvest_zayinuyg_fina.glif"
+   }
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="memuyg.fina" format="2">
+ <advance width="511"/>
+ <outline>
+  <contour>
+   <point x="5.4" y="9.1" type="curve"/>
+   <point x="0.0" y="14.5"/>
+   <point x="3.7" y="28.9"/>
+   <point x="6.5" y="35.1" type="curve"/>
+   <point x="15.9" y="55.9"/>
+   <point x="36.1" y="72.3"/>
+   <point x="48.8" y="91.2" type="curve"/>
+   <point x="67.3" y="118.8"/>
+   <point x="79.9" y="148.5"/>
+   <point x="95.9" y="177.5" type="curve"/>
+   <point x="116.1" y="214.1"/>
+   <point x="254.0" y="645.5"/>
+   <point x="318.8" y="575.8" type="curve"/>
+   <point x="336.5" y="552.5"/>
+   <point x="303.7" y="518.6"/>
+   <point x="318.1" y="495.9" type="curve"/>
+   <point x="328.5" y="482.8"/>
+   <point x="411.4" y="486.9"/>
+   <point x="438.6" y="454.3" type="curve"/>
+   <point x="450.8" y="439.7"/>
+   <point x="443.9" y="368.2"/>
+   <point x="443.9" y="346.8" type="curve"/>
+   <point x="443.9" y="321.2"/>
+   <point x="449.8" y="287.3"/>
+   <point x="438.4" y="263.6" type="curve"/>
+   <point x="418.4" y="221.8"/>
+   <point x="316.7" y="225.9"/>
+   <point x="280.8" y="235.4" type="curve"/>
+   <point x="266.9" y="239.0"/>
+   <point x="249.6" y="258.2"/>
+   <point x="235.1" y="254.3" type="curve"/>
+   <point x="224.3" y="250.7"/>
+   <point x="155.1" y="132.2"/>
+   <point x="139.6" y="112.1" type="curve"/>
+   <point x="113.2" y="77.9"/>
+   <point x="81.9" y="47.7"/>
+   <point x="46.7" y="22.5" type="curve"/>
+   <point x="36.9" y="15.4"/>
+   <point x="18.1" y="0.0"/>
+  </contour>
+  <contour>
+   <point x="340.0" y="326.5" type="curve"/>
+   <point x="371.1" y="334.5"/>
+   <point x="331.8" y="397.6"/>
+   <point x="309.8" y="386.1" type="curve"/>
+   <point x="275.9" y="368.2"/>
+   <point x="309.7" y="320.5"/>
+  </contour>
+ </outline>
+</glyph>

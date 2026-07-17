@@ -1,0 +1,347 @@
+{
+ "meta": {
+  "definition": "ratio=(band_center-crop_top)/crop_h in image coords (down positive); band from word context longest-run row profile >=60%->35% width",
+  "band_target_font_units": 47.5
+ },
+ "glyphs": {
+  "PunctuationBar": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.0474,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.1022,
+   "method": "word_context_band"
+  },
+  "PunctuationFourDots": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.6267,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0876,
+   "method": "word_context_band"
+  },
+  "PunctuationTwoBars": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "PunctuationTwoDots": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "alephuyg.init": {
+   "n_attestations_measured": 20,
+   "band_ratio_median": 0.7499,
+   "band_ratio_mad": 0.0149,
+   "band_thickness_median": 0.04,
+   "method": "word_context_band"
+  },
+  "bethuyg": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 0.7102,
+   "band_ratio_mad": 0.0221,
+   "band_thickness_median": 0.115,
+   "method": "word_context_band"
+  },
+  "bethuyg.fina": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.7524,
+   "band_ratio_mad": 0.0095,
+   "band_thickness_median": 0.1048,
+   "method": "word_context_band"
+  },
+  "bethuyg.init": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.6991,
+   "band_ratio_mad": 0.0133,
+   "band_thickness_median": 0.177,
+   "method": "word_context_band"
+  },
+  "bethuyg.medi": {
+   "n_attestations_measured": 7,
+   "band_ratio_median": 0.8048,
+   "band_ratio_mad": 0.081,
+   "band_thickness_median": 0.1048,
+   "method": "word_context_band"
+  },
+  "dotaboveuyg": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.3456,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.1176,
+   "method": "word_context_band"
+  },
+  "dotbelowuyg": {
+   "n_attestations_measured": 2,
+   "band_ratio_median": 1.4348,
+   "band_ratio_mad": 1.1812,
+   "band_thickness_median": 0.1159,
+   "method": "word_context_band"
+  },
+  "finalHethuyg.fina": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.8102,
+   "band_ratio_mad": 0.0185,
+   "band_thickness_median": 0.037,
+   "method": "word_context_band"
+  },
+  "gimelHethuyg": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 0.3047,
+   "band_ratio_mad": 0.0112,
+   "band_thickness_median": 0.0375,
+   "method": "word_context_band"
+  },
+  "gimelHethuyg.fina": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.3109,
+   "band_ratio_mad": 0.0399,
+   "band_thickness_median": 0.0199,
+   "method": "word_context_band"
+  },
+  "gimelHethuyg.init": {
+   "n_attestations_measured": 10,
+   "band_ratio_median": 0.559,
+   "band_ratio_mad": 0.0387,
+   "band_thickness_median": 0.1013,
+   "method": "word_context_band"
+  },
+  "gimelHethuyg.medi": {
+   "n_attestations_measured": 6,
+   "band_ratio_median": 0.866,
+   "band_ratio_mad": 0.0412,
+   "band_thickness_median": 0.2113,
+   "method": "word_context_band"
+  },
+  "kaphuyg": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.8142,
+   "band_ratio_mad": 0.0575,
+   "band_thickness_median": 0.1858,
+   "method": "word_context_band"
+  },
+  "kaphuyg.fina": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.8363,
+   "band_ratio_mad": 0.0265,
+   "band_thickness_median": 0.1239,
+   "method": "word_context_band"
+  },
+  "kaphuyg.init": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "kaphuyg.medi": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.7174,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0497,
+   "method": "word_context_band"
+  },
+  "kaphuyg.medi_wawuyg.medi": {
+   "n_attestations_measured": 10,
+   "band_ratio_median": 0.6373,
+   "band_ratio_mad": 0.0683,
+   "band_thickness_median": 0.0318,
+   "method": "word_context_band"
+  },
+  "lamedhuyg": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.9465,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0186,
+   "method": "word_context_band"
+  },
+  "lamedhuyg.fina": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.947,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0184,
+   "method": "word_context_band"
+  },
+  "lamedhuyg.init": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 0.9597,
+   "band_ratio_mad": 0.0047,
+   "band_thickness_median": 0.019,
+   "method": "word_context_band"
+  },
+  "lamedhuyg.medi": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.9646,
+   "band_ratio_mad": 0.0002,
+   "band_thickness_median": 0.0188,
+   "method": "word_context_band"
+  },
+  "leshuyg": {
+   "n_attestations_measured": 8,
+   "band_ratio_median": 0.9503,
+   "band_ratio_mad": 0.0126,
+   "band_thickness_median": 0.0172,
+   "method": "word_context_band"
+  },
+  "leshuyg.fina": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.5493,
+   "band_ratio_mad": 0.0013,
+   "band_thickness_median": 0.0513,
+   "method": "word_context_band"
+  },
+  "memuyg": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "memuyg.fina": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.5477,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0207,
+   "method": "word_context_band"
+  },
+  "memuyg.medi": {
+   "n_attestations_measured": 9,
+   "band_ratio_median": 0.5355,
+   "band_ratio_mad": 0.0148,
+   "band_thickness_median": 0.0947,
+   "method": "word_context_band"
+  },
+  "nunuyg": {
+   "n_attestations_measured": 2,
+   "band_ratio_median": 0.8364,
+   "band_ratio_mad": 0.0111,
+   "band_thickness_median": 0.0726,
+   "method": "word_context_band"
+  },
+  "nunuyg.fina": {
+   "n_attestations_measured": 2,
+   "band_ratio_median": 0.8201,
+   "band_ratio_mad": 0.0361,
+   "band_thickness_median": 0.0497,
+   "method": "word_context_band"
+  },
+  "nunuyg.init": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 1.1341,
+   "band_ratio_mad": 0.0131,
+   "band_thickness_median": 0.0488,
+   "method": "word_context_band"
+  },
+  "nunuyg.medi": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 1.1037,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0488,
+   "method": "word_context_band"
+  },
+  "peuyg.fina": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 0.9627,
+   "band_ratio_mad": 0.0003,
+   "band_thickness_median": 0.0351,
+   "method": "word_context_band"
+  },
+  "reshuyg.fina": {
+   "n_attestations_measured": 66,
+   "band_ratio_median": 0.625,
+   "band_ratio_mad": 0.0128,
+   "band_thickness_median": 0.0333,
+   "method": "word_context_band"
+  },
+  "sadheuyg.init": {
+   "n_attestations_measured": 6,
+   "band_ratio_median": 0.9213,
+   "band_ratio_mad": 0.0136,
+   "band_thickness_median": 0.0579,
+   "method": "word_context_band"
+  },
+  "samekhuyg": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.656,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0567,
+   "method": "word_context_band"
+  },
+  "samekhuyg.fina": {
+   "n_attestations_measured": 1,
+   "band_ratio_median": 0.6321,
+   "band_ratio_mad": 0.0,
+   "band_thickness_median": 0.0286,
+   "method": "word_context_band"
+  },
+  "samekhuyg.init": {
+   "n_attestations_measured": 7,
+   "band_ratio_median": 0.6679,
+   "band_ratio_mad": 0.012,
+   "band_thickness_median": 0.0288,
+   "method": "word_context_band"
+  },
+  "samekhuyg.medi": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.5964,
+   "band_ratio_mad": 0.0214,
+   "band_thickness_median": 0.0286,
+   "method": "word_context_band"
+  },
+  "shinuyg": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.6976,
+   "band_ratio_mad": 0.024,
+   "band_thickness_median": 0.024,
+   "method": "word_context_band"
+  },
+  "shinuyg.fina": {
+   "n_attestations_measured": 2,
+   "band_ratio_median": 0.6845,
+   "band_ratio_mad": 0.0095,
+   "band_thickness_median": 0.0264,
+   "method": "word_context_band"
+  },
+  "shinuyg.init": {
+   "n_attestations_measured": 4,
+   "band_ratio_median": 0.6367,
+   "band_ratio_mad": 0.0036,
+   "band_thickness_median": 0.0288,
+   "method": "word_context_band"
+  },
+  "shinuyg.medi": {
+   "n_attestations_measured": 3,
+   "band_ratio_median": 0.6314,
+   "band_ratio_mad": 0.0146,
+   "band_thickness_median": 0.0292,
+   "method": "word_context_band"
+  },
+  "tawuyg.medi": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.7792,
+   "band_ratio_mad": 0.0167,
+   "band_thickness_median": 0.037,
+   "method": "word_context_band"
+  },
+  "twodotsaboveuyg": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "twodotsbelowuyg": {
+   "n_attestations_measured": 0,
+   "method": "noto_anchor_fallback"
+  },
+  "wawuyg.medi": {
+   "n_attestations_measured": 5,
+   "band_ratio_median": 0.8348,
+   "band_ratio_mad": 0.0766,
+   "band_thickness_median": 0.0833,
+   "method": "word_context_band"
+  },
+  "yodhuyg": {
+   "n_attestations_measured": 8,
+   "band_ratio_median": 0.6443,
+   "band_ratio_mad": 0.161,
+   "band_thickness_median": 0.075,
+   "method": "word_context_band"
+  },
+  "zayinuyg.fina": {
+   "n_attestations_measured": 19,
+   "band_ratio_median": 0.8606,
+   "band_ratio_mad": 0.0192,
+   "band_thickness_median": 0.0385,
+   "method": "word_context_band"
+  }
+ }
+}

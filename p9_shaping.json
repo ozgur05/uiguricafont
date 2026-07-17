@@ -1,0 +1,160 @@
+{
+ "checks": [
+  {
+   "check": "isolated: every codepoint maps to a real glyph",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "dual join beth+gimel+mem -> init/medi/fina",
+   "ok": true,
+   "detail": "got ['memuyg.fina', 'gimelHethuyg.medi', 'bethuyg.init']"
+  },
+  {
+   "check": "right-joining zayin breaks following join",
+   "ok": true,
+   "detail": "got ['tawuyg', 'zayinuyg.fina', 'bethuyg.init']"
+  },
+  {
+   "check": "right-joining final-heth breaks following join",
+   "ok": true,
+   "detail": "got ['tawuyg', 'finalHethuyg.fina', 'bethuyg.init']"
+  },
+  {
+   "check": "kaph+waw ligature fires in medial context",
+   "ok": true,
+   "detail": "got ['memuyg.fina', 'kaphuyg.medi_wawuyg.medi.alt', 'bethuyg.init']"
+  },
+  {
+   "check": "dot-above mark: zero-advance attach, no .notdef",
+   "ok": true,
+   "detail": "got [('memuyg.fina', 444, 0, 0), ('gimelHethuyg.medi', 265, 0, 0), ('dotaboveuyg', 0, 0, 0), ('bethuyg.init', 383, 0, 0)]"
+  },
+  {
+   "check": "gimel+twodotsabove shapes (mark or precomposed)",
+   "ok": true,
+   "detail": "got ['twodotsaboveuyg', 'gimelHethuyg']"
+  },
+  {
+   "check": "RTL: last letter (mem.fina) output first",
+   "ok": true,
+   "detail": "got ['memuyg.fina', 'bethuyg.init']"
+  },
+  {
+   "check": "glyph selection identical to phase1 backup (GSUB unchanged)",
+   "ok": true,
+   "detail": "0 mismatches"
+  }
+ ],
+ "issues": [],
+ "contextual_forms_shaped": {
+  "aleph": {
+   "isol": "alephuyg",
+   "init": "alephuyg.init",
+   "medi": "alephuyg.medi",
+   "fina": "alephuyg.fina"
+  },
+  "beth": {
+   "isol": "bethuyg",
+   "init": "bethuyg.init",
+   "medi": "bethuyg.medi",
+   "fina": "bethuyg.fina"
+  },
+  "gimel": {
+   "isol": "gimelHethuyg",
+   "init": "gimelHethuyg.init",
+   "medi": "gimelHethuyg.medi",
+   "fina": "gimelHethuyg.fina"
+  },
+  "waw": {
+   "isol": "wawuyg",
+   "init": "wawuyg.init",
+   "medi": "wawuyg.medi",
+   "fina": "wawuyg.fina"
+  },
+  "zayin": {
+   "isol": "zayinuyg",
+   "init": "zayinuyg",
+   "medi": "zayinuyg.fina",
+   "fina": "zayinuyg.fina"
+  },
+  "fheth": {
+   "isol": "finalHethuyg",
+   "init": "finalHethuyg",
+   "medi": "finalHethuyg.fina",
+   "fina": "finalHethuyg.fina"
+  },
+  "yodh": {
+   "isol": "yodhuyg",
+   "init": "yodhuyg.init",
+   "medi": "yodhuyg.medi",
+   "fina": "yodhuyg.fina"
+  },
+  "kaph": {
+   "isol": "kaphuyg",
+   "init": "kaphuyg.init",
+   "medi": "kaphuyg.medi",
+   "fina": "kaphuyg.fina"
+  },
+  "lamedh": {
+   "isol": "lamedhuyg",
+   "init": "lamedhuyg.init",
+   "medi": "lamedhuyg.medi",
+   "fina": "lamedhuyg.fina"
+  },
+  "mem": {
+   "isol": "memuyg",
+   "init": "memuyg.init",
+   "medi": "memuyg.medi",
+   "fina": "memuyg.fina"
+  },
+  "nun": {
+   "isol": "nunuyg",
+   "init": "nunuyg.init",
+   "medi": "nunuyg.medi",
+   "fina": "nunuyg.fina"
+  },
+  "samekh": {
+   "isol": "samekhuyg",
+   "init": "samekhuyg.init",
+   "medi": "samekhuyg.medi",
+   "fina": "samekhuyg.fina"
+  },
+  "pe": {
+   "isol": "peuyg",
+   "init": "peuyg.init",
+   "medi": "peuyg.medi",
+   "fina": "peuyg.fina"
+  },
+  "sadhe": {
+   "isol": "sadheuyg",
+   "init": "sadheuyg.init",
+   "medi": "sadheuyg.medi",
+   "fina": "sadheuyg.fina"
+  },
+  "resh": {
+   "isol": "reshuyg",
+   "init": "reshuyg.init",
+   "medi": "reshuyg.medi",
+   "fina": "reshuyg.fina"
+  },
+  "shin": {
+   "isol": "shinuyg",
+   "init": "shinuyg.init",
+   "medi": "shinuyg.medi",
+   "fina": "shinuyg.fina"
+  },
+  "taw": {
+   "isol": "tawuyg",
+   "init": "tawuyg.init",
+   "medi": "tawuyg.medi",
+   "fina": "tawuyg.fina"
+  },
+  "lesh": {
+   "isol": "leshuyg",
+   "init": "leshuyg.init",
+   "medi": "leshuyg.medi",
+   "fina": "leshuyg.fina"
+  }
+ }
+}

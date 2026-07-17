@@ -1,0 +1,820 @@
+Phase 4.6: word decomposition + updated cluster set
+
+words processed:        564
+words split:            336
+words left unsplit:     228
+new glyph candidates:   1074 pieces -> 55 piece clusters (t=0.20, silhouette=0.396)
+kept Phase 4.5 clusters: 13
+total updated clusters: 68
+
+UNSPLIT WORDS AND WHY:
+  glyph000025.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000033.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000061.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000210.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000239.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000290.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000336.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000340.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000375.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000380.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000395.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000400.png: all cut candidates below confidence gate: x=2 conf=0.277, x=358 conf=0.366
+  glyph000402.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000403.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000413.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000414.png: all cut candidates below confidence gate: x=902 conf=0.277
+  glyph000415.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000448.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000466.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000483.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000490.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000502.png: all cut candidates below confidence gate: x=466 conf=0.287
+  glyph000526.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000550.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000556.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000576.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000578.png: all cut candidates below confidence gate: x=588 conf=0.386
+  glyph000582.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000670.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000688.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000689.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000694.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000698.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000706.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000741.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000755.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000776.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000782.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000785.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000801.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000806.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000808.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000810.png: all cut candidates below confidence gate: x=130 conf=0.358
+  glyph000827.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000838.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000855.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000880.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000938.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000939.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000992.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000996.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001011.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001029.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001035.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001052.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000004.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000052.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000122.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000154.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000169.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000197.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000223.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000242.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000249.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000363.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000407.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000451.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000480.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000496.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000531.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000592.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000636.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000768.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000781.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000834.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000902.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000953.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000954.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000970.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001000.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001037.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001038.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000032.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000128.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000139.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000173.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000232.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000434.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000454.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000566.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000682.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000891.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000921.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001039.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000133.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000440.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000712.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000888.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000955.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001007.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000361.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000378.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000381.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000410.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000418.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000422.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000457.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000575.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000622.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000625.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000677.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000718.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000769.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000779.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000820.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000991.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000024.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000047.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000098.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000175.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000195.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000447.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000546.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000687.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000733.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000742.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000747.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000802.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000934.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000359.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000416.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000433.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000498.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001049.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000010.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000018.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000055.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000120.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000171.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000261.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000366.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000438.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000472.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000513.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000552.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000577.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000799.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000873.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000975.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000995.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000193.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000346.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000429.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000450.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000473.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000522.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000831.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000896.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000956.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000430.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000431.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000519.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000523.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000527.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000589.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000711.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000719.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000754.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000867.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000871.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000904.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000969.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000974.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000084.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000135.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000436.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000745.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000753.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001018.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001040.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001043.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000069.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000259.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000299.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000371.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000405.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000408.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000494.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000590.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000654.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000798.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000859.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000291.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000396.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000425.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000561.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000674.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000539.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000540.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001023.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000333.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000347.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000680.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000726.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000749.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000787.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000107.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000157.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000648.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000750.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000907.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000908.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000940.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000126.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000445.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000761.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000593.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000618.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000626.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000630.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000102.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000509.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000534.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000420.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph001045.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000235.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000508.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+  glyph000426.png: connector runs shorter than MIN_RUN (20px) — no safe separation point
+
+SPLIT CONFIDENCES:
+  glyph000001.png x=132 conf=0.585 run=26px extent=41px
+  glyph000001.png x=388 conf=0.69 run=20px extent=31px
+  glyph000008.png x=168 conf=1.0 run=68px extent=33px
+  glyph000008.png x=472 conf=0.82 run=32px extent=32px
+  glyph000009.png x=384 conf=0.737 run=30px extent=36px
+  glyph000012.png x=470 conf=0.697 run=24px extent=33px
+  glyph000016.png x=326 conf=0.98 run=48px extent=32px
+  glyph000016.png x=426 conf=0.82 run=32px extent=32px
+  glyph000030.png x=456 conf=0.893 run=42px extent=32px
+  glyph000034.png x=166 conf=0.657 run=22px extent=36px
+  glyph000034.png x=328 conf=0.78 run=28px extent=31px
+  glyph000034.png x=788 conf=0.76 run=26px extent=25px
+  glyph000039.png x=118 conf=0.74 run=24px extent=29px
+  glyph000041.png x=202 conf=0.76 run=26px extent=29px
+  glyph000041.png x=326 conf=1.0 run=50px extent=28px
+  glyph000045.png x=276 conf=0.679 run=24px extent=35px
+  glyph000045.png x=356 conf=0.639 run=20px extent=35px
+  glyph000048.png x=150 conf=0.844 run=40px extent=32px
+  glyph000048.png x=266 conf=0.724 run=28px extent=32px
+  glyph000049.png x=154 conf=0.99 run=56px extent=31px
+  glyph000049.png x=260 conf=0.757 run=30px extent=33px
+  glyph000057.png x=132 conf=0.98 run=48px extent=33px
+  glyph000057.png x=358 conf=0.65 run=26px extent=41px
+  glyph000057.png x=562 conf=0.94 run=44px extent=23px
+  glyph000058.png x=460 conf=0.8 run=30px extent=28px
+  glyph000063.png x=140 conf=0.615 run=24px extent=35px
+  glyph000065.png x=148 conf=0.611 run=20px extent=33px
+  glyph000065.png x=308 conf=0.929 run=58px extent=32px
+  glyph000065.png x=512 conf=0.669 run=24px extent=32px
+  glyph000068.png x=130 conf=0.695 run=32px extent=36px
+  glyph000074.png x=174 conf=1.0 run=122px extent=29px
+  glyph000074.png x=278 conf=0.43 run=20px extent=48px
+  glyph000074.png x=522 conf=0.727 run=24px extent=32px
+  glyph000080.png x=146 conf=1.0 run=52px extent=28px
+  glyph000083.png x=224 conf=0.807 run=32px extent=32px
+  glyph000083.png x=648 conf=0.418 run=22px extent=50px
+  glyph000091.png x=316 conf=0.7 run=20px extent=28px
+  glyph000099.png x=156 conf=0.655 run=28px extent=35px
+  glyph000099.png x=372 conf=0.666 run=22px extent=31px
+  glyph000103.png x=152 conf=0.893 run=50px extent=34px
+  glyph000108.png x=144 conf=0.755 run=38px extent=35px
+  glyph000108.png x=364 conf=0.629 run=20px extent=32px
+  glyph000108.png x=632 conf=0.671 run=26px extent=33px
+  glyph000109.png x=154 conf=0.809 run=38px extent=32px
+  glyph000115.png x=150 conf=0.961 run=50px extent=31px
+  glyph000115.png x=468 conf=0.574 run=20px extent=36px
+  glyph000132.png x=156 conf=0.635 run=20px extent=28px
+  glyph000137.png x=142 conf=0.849 run=42px extent=32px
+  glyph000176.png x=120 conf=1.0 run=126px extent=28px
+  glyph000176.png x=382 conf=0.726 run=28px extent=31px
+  glyph000178.png x=144 conf=0.859 run=40px extent=32px
+  glyph000178.png x=268 conf=0.699 run=24px extent=32px
+  glyph000184.png x=376 conf=0.633 run=24px extent=32px
+  glyph000188.png x=134 conf=0.591 run=24px extent=28px
+  glyph000191.png x=380 conf=0.699 run=24px extent=32px
+  glyph000191.png x=562 conf=0.659 run=20px extent=32px
+  glyph000196.png x=700 conf=0.953 run=182px extent=28px
+  glyph000200.png x=138 conf=0.714 run=32px extent=31px
+  glyph000200.png x=266 conf=0.693 run=24px extent=28px
+  glyph000205.png x=274 conf=0.702 run=22px extent=29px
+  glyph000205.png x=352 conf=0.666 run=22px extent=31px
+  glyph000205.png x=638 conf=1.0 run=98px extent=12px
+  glyph000218.png x=198 conf=0.7 run=20px extent=32px
+  glyph000218.png x=354 conf=0.7 run=20px extent=31px
+  glyph000221.png x=122 conf=0.9 run=40px extent=28px
+  glyph000221.png x=282 conf=0.94 run=44px extent=31px
+  glyph000221.png x=374 conf=0.74 run=24px extent=29px
+  glyph000230.png x=320 conf=0.819 run=32px extent=32px
+  glyph000240.png x=282 conf=0.86 run=36px extent=31px
+  glyph000240.png x=680 conf=0.94 run=44px extent=29px
+  glyph000241.png x=150 conf=0.793 run=32px extent=32px
+  glyph000241.png x=236 conf=0.74 run=24px extent=28px
+  glyph000241.png x=688 conf=0.99 run=94px extent=31px
+  glyph000243.png x=282 conf=0.727 run=24px extent=32px
+  glyph000243.png x=588 conf=1.0 run=154px extent=24px
+  glyph000245.png x=354 conf=0.84 run=34px extent=28px
+  glyph000246.png x=306 conf=1.0 run=56px extent=29px
+  glyph000246.png x=826 conf=0.545 run=20px extent=44px
+  glyph000246.png x=910 conf=1.0 run=106px extent=21px
+  glyph000247.png x=544 conf=0.554 run=32px extent=49px
+  glyph000255.png x=140 conf=0.829 run=40px extent=32px
+  glyph000256.png x=198 conf=0.73 run=28px extent=29px
+  glyph000258.png x=196 conf=0.82 run=32px extent=29px
+  glyph000258.png x=292 conf=0.824 run=34px extent=33px
+  glyph000268.png x=706 conf=0.593 run=20px extent=32px
+  glyph000274.png x=456 conf=0.647 run=22px extent=33px
+  glyph000278.png x=364 conf=0.807 run=32px extent=32px
+  glyph000278.png x=544 conf=0.663 run=24px extent=36px
+  glyph000288.png x=460 conf=0.77 run=28px extent=31px
+  glyph000300.png x=186 conf=0.982 run=122px extent=29px
+  glyph000327.png x=516 conf=1.0 run=60px extent=19px
+  glyph000331.png x=196 conf=0.527 run=20px extent=28px
+  glyph000332.png x=212 conf=0.494 run=24px extent=31px
+  glyph000339.png x=158 conf=0.593 run=26px extent=32px
+  glyph000342.png x=108 conf=0.465 run=24px extent=31px
+  glyph000342.png x=318 conf=0.485 run=26px extent=31px
+  glyph000350.png x=206 conf=0.672 run=20px extent=27px
+  glyph000357.png x=138 conf=0.54 run=24px extent=28px
+  glyph000364.png x=144 conf=0.654 run=30px extent=31px
+  glyph000368.png x=128 conf=0.613 run=20px extent=30px
+  glyph000368.png x=328 conf=0.594 run=20px extent=31px
+  glyph000368.png x=476 conf=0.86 run=36px extent=23px
+  glyph000369.png x=240 conf=0.531 run=20px extent=31px
+  glyph000374.png x=100 conf=0.938 run=120px extent=27px
+  glyph000374.png x=454 conf=0.854 run=80px extent=31px
+  glyph000383.png x=146 conf=0.886 run=44px extent=31px
+  glyph000383.png x=678 conf=1.0 run=128px extent=28px
+  glyph000388.png x=166 conf=0.69 run=20px extent=31px
+  glyph000397.png x=562 conf=0.551 run=20px extent=28px
+  glyph000423.png x=110 conf=0.665 run=44px extent=31px
+  glyph000443.png x=62 conf=0.407 run=26px extent=30px
+  glyph000449.png x=68 conf=0.725 run=86px extent=31px
+  glyph000456.png x=54 conf=0.703 run=54px extent=28px
+  glyph000467.png x=580 conf=0.634 run=28px extent=31px
+  glyph000489.png x=82 conf=0.605 run=32px extent=24px
+  glyph000491.png x=60 conf=0.53 run=28px extent=30px
+  glyph000493.png x=340 conf=0.465 run=24px extent=31px
+  glyph000497.png x=160 conf=0.82 run=32px extent=11px
+  glyph000514.png x=70 conf=0.8 run=90px extent=28px
+  glyph000516.png x=90 conf=0.856 run=46px extent=28px
+  glyph000517.png x=768 conf=0.725 run=50px extent=31px
+  glyph000518.png x=96 conf=0.896 run=104px extent=29px
+  glyph000518.png x=166 conf=0.917 run=98px extent=28px
+  glyph000518.png x=258 conf=0.777 run=36px extent=28px
+  glyph000518.png x=638 conf=0.593 run=26px extent=32px
+  glyph000521.png x=596 conf=0.551 run=22px extent=31px
+  glyph000521.png x=756 conf=0.917 run=168px extent=27px
+  glyph000545.png x=710 conf=0.815 run=34px extent=21px
+  glyph000545.png x=774 conf=0.755 run=48px extent=29px
+  glyph000548.png x=428 conf=0.677 run=24px extent=27px
+  glyph000558.png x=132 conf=0.573 run=24px extent=32px
+  glyph000558.png x=272 conf=0.657 run=24px extent=28px
+  glyph000562.png x=452 conf=0.64 run=24px extent=24px
+  glyph000573.png x=126 conf=0.4 run=20px extent=32px
+  glyph000594.png x=406 conf=0.485 run=26px extent=31px
+  glyph000595.png x=138 conf=0.567 run=24px extent=28px
+  glyph000598.png x=128 conf=0.7 run=20px extent=12px
+  glyph000598.png x=308 conf=0.816 run=42px extent=29px
+  glyph000602.png x=102 conf=0.9 run=112px extent=24px
+  glyph000602.png x=424 conf=0.725 run=54px extent=31px
+  glyph000604.png x=492 conf=0.554 run=20px extent=31px
+  glyph000604.png x=1052 conf=0.613 run=30px extent=33px
+  glyph000606.png x=206 conf=0.568 run=24px extent=29px
+  glyph000610.png x=252 conf=0.693 run=24px extent=28px
+  glyph000610.png x=578 conf=0.693 run=24px extent=28px
+  glyph000611.png x=104 conf=0.653 run=20px extent=28px
+  glyph000611.png x=232 conf=0.74 run=24px extent=24px
+  glyph000615.png x=102 conf=0.88 run=38px extent=28px
+  glyph000615.png x=188 conf=0.8 run=30px extent=27px
+  glyph000617.png x=620 conf=0.673 run=22px extent=28px
+  glyph000629.png x=138 conf=0.614 run=24px extent=32px
+  glyph000629.png x=422 conf=0.614 run=24px extent=32px
+  glyph000633.png x=110 conf=0.635 run=20px extent=28px
+  glyph000633.png x=530 conf=0.8 run=30px extent=24px
+  glyph000642.png x=292 conf=0.594 run=22px extent=44px
+  glyph000655.png x=194 conf=0.7 run=20px extent=32px
+  glyph000655.png x=310 conf=0.744 run=28px extent=36px
+  glyph000655.png x=642 conf=0.784 run=32px extent=36px
+  glyph000655.png x=730 conf=0.664 run=20px extent=36px
+  glyph000656.png x=200 conf=0.7 run=20px extent=32px
+  glyph000656.png x=584 conf=0.443 run=20px extent=52px
+  glyph000660.png x=124 conf=0.904 run=42px extent=33px
+  glyph000660.png x=322 conf=1.0 run=50px extent=32px
+  glyph000660.png x=498 conf=0.7 run=20px extent=31px
+  glyph000660.png x=606 conf=0.698 run=26px extent=36px
+  glyph000660.png x=882 conf=0.693 run=24px extent=35px
+  glyph000660.png x=1082 conf=0.691 run=30px extent=39px
+  glyph000692.png x=114 conf=0.753 run=42px extent=32px
+  glyph000696.png x=324 conf=0.89 run=40px extent=31px
+  glyph000696.png x=1112 conf=1.0 run=132px extent=20px
+  glyph000699.png x=164 conf=0.615 run=26px extent=33px
+  glyph000699.png x=404 conf=0.594 run=20px extent=31px
+  glyph000700.png x=322 conf=0.82 run=32px extent=31px
+  glyph000700.png x=552 conf=0.86 run=36px extent=31px
+  glyph000708.png x=136 conf=0.924 run=56px extent=35px
+  glyph000713.png x=134 conf=0.729 run=30px extent=32px
+  glyph000713.png x=260 conf=0.729 run=30px extent=32px
+  glyph000713.png x=582 conf=0.695 run=32px extent=35px
+  glyph000717.png x=364 conf=0.531 run=20px extent=31px
+  glyph000727.png x=136 conf=0.694 run=30px extent=31px
+  glyph000729.png x=362 conf=0.651 run=24px extent=33px
+  glyph000729.png x=462 conf=0.557 run=20px extent=36px
+  glyph000735.png x=344 conf=0.574 run=20px extent=32px
+  glyph000772.png x=196 conf=0.527 run=20px extent=28px
+  glyph000777.png x=450 conf=0.494 run=24px extent=31px
+  glyph000777.png x=1288 conf=0.47 run=24px extent=32px
+  glyph000794.png x=70 conf=0.702 run=42px extent=31px
+  glyph000794.png x=128 conf=0.518 run=26px extent=32px
+  glyph000804.png x=192 conf=0.571 run=24px extent=31px
+  glyph000804.png x=572 conf=0.745 run=50px extent=35px
+  glyph000813.png x=332 conf=0.482 run=20px extent=31px
+  glyph000817.png x=298 conf=0.486 run=20px extent=32px
+  glyph000821.png x=628 conf=0.571 run=22px extent=28px
+  glyph000843.png x=396 conf=0.42 run=22px extent=32px
+  glyph000843.png x=780 conf=0.975 run=62px extent=21px
+  glyph000843.png x=864 conf=0.725 run=52px extent=31px
+  glyph000852.png x=350 conf=0.744 run=30px extent=32px
+  glyph000852.png x=616 conf=0.661 run=20px extent=31px
+  glyph000852.png x=826 conf=0.76 run=26px extent=28px
+  glyph000853.png x=312 conf=0.687 run=20px extent=32px
+  glyph000853.png x=524 conf=0.82 run=32px extent=31px
+  glyph000853.png x=738 conf=1.0 run=154px extent=12px
+  glyph000857.png x=136 conf=0.788 run=38px extent=35px
+  glyph000857.png x=432 conf=0.524 run=20px extent=40px
+  glyph000864.png x=74 conf=0.988 run=112px extent=27px
+  glyph000870.png x=148 conf=0.731 run=40px extent=31px
+  glyph000878.png x=126 conf=0.917 run=78px extent=27px
+  glyph000878.png x=736 conf=0.896 run=88px extent=28px
+  glyph000884.png x=564 conf=1.0 run=142px extent=24px
+  glyph000889.png x=136 conf=0.7 run=40px extent=28px
+  glyph000889.png x=558 conf=0.465 run=24px extent=31px
+  glyph000892.png x=604 conf=0.412 run=20px extent=34px
+  glyph000892.png x=852 conf=0.762 run=48px extent=31px
+  glyph000903.png x=154 conf=0.651 run=30px extent=28px
+  glyph000912.png x=140 conf=0.689 run=22px extent=28px
+  glyph000912.png x=502 conf=1.0 run=140px extent=19px
+  glyph000914.png x=318 conf=0.713 run=32px extent=32px
+  glyph000916.png x=324 conf=0.553 run=22px extent=32px
+  glyph000927.png x=552 conf=0.695 run=32px extent=32px
+  glyph000931.png x=344 conf=0.516 run=20px extent=35px
+  glyph000941.png x=560 conf=0.655 run=28px extent=31px
+  glyph000944.png x=376 conf=0.674 run=28px extent=31px
+  glyph000944.png x=530 conf=0.972 run=142px extent=27px
+  glyph000959.png x=216 conf=0.575 run=20px extent=32px
+  glyph000959.png x=364 conf=0.653 run=20px extent=28px
+  glyph000960.png x=210 conf=0.594 run=20px extent=31px
+  glyph000960.png x=832 conf=0.634 run=26px extent=32px
+  glyph000963.png x=322 conf=0.838 run=38px extent=26px
+  glyph000965.png x=130 conf=0.629 run=20px extent=32px
+  glyph000965.png x=210 conf=0.74 run=24px extent=28px
+  glyph000965.png x=328 conf=0.8 run=30px extent=28px
+  glyph000966.png x=500 conf=0.595 run=24px extent=32px
+  glyph000972.png x=98 conf=1.0 run=276px extent=27px
+  glyph000972.png x=404 conf=0.861 run=40px extent=31px
+  glyph000972.png x=910 conf=0.704 run=26px extent=32px
+  glyph000976.png x=320 conf=0.826 run=38px extent=31px
+  glyph000976.png x=952 conf=0.646 run=20px extent=31px
+  glyph000982.png x=82 conf=1.0 run=88px extent=28px
+  glyph000982.png x=322 conf=0.9 run=40px extent=28px
+  glyph000982.png x=416 conf=0.701 run=24px extent=31px
+  glyph000982.png x=496 conf=0.741 run=28px extent=31px
+  glyph000984.png x=408 conf=0.996 run=66px extent=29px
+  glyph000984.png x=610 conf=0.684 run=24px extent=32px
+  glyph000998.png x=358 conf=0.877 run=44px extent=27px
+  glyph000998.png x=552 conf=0.693 run=36px extent=32px
+  glyph001005.png x=134 conf=0.749 run=32px extent=32px
+  glyph001015.png x=212 conf=0.516 run=22px extent=36px
+  glyph001020.png x=156 conf=0.714 run=32px extent=31px
+  glyph001025.png x=244 conf=0.689 run=26px extent=32px
+  glyph001033.png x=134 conf=0.629 run=20px extent=32px
+  glyph001033.png x=514 conf=0.709 run=28px extent=32px
+  glyph001042.png x=138 conf=0.571 run=24px extent=31px
+  glyph001047.png x=204 conf=0.677 run=26px extent=28px
+  glyph000005.png x=132 conf=0.827 run=40px extent=33px
+  glyph000005.png x=436 conf=0.724 run=28px extent=32px
+  glyph000019.png x=328 conf=1.0 run=158px extent=21px
+  glyph000067.png x=128 conf=0.707 run=28px extent=33px
+  glyph000111.png x=380 conf=0.595 run=22px extent=35px
+  glyph000113.png x=116 conf=1.0 run=120px extent=25px
+  glyph000130.png x=84 conf=1.0 run=192px extent=28px
+  glyph000130.png x=494 conf=0.72 run=22px extent=28px
+  glyph000146.png x=208 conf=0.84 run=34px extent=28px
+  glyph000153.png x=148 conf=0.672 run=26px extent=31px
+  glyph000214.png x=128 conf=1.0 run=58px extent=31px
+  glyph000214.png x=332 conf=0.98 run=48px extent=31px
+  glyph000238.png x=382 conf=0.673 run=20px extent=32px
+  glyph000238.png x=460 conf=0.43 run=22px extent=48px
+  glyph000254.png x=320 conf=0.636 run=32px extent=35px
+  glyph000271.png x=144 conf=1.0 run=60px extent=32px
+  glyph000271.png x=432 conf=0.789 run=32px extent=34px
+  glyph000295.png x=292 conf=0.655 run=28px extent=31px
+  glyph000320.png x=332 conf=0.674 run=28px extent=31px
+  glyph000320.png x=484 conf=0.594 run=20px extent=31px
+  glyph000320.png x=850 conf=0.574 run=20px extent=32px
+  glyph000323.png x=508 conf=0.729 run=30px extent=32px
+  glyph000362.png x=130 conf=0.917 run=136px extent=27px
+  glyph000362.png x=488 conf=0.485 run=24px extent=35px
+  glyph000362.png x=794 conf=0.67 run=36px extent=32px
+  glyph000382.png x=120 conf=1.0 run=176px extent=27px
+  glyph000382.png x=332 conf=0.7 run=20px extent=28px
+  glyph000382.png x=560 conf=0.76 run=26px extent=27px
+  glyph000382.png x=790 conf=0.672 run=28px extent=35px
+  glyph000384.png x=336 conf=0.632 run=22px extent=31px
+  glyph000412.png x=164 conf=0.425 run=20px extent=31px
+  glyph000458.png x=106 conf=1.0 run=124px extent=24px
+  glyph000458.png x=364 conf=0.698 run=26px extent=27px
+  glyph000478.png x=148 conf=0.682 run=40px extent=31px
+  glyph000478.png x=436 conf=0.482 run=20px extent=31px
+  glyph000538.png x=114 conf=0.982 run=82px extent=24px
+  glyph000538.png x=364 conf=0.636 run=24px extent=28px
+  glyph000554.png x=148 conf=0.55 run=32px extent=32px
+  glyph000557.png x=364 conf=0.635 run=26px extent=25px
+  glyph000599.png x=122 conf=0.972 run=110px extent=27px
+  glyph000628.png x=100 conf=0.72 run=22px extent=27px
+  glyph000628.png x=446 conf=0.7 run=20px extent=28px
+  glyph000632.png x=334 conf=1.0 run=152px extent=19px
+  glyph000644.png x=376 conf=0.573 run=26px extent=44px
+  glyph000714.png x=128 conf=0.988 run=132px extent=27px
+  glyph000720.png x=164 conf=0.911 run=50px extent=33px
+  glyph000720.png x=432 conf=0.675 run=30px extent=35px
+  glyph000720.png x=588 conf=0.706 run=26px extent=31px
+  glyph000751.png x=146 conf=0.755 run=38px extent=31px
+  glyph000751.png x=430 conf=0.595 run=24px extent=32px
+  glyph000751.png x=586 conf=0.7 run=20px extent=24px
+  glyph000795.png x=330 conf=0.88 run=38px extent=20px
+  glyph000800.png x=164 conf=0.634 run=30px extent=33px
+  glyph000844.png x=152 conf=0.642 run=36px extent=31px
+  glyph000845.png x=146 conf=0.999 run=60px extent=32px
+  glyph000911.png x=368 conf=0.654 run=26px extent=31px
+  glyph000917.png x=122 conf=0.988 run=132px extent=27px
+  glyph000917.png x=224 conf=0.672 run=26px extent=31px
+  glyph000920.png x=154 conf=1.0 run=56px extent=28px
+  glyph000920.png x=428 conf=0.712 run=32px extent=35px
+  glyph000926.png x=150 conf=0.57 run=26px extent=32px
+  glyph000933.png x=118 conf=0.653 run=22px extent=29px
+  glyph000943.png x=164 conf=0.754 run=36px extent=31px
+  glyph000997.png x=482 conf=0.655 run=28px extent=32px
+  glyph000997.png x=778 conf=0.953 run=70px extent=28px
+  glyph000026.png x=154 conf=0.82 run=32px extent=31px
+  glyph000026.png x=248 conf=0.74 run=24px extent=31px
+  glyph000029.png x=248 conf=0.645 run=24px extent=40px
+  glyph000060.png x=236 conf=0.647 run=22px extent=33px
+  glyph000105.png x=140 conf=0.741 run=28px extent=31px
+  glyph000141.png x=232 conf=0.746 run=30px extent=31px
+  glyph000283.png x=318 conf=0.652 run=20px extent=35px
+  glyph000344.png x=122 conf=0.574 run=20px extent=32px
+  glyph000344.png x=200 conf=0.614 run=24px extent=32px
+  glyph000542.png x=136 conf=0.445 run=22px extent=31px
+  glyph000645.png x=140 conf=0.771 run=32px extent=36px
+  glyph000743.png x=132 conf=0.595 run=24px extent=32px
+  glyph000846.png x=112 conf=0.81 run=32px extent=31px
+  glyph000846.png x=324 conf=0.85 run=36px extent=31px
+  glyph000897.png x=120 conf=0.674 run=28px extent=31px
+  glyph000897.png x=320 conf=0.614 run=24px extent=32px
+  glyph000990.png x=134 conf=0.764 run=32px extent=32px
+  glyph000990.png x=244 conf=0.704 run=26px extent=32px
+  glyph000999.png x=150 conf=0.789 run=32px extent=28px
+  glyph001017.png x=104 conf=0.615 run=24px extent=31px
+  glyph001017.png x=216 conf=0.635 run=26px extent=31px
+  glyph000077.png x=474 conf=0.669 run=24px extent=32px
+  glyph000148.png x=380 conf=1.0 run=186px extent=27px
+  glyph000301.png x=206 conf=0.72 run=22px extent=28px
+  glyph000301.png x=430 conf=1.0 run=52px extent=16px
+  glyph000301.png x=506 conf=0.961 run=110px extent=31px
+  glyph000310.png x=230 conf=0.769 run=34px extent=32px
+  glyph000439.png x=116 conf=0.516 run=36px extent=27px
+  glyph000461.png x=130 conf=0.43 run=20px extent=32px
+  glyph000461.png x=240 conf=0.654 run=40px extent=31px
+  glyph000470.png x=482 conf=0.666 run=58px extent=28px
+  glyph000530.png x=312 conf=0.851 run=110px extent=27px
+  glyph000544.png x=256 conf=0.48 run=28px extent=32px
+  glyph000544.png x=404 conf=0.725 run=60px extent=31px
+  glyph000555.png x=264 conf=0.485 run=26px extent=31px
+  glyph000564.png x=482 conf=0.685 run=28px extent=20px
+  glyph000564.png x=550 conf=0.667 run=70px extent=28px
+  glyph000603.png x=126 conf=1.0 run=78px extent=24px
+  glyph000603.png x=374 conf=0.593 run=26px extent=32px
+  glyph000603.png x=466 conf=0.96 run=46px extent=11px
+  glyph000603.png x=546 conf=0.917 run=112px extent=28px
+  glyph000639.png x=272 conf=0.606 run=20px extent=38px
+  glyph000663.png x=190 conf=0.76 run=26px extent=29px
+  glyph000774.png x=462 conf=1.0 run=114px extent=15px
+  glyph000849.png x=290 conf=0.84 run=34px extent=27px
+  glyph000985.png x=352 conf=0.525 run=22px extent=40px
+  glyph000985.png x=434 conf=1.0 run=90px extent=28px
+  glyph001001.png x=132 conf=0.713 run=28px extent=29px
+  glyph000229.png x=148 conf=0.611 run=22px extent=39px
+  glyph000229.png x=552 conf=1.0 run=162px extent=20px
+  glyph000234.png x=296 conf=0.98 run=48px extent=29px
+  glyph000234.png x=476 conf=0.595 run=22px extent=40px
+  glyph000251.png x=292 conf=0.982 run=70px extent=29px
+  glyph000266.png x=360 conf=0.672 run=20px extent=27px
+  glyph000304.png x=108 conf=1.0 run=178px extent=24px
+  glyph000308.png x=132 conf=0.724 run=28px extent=32px
+  glyph000308.png x=486 conf=0.585 run=28px extent=40px
+  glyph000308.png x=576 conf=0.961 run=150px extent=31px
+  glyph000321.png x=352 conf=0.719 run=24px extent=25px
+  glyph000321.png x=580 conf=0.94 run=44px extent=9px
+  glyph000328.png x=90 conf=0.955 run=134px extent=27px
+  glyph000351.png x=372 conf=0.475 run=20px extent=29px
+  glyph000417.png x=578 conf=0.851 run=102px extent=28px
+  glyph000488.png x=566 conf=0.611 run=34px extent=35px
+  glyph000601.png x=148 conf=0.425 run=20px extent=31px
+  glyph000646.png x=216 conf=0.94 run=44px extent=31px
+  glyph000646.png x=498 conf=0.844 run=44px extent=40px
+  glyph000662.png x=150 conf=0.678 run=26px extent=40px
+  glyph000662.png x=328 conf=0.615 run=24px extent=43px
+  glyph000662.png x=540 conf=0.88 run=38px extent=31px
+  glyph000664.png x=218 conf=0.984 run=90px extent=33px
+  glyph000664.png x=866 conf=1.0 run=64px extent=31px
+  glyph000702.png x=212 conf=0.86 run=36px extent=28px
+  glyph000715.png x=166 conf=0.813 run=36px extent=28px
+  glyph000835.png x=144 conf=0.626 run=34px extent=32px
+  glyph000847.png x=212 conf=0.76 run=26px extent=27px
+  glyph000847.png x=420 conf=0.7 run=20px extent=28px
+  glyph000945.png x=156 conf=0.772 run=36px extent=31px
+  glyph000971.png x=108 conf=0.996 run=58px extent=25px
+  glyph000971.png x=446 conf=0.715 run=36px extent=32px
+  glyph000981.png x=704 conf=0.933 run=88px extent=29px
+  glyph000983.png x=610 conf=0.574 run=26px extent=34px
+  glyph000149.png x=330 conf=0.729 run=30px extent=32px
+  glyph000151.png x=336 conf=0.755 run=32px extent=28px
+  glyph000220.png x=212 conf=0.676 run=20px extent=31px
+  glyph000264.png x=222 conf=0.78 run=28px extent=28px
+  glyph000424.png x=344 conf=0.654 run=22px extent=19px
+  glyph000424.png x=414 conf=0.406 run=24px extent=28px
+  glyph000455.png x=346 conf=1.0 run=136px extent=19px
+  glyph000697.png x=348 conf=1.0 run=140px extent=21px
+  glyph000734.png x=140 conf=0.634 run=24px extent=31px
+  glyph000759.png x=132 conf=0.531 run=20px extent=31px
+  glyph000064.png x=432 conf=0.929 run=68px extent=32px
+  glyph000064.png x=558 conf=0.74 run=24px extent=28px
+  glyph000079.png x=138 conf=0.852 run=38px extent=27px
+  glyph000079.png x=450 conf=0.714 run=34px extent=32px
+  glyph000228.png x=484 conf=0.86 run=36px extent=31px
+  glyph000228.png x=580 conf=0.7 run=20px extent=31px
+  glyph000250.png x=140 conf=0.69 run=20px extent=31px
+  glyph000250.png x=564 conf=0.764 run=34px extent=35px
+  glyph000360.png x=508 conf=0.522 run=24px extent=31px
+  glyph000386.png x=400 conf=0.576 run=24px extent=35px
+  glyph000479.png x=134 conf=0.47 run=22px extent=30px
+  glyph000665.png x=138 conf=0.799 run=30px extent=32px
+  glyph000665.png x=414 conf=0.899 run=40px extent=32px
+  glyph000665.png x=726 conf=0.657 run=22px extent=36px
+  glyph000665.png x=818 conf=0.999 run=152px extent=32px
+  glyph000746.png x=148 conf=0.693 run=36px extent=32px
+  glyph000746.png x=522 conf=0.573 run=24px extent=32px
+  glyph000910.png x=298 conf=0.853 run=40px extent=28px
+  glyph000023.png x=152 conf=0.92 run=42px extent=31px
+  glyph000042.png x=94 conf=1.0 run=78px extent=31px
+  glyph000042.png x=322 conf=0.84 run=34px extent=29px
+  glyph000066.png x=302 conf=0.84 run=34px extent=31px
+  glyph000082.png x=142 conf=1.0 run=112px extent=28px
+  glyph000082.png x=274 conf=0.637 run=20px extent=36px
+  glyph000165.png x=378 conf=0.784 run=36px extent=35px
+  glyph000167.png x=262 conf=0.671 run=20px extent=33px
+  glyph000217.png x=126 conf=1.0 run=140px extent=25px
+  glyph000217.png x=226 conf=0.738 run=30px extent=36px
+  glyph000217.png x=374 conf=0.88 run=38px extent=31px
+  glyph000227.png x=110 conf=1.0 run=116px extent=28px
+  glyph000227.png x=208 conf=0.9 run=40px extent=36px
+  glyph000227.png x=356 conf=1.0 run=52px extent=32px
+  glyph000293.png x=104 conf=1.0 run=124px extent=27px
+  glyph000293.png x=204 conf=0.92 run=42px extent=32px
+  glyph000293.png x=356 conf=0.96 run=46px extent=32px
+  glyph000303.png x=86 conf=0.969 run=104px extent=28px
+  glyph000313.png x=248 conf=0.687 run=20px extent=32px
+  glyph000334.png x=102 conf=0.56 run=26px extent=28px
+  glyph000358.png x=86 conf=0.874 run=50px extent=32px
+  glyph000358.png x=260 conf=0.633 run=20px extent=29px
+  glyph000442.png x=100 conf=0.785 run=90px extent=24px
+  glyph000462.png x=88 conf=0.505 run=28px extent=31px
+  glyph000462.png x=158 conf=0.64 run=34px extent=28px
+  glyph000543.png x=120 conf=0.443 run=24px extent=28px
+  glyph000567.png x=78 conf=0.827 run=70px extent=28px
+  glyph000669.png x=260 conf=0.639 run=20px extent=35px
+  glyph000672.png x=100 conf=0.969 run=114px extent=28px
+  glyph000770.png x=86 conf=0.917 run=92px extent=28px
+  glyph000803.png x=362 conf=0.614 run=26px extent=31px
+  glyph000842.png x=364 conf=0.44 run=24px extent=32px
+  glyph000848.png x=122 conf=1.0 run=138px extent=27px
+  glyph000848.png x=218 conf=0.88 run=38px extent=32px
+  glyph000848.png x=374 conf=0.84 run=34px extent=31px
+  glyph000877.png x=112 conf=1.0 run=118px extent=24px
+  glyph000877.png x=382 conf=0.471 run=20px extent=35px
+  glyph000881.png x=90 conf=0.732 run=138px extent=27px
+  glyph000887.png x=66 conf=0.8 run=54px extent=28px
+  glyph000894.png x=64 conf=0.917 run=126px extent=28px
+  glyph000909.png x=224 conf=0.692 run=24px extent=35px
+  glyph001006.png x=84 conf=0.969 run=90px extent=28px
+  glyph000046.png x=144 conf=1.0 run=68px extent=34px
+  glyph000183.png x=240 conf=0.7 run=20px extent=28px
+  glyph000216.png x=144 conf=0.999 run=56px extent=32px
+  glyph000270.png x=170 conf=0.574 run=20px extent=32px
+  glyph000286.png x=148 conf=1.0 run=52px extent=32px
+  glyph000330.png x=152 conf=0.553 run=22px extent=32px
+  glyph000723.png x=160 conf=0.486 run=20px extent=32px
+  glyph000841.png x=154 conf=0.588 run=28px extent=31px
+  glyph000919.png x=138 conf=0.574 run=20px extent=32px
+  glyph000106.png x=184 conf=0.833 run=44px extent=34px
+  glyph000117.png x=134 conf=0.979 run=48px extent=32px
+  glyph000117.png x=256 conf=0.78 run=28px extent=31px
+  glyph000206.png x=116 conf=0.654 run=26px extent=31px
+  glyph000206.png x=196 conf=0.594 run=20px extent=31px
+  glyph000373.png x=96 conf=0.874 run=102px extent=27px
+  glyph000640.png x=114 conf=0.725 run=28px extent=39px
+  glyph000651.png x=186 conf=0.74 run=24px extent=32px
+  glyph001021.png x=106 conf=0.649 run=22px extent=32px
+  glyph000118.png x=96 conf=0.635 run=26px extent=35px
+  glyph000676.png x=100 conf=0.601 run=26px extent=40px
+  glyph000275.png x=306 conf=0.833 run=52px extent=32px
+  glyph000352.png x=286 conf=0.51 run=20px extent=32px
+  glyph000460.png x=278 conf=0.698 run=44px extent=32px
+  glyph000529.png x=290 conf=0.62 run=42px extent=32px
+  glyph000721.png x=138 conf=0.57 run=26px extent=32px
+  glyph000895.png x=386 conf=1.0 run=64px extent=16px
+  glyph000895.png x=454 conf=0.851 run=104px extent=28px
+  glyph000913.png x=304 conf=0.808 run=52px extent=31px
+  glyph001050.png x=258 conf=0.633 run=30px extent=32px
+  glyph000144.png x=198 conf=0.853 run=40px extent=28px
+  glyph000186.png x=122 conf=0.595 run=22px extent=32px
+  glyph000236.png x=146 conf=0.82 run=32px extent=28px
+  glyph000869.png x=142 conf=0.518 run=26px extent=32px
+  glyph000142.png x=236 conf=0.673 run=22px extent=28px
+  glyph000142.png x=526 conf=0.556 run=24px extent=35px
+  glyph000370.png x=350 conf=0.655 run=22px extent=28px
+  glyph000786.png x=236 conf=0.498 run=24px extent=32px
+  glyph000763.png x=154 conf=0.552 run=24px extent=33px
+  glyph000140.png x=130 conf=0.893 run=52px extent=32px
+  glyph000392.png x=150 conf=1.0 run=174px extent=28px
+
+cluster       size    sim  conf mixed  type / representative
+updated_000    192 0.8836  0.22   YES  word segment / sub000186.png
+updated_001     29 0.8684  0.12   YES  word segment / sub000905.png
+updated_002     34 0.8559  0.04   YES  word segment / sub000747.png
+updated_003     17  0.851  0.01   YES  word segment / sub000570.png
+updated_004     20 0.8762  0.17   YES  word segment / sub000539.png
+updated_005      1    1.0   1.0     -  word segment / sub001030.png
+updated_006      1    1.0   1.0     -  word segment / sub001072.png
+updated_007      2 0.9548   0.7     -  unknown / sub000060.png
+updated_008      4 0.9043  0.36     -  letter candidate / sub000005.png
+updated_009      2 0.9826  0.88     -  letter candidate / sub000951.png
+updated_010      4 0.9168  0.45     -  word segment / sub000500.png
+updated_011     56  0.866  0.11   YES  word segment / sub000985.png
+updated_012     49 0.8536  0.02   YES  word segment / sub000709.png
+updated_013     45 0.8674  0.12   YES  unknown / sub000725.png
+updated_014     20 0.8843  0.23   YES  unknown / sub001046.png
+updated_015      1    1.0   1.0     -  unknown / sub000816.png
+updated_016      2 0.9968  0.98     -  unknown / sub001003.png
+updated_017      3  0.921  0.47     -  unknown / sub000830.png
+updated_018      1    1.0   1.0     -  unknown / sub000801.png
+updated_019      3 0.9505  0.67     -  word segment / sub001053.png
+updated_020      2 0.9946  0.96     -  letter candidate / sub001048.png
+updated_021      3 0.9236  0.49     -  unknown / sub001068.png
+updated_022    146  0.886  0.24   YES  letter candidate / sub000870.png
+updated_023      4 0.9141  0.43     -  letter candidate / sub000679.png
+updated_024      4  0.922  0.48     -  letter candidate / sub000173.png
+updated_025     20 0.8858  0.24   YES  letter candidate / sub000903.png
+updated_026     35 0.8558  0.04   YES  letter candidate / sub000262.png
+updated_027     10  0.943  0.62     -  letter candidate / sub000082.png
+updated_028     38 0.8758  0.17   YES  letter candidate / sub000849.png
+updated_029     27 0.8855  0.24   YES  letter candidate / sub000643.png
+updated_030     15 0.8657   0.1   YES  letter candidate / sub000629.png
+updated_031      2 0.9298  0.53     -  letter candidate / sub000170.png
+updated_032     10 0.9097   0.4     -  letter candidate / sub000638.png
+updated_033      4 0.8799   0.2   YES  unknown / sub000624.png
+updated_034     10 0.9371  0.58     -  letter candidate / sub000999.png
+updated_035      6 0.9581  0.72     -  letter candidate / sub000580.png
+updated_036      2 0.9514  0.68     -  letter candidate / sub000990.png
+updated_037      3 0.8945   0.3     -  letter candidate / sub000363.png
+updated_038     12  0.911  0.41   YES  unknown / sub000817.png
+updated_039      6 0.9029  0.35     -  letter candidate / sub000915.png
+updated_040      5 0.9221  0.48     -  letter candidate / sub001060.png
+updated_041     11 0.9126  0.42     -  word segment / sub000011.png
+updated_042      1    1.0   1.0     -  letter candidate / sub000130.png
+updated_043      1    1.0   1.0     -  letter candidate / sub000423.png
+updated_044      6 0.9582  0.72     -  letter candidate / sub000756.png
+updated_045     11 0.9122  0.41   YES  letter candidate / sub001010.png
+updated_046      8 0.9622  0.75     -  letter candidate / sub000823.png
+updated_047      6 0.8959  0.31     -  letter candidate / sub000997.png
+updated_048      2 0.9613  0.74     -  letter candidate / sub000948.png
+updated_049     76 0.8944   0.3   YES  letter candidate / sub000449.png
+updated_050     20  0.921  0.47     -  letter candidate / sub000466.png
+updated_051     66 0.8607  0.07   YES  letter candidate / sub000099.png
+updated_052     14 0.9304  0.54     -  letter candidate / sub000169.png
+updated_053      1    1.0   1.0     -  letter candidate / sub001073.png
+updated_054      1    1.0   1.0     -  letter candidate / sub001071.png
+updated_055    318 0.9385  0.59     -  diacritic / glyph000267.png
+updated_056     60 0.9623  0.75     -  letter candidate / glyph000044.png
+updated_057     43 0.9541  0.69     -  letter fragment / glyph000607.png
+updated_058     34 0.9439  0.63     -  diacritic / glyph000988.png
+updated_059      8  0.909  0.39     -  letter fragment / glyph000788.png
+updated_060      8 0.8844  0.23   YES  letter candidate / glyph001009.png
+updated_061      5  0.915  0.43     -  letter candidate / glyph000317.png
+updated_062      4 0.9516  0.68     -  letter candidate / glyph000791.png
+updated_063      3 0.9363  0.58     -  letter candidate / glyph000637.png
+updated_064      1    1.0   1.0     -  letter candidate / glyph000213.png
+updated_065      1    1.0   1.0     -  punctuation-like mark / glyph000446.png
+updated_066      1    1.0   1.0     -  punctuation-like mark / glyph000453.png
+updated_067      1    1.0   1.0     -  letter candidate / glyph000728.png

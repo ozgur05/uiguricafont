@@ -1,0 +1,50 @@
+Attestation inventory - production 14, draft 4, invalid 1
+
+cluster       glyph/group                    n words status                 reasons
+updated_010   [group of 1]                   4     4 production             
+updated_030   [group of 5]                  15    15 production             
+updated_039   [group of 10]                  6     6 production             
+updated_040   wawuyg.medi                    5     5 production             
+updated_041   tawuyg.medi                   11    11 production             
+updated_046   [group of 2]                   8     8 production             
+updated_047   [group of 2]                   6     6 production             
+updated_049   [group of 4]                  76    76 production             
+updated_050   [group of 1]                  20    20 production             
+updated_051   [group of 3]                  66    54 production             
+updated_052   zayinuyg.fina                 14    14 invalid-attestations   right-joining letter with interior attestations: {'medial': 1}
+updated_053   zayinuyg.fina                  1     1 draft                  only 1 attestation(s), need >= 3
+updated_054   sadheuyg.init                  1     1 draft                  only 1 attestation(s), need >= 3
+updated_060   [group of 4]                   8     0 production             all attestations from a single word (?)
+updated_061   [group of 1]                   5     0 production             all attestations from a single word (?)
+updated_062   peuyg.fina                     4     0 production             all attestations from a single word (?)
+updated_063   zayinuyg.fina                  3     0 production             all attestations from a single word (?)
+updated_064   [group of 1]                   1     0 draft                  only 1 attestation(s), need >= 3
+updated_067   [group of 3]                   1     0 draft                  only 1 attestation(s), need >= 3
+
+CODEPOINT LEDGER
+  U+10F70 ambiguous_only  resolve group via word context (7.3)
+  U+10F71 ambiguous_only  resolve group via word context (7.3)
+  U+10F72 ambiguous_only  resolve group via word context (7.3)
+  U+10F73 direct          OK
+  U+10F74 direct          harvest more attestations (7.2)
+  U+10F75 ambiguous_only  resolve group via word context (7.3)
+  U+10F76 ambiguous_only  resolve group via word context (7.3)
+  U+10F77 ambiguous_only  resolve group via word context (7.3)
+  U+10F78 missing         targeted re-harvest from word clusters (7.2)
+  U+10F79 ambiguous_only  resolve group via word context (7.3)
+  U+10F7A missing         targeted re-harvest from word clusters (7.2)
+  U+10F7B missing         targeted re-harvest from word clusters (7.2)
+  U+10F7C direct          OK
+  U+10F7D direct          harvest more attestations (7.2)
+  U+10F7E ambiguous_only  resolve group via word context (7.3)
+  U+10F7F missing         targeted re-harvest from word clusters (7.2)
+  U+10F80 direct          OK
+  U+10F81 ambiguous_only  resolve group via word context (7.3)
+  U+10F82 missing         targeted re-harvest from word clusters (7.2)
+  U+10F83 missing         targeted re-harvest from word clusters (7.2)
+  U+10F84 missing         targeted re-harvest from word clusters (7.2)
+  U+10F85 missing         targeted re-harvest from word clusters (7.2)
+  U+10F86 missing         targeted re-harvest from word clusters (7.2)
+  U+10F87 missing         targeted re-harvest from word clusters (7.2)
+  U+10F88 missing         targeted re-harvest from word clusters (7.2)
+  U+10F89 missing         targeted re-harvest from word clusters (7.2)
