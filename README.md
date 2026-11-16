@@ -1,5 +1,7 @@
 # Uigurica
 
+![HarfBuzz Test Report](Pages-from-ugurica-regular-HarfBuzz-Test-Report.png)
+
 A professional Unicode Old Uyghur font project based on the printed forms used by
 F. W. K. Müller in *Uigurica I* (1908).
 
